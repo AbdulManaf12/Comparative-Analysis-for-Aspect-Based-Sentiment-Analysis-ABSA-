@@ -1,0 +1,67 @@
+sentence Id,sentence,aspect_category,aspect_term,from,to,polarity
+1090587:1,If you've ever been along the river in Weehawken you have an idea of the top of view the chart house has to offer.,LOCATION#GENERAL,view,80,84,positive
+1090587:2,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,SERVICE#GENERAL,service,18,25,positive
+1090587:2,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,FOOD#QUALITY,food,36,40,positive
+1090587:2,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,FOOD#PRICES,food,36,40,positive
+1090587:3,The lava cake dessert was incredible and I recommend it.,FOOD#QUALITY,lava cake dessert,4,21,positive
+1661043:0,Pizza here is consistently good.,FOOD#QUALITY,Pizza,0,5,positive
+1661043:1,Salads are a delicious way to begin the meal.,FOOD#QUALITY,Salads,0,6,positive
+1661043:2,You should pass on the calamari.,FOOD#QUALITY,calamari,23,31,negative
+1661043:3,It is thick and slightly soggy.,FOOD#QUALITY,NULL,0,0,negative
+1661043:4,Decor is charming.,AMBIENCE#GENERAL,Decor,0,5,positive
+1661043:5,Service is average.,SERVICE#GENERAL,Service,0,7,neutral
+1349391:0,sometimes i get good food and ok service.,FOOD#QUALITY,food,21,25,positive
+1349391:0,sometimes i get good food and ok service.,SERVICE#GENERAL,service,33,40,neutral
+1349391:1,"sometimes i get bad food and bad service, sometimes i get good good and bad service.",FOOD#QUALITY,food,20,24,negative
+1349391:1,"sometimes i get bad food and bad service, sometimes i get good good and bad service.",SERVICE#GENERAL,service,33,40,negative
+1349391:1,"sometimes i get bad food and bad service, sometimes i get good good and bad service.",SERVICE#GENERAL,service,76,83,negative
+1349391:1,"sometimes i get bad food and bad service, sometimes i get good good and bad service.",FOOD#QUALITY,good,63,67,positive
+1349391:2,it is not consistent.,RESTAURANT#GENERAL,NULL,0,0,negative
+1357554:0,I started out with a Bombay beer which was big enough for two.,DRINKS#STYLE_OPTIONS,Bombay beer,21,32,positive
+1357554:2,MMmmm... it was delicious.,FOOD#QUALITY,NULL,0,0,positive
+1357554:3,"Service was slow, but the people were friendly.",SERVICE#GENERAL,Service,0,7,negative
+1357554:3,"Service was slow, but the people were friendly.",SERVICE#GENERAL,people,26,32,positive
+1357554:4,It's a nice place to relax and have conversation.,AMBIENCE#GENERAL,place,12,17,positive
+1357554:5,I can't wait to go back.,RESTAURANT#GENERAL,NULL,0,0,positive
+1730014:1,"Service here was great, food was fantastic.",SERVICE#GENERAL,Service,0,7,positive
+1730014:1,"Service here was great, food was fantastic.",FOOD#QUALITY,food,24,28,positive
+1730014:2,"Guacamole+shrimp appetizer was really great, we both had the filet, very good, didn't much like the frites that came with, but the filet was so good, neither of us cared.",FOOD#QUALITY,Guacamole+shrimp appetizer,0,26,positive
+1730014:2,"Guacamole+shrimp appetizer was really great, we both had the filet, very good, didn't much like the frites that came with, but the filet was so good, neither of us cared.",FOOD#QUALITY,filet,61,66,positive
+1730014:2,"Guacamole+shrimp appetizer was really great, we both had the filet, very good, didn't much like the frites that came with, but the filet was so good, neither of us cared.",FOOD#QUALITY,frites,100,106,negative
+1730014:3,Will absolutely visit again.,RESTAURANT#GENERAL,NULL,0,0,positive
+1500453:1,This quaint and romantic trattoria is at the top of my Manhattan restaurant list.,AMBIENCE#GENERAL,trattoria,25,34,positive
+1500453:1,This quaint and romantic trattoria is at the top of my Manhattan restaurant list.,RESTAURANT#GENERAL,trattoria,25,34,positive
+1500453:2,"The food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment.",FOOD#QUALITY,food,4,8,positive
+1500453:2,"The food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment.",FOOD#QUALITY,dishes,72,78,positive
+1500453:2,"The food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment.",FOOD#QUALITY,specials,33,41,positive
+1500453:2,"The food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment.",FOOD#QUALITY,regular menu-fare,49,66,positive
+1500453:3,"Whether it's the parmesean porcini souffle or the lamb glazed with balsamic vinegar, you will surely be transported to Northern Italy with one bite.",FOOD#QUALITY,parmesean porcini souffle,17,42,positive
+1500453:3,"Whether it's the parmesean porcini souffle or the lamb glazed with balsamic vinegar, you will surely be transported to Northern Italy with one bite.",FOOD#QUALITY,lamb glazed with balsamic vinegar,50,83,positive
+1500453:4,"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.",AMBIENCE#GENERAL,candle-light,49,61,positive
+1500453:4,"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.",FOOD#QUALITY,food,63,67,positive
+1500453:4,"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.",SERVICE#GENERAL,service,80,87,positive
+1500453:4,"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.",AMBIENCE#GENERAL,tables,13,19,negative
+1500453:5,A guaranteeed delight!,RESTAURANT#GENERAL,NULL,0,0,positive
+505535:0,this little place has a cute interior decor and affordable city prices.,AMBIENCE#GENERAL,interior decor,29,43,positive
+505535:0,this little place has a cute interior decor and affordable city prices.,RESTAURANT#PRICES,place,12,17,positive
+505535:1,"the pad se ew chicken was delicious, however the pad thai was far too oily.",FOOD#QUALITY,pad se ew chicken,4,21,positive
+505535:1,"the pad se ew chicken was delicious, however the pad thai was far too oily.",FOOD#QUALITY,pad thai,49,57,negative
+1016296:0,I was very disappointed with this restaurant.,RESTAURANT#GENERAL,restaurant,34,44,negative
+1016296:1,Ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away.,SERVICE#GENERAL,cart attendant,12,26,negative
+1016296:2,I had to ask her three times before she finally came back with the dish Ive requested.,SERVICE#GENERAL,NULL,0,0,negative
+1016296:3,"Food was okay, nothing great.",FOOD#QUALITY,Food,0,4,neutral
+1016296:4,Chow fun was dry; pork shu mai was more than usually greasy and had to share a table with loud and rude family.,FOOD#QUALITY,Chow fun,0,8,negative
+1016296:4,Chow fun was dry; pork shu mai was more than usually greasy and had to share a table with loud and rude family.,FOOD#QUALITY,pork shu mai,18,30,negative
+1016296:4,Chow fun was dry; pork shu mai was more than usually greasy and had to share a table with loud and rude family.,RESTAURANT#MISCELLANEOUS,NULL,0,0,negative
+1016296:5,I/we will never go back to this place again.,RESTAURANT#GENERAL,place,32,37,negative
+Z#3:0,"Excellent food, although the interior could use some help.",FOOD#QUALITY,food,10,14,positive
+Z#3:0,"Excellent food, although the interior could use some help.",AMBIENCE#GENERAL,interior,29,37,negative
+Z#3:1,"The space kind of feels like an Alice in Wonderland setting, without it trying to be that.",AMBIENCE#GENERAL,space,4,9,negative
+Z#3:2,"I paid just about $60 for a good meal, though :)",FOOD#QUALITY,meal,33,37,positive
+Z#3:2,"I paid just about $60 for a good meal, though :)",FOOD#PRICES,meal,33,37,positive
+Z#3:3,Great sake!,DRINKS#QUALITY,sake,6,10,positive
+PP#9:0,Way below average,RESTAURANT#GENERAL,NULL,0,0,negative
+PP#9:1,I think the pizza is so overrated and was under cooked.,FOOD#QUALITY,pizza,12,17,negative
+PP#9:2,Had no flavor and the staff is rude and not attentive.,SERVICE#GENERAL,staff,22,27,negative
+PP#9:2,Had no flavor and the staff is rude and not attentive.,FOOD#QUALITY,NULL,0,0,negative
+PP#9:3,Would NEVER go back,RESTAURANT#GENERAL,NULL,0,0,negative

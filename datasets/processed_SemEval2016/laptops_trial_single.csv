@@ -1,0 +1,65 @@
+sentence,aspect_category,polarity
+"Most everything is fine with this machine: speed, capacity, build.",LAPTOP#GENERAL,positive
+"Most everything is fine with this machine: speed, capacity, build.",LAPTOP#OPERATION_PERFORMANCE,positive
+"Most everything is fine with this machine: speed, capacity, build.",HARD_DISC#DESIGN_FEATURES,positive
+"Most everything is fine with this machine: speed, capacity, build.",LAPTOP#QUALITY,positive
+"The only thing I don't understand is that the resolution of the screen isn't high enough for some pages, such as Yahoo!Mail.",DISPLAY#QUALITY,negative
+"I love the size, keyboard, the functions.",LAPTOP#DESIGN_FEATURES,positive
+"I love the size, keyboard, the functions.",KEYBOARD#GENERAL,positive
+"I love the size, keyboard, the functions.",LAPTOP#OPERATION_PERFORMANCE,positive
+I don't really have a complaint.,LAPTOP#GENERAL,positive
+"It is easy to use, good quality and good price.",LAPTOP#USABILITY,positive
+"It is easy to use, good quality and good price.",LAPTOP#QUALITY,positive
+"It is easy to use, good quality and good price.",LAPTOP#PRICE,positive
+Perfect trifecta!,LAPTOP#GENERAL,positive
+I would recommend this product.,LAPTOP#GENERAL,positive
+"I love this product because it is Toshiba and its 15.6"".",LAPTOP#GENERAL,positive
+"I love this product because it is Toshiba and its 15.6"".",LAPTOP#DESIGN_FEATURES,positive
+"I love this product because it is Toshiba and its 15.6"".",COMPANY#GENERAL,positive
+"It has no camera but, I can always buy and install one easy.",LAPTOP#DESIGN_FEATURES,neutral
+"I had a USB connect but, i can't use it because it is not compatible.",LAPTOP#USABILITY,negative
+That's the downside for me.,LAPTOP#USABILITY,negative
+"But, I would recommend this product.",LAPTOP#GENERAL,positive
+I bought this laptop Was the worst Laptop I've ever bought.,LAPTOP#GENERAL,negative
+I spent alot of money on this product and its been a nightmare.,LAPTOP#PRICE,negative
+I spent alot of money on this product and its been a nightmare.,LAPTOP#GENERAL,negative
+And having to deal with the company has been a even worse nightmare.,SUPPORT#QUALITY,negative
+They sent it back with a huge crack in it and it still didn't work.,SUPPORT#QUALITY,negative
+And that was the fourth time ive sent it to them to get fixed.,SUPPORT#QUALITY,negative
+Its been a year and am still waiting to see what there going to do about my laptop.,SUPPORT#QUALITY,negative
+So if anyones looking to buy a computer or laptop you should stay far far away from any that have the name TOSHIBA on it...,COMPANY#GENERAL,negative
+"So far, a great product.",LAPTOP#GENERAL,positive
+"High price tag, however.",LAPTOP#PRICE,negative
+Still trying to learn how to use it.,LAPTOP#USABILITY,neutral
+"Yes, I thought the expese was a little much, but I now realize you get what you pay for.",LAPTOP#PRICE,negative
+"Yes, I thought the expese was a little much, but I now realize you get what you pay for.",LAPTOP#GENERAL,positive
+"I love my Apple, it is quick and easy to use.",LAPTOP#GENERAL,positive
+"I love my Apple, it is quick and easy to use.",LAPTOP#OPERATION_PERFORMANCE,positive
+"I love my Apple, it is quick and easy to use.",LAPTOP#USABILITY,positive
+"I've had to call Apple support to set up my new printer and have had wonderful experiences with helpful, english speaking (from Vancouver) techs that walked me through the processes to help me.",SUPPORT#QUALITY,positive
+I can't say enough of how satisfied I am with their product and help aftermarket.,LAPTOP#GENERAL,positive
+I can't say enough of how satisfied I am with their product and help aftermarket.,SUPPORT#QUALITY,positive
+Money and time well spent!,LAPTOP#GENERAL,positive
+Money and time well spent!,LAPTOP#PRICE,positive
+Highly recommended!,LAPTOP#GENERAL,positive
+This laptop is a great price and has a sleek look.,LAPTOP#PRICE,positive
+This laptop is a great price and has a sleek look.,LAPTOP#DESIGN_FEATURES,positive
+Runs smooth and quick.,LAPTOP#OPERATION_PERFORMANCE,positive
+"I wish it had a webcam though, then it would be perfect!",LAPTOP#DESIGN_FEATURES,negative
+"I wish it had a webcam though, then it would be perfect!",LAPTOP#GENERAL,positive
+"HP Pavilion DV9000 Notebook PC      When I first got this computer, it really rocked.",LAPTOP#GENERAL,positive
+But as time went on I found it almost impossible to keep the thing on-line through wi-fi.,LAPTOP#CONNECTIVITY,negative
+Eventually the screen went blank and the computer would not turn on.,DISPLAY#OPERATION_PERFORMANCE,negative
+Eventually the screen went blank and the computer would not turn on.,LAPTOP#OPERATION_PERFORMANCE,negative
+Guess I'll stay away from HP.,COMPANY#GENERAL,negative
+Great price and computer!,LAPTOP#PRICE,positive
+Great price and computer!,LAPTOP#GENERAL,positive
+They loved it.,LAPTOP#GENERAL,positive
+"It's easy to operate and it's very light (my parents are almost 60 yo, they can't carry a heavy computer while traveling).",LAPTOP#USABILITY,positive
+"It's easy to operate and it's very light (my parents are almost 60 yo, they can't carry a heavy computer while traveling).",LAPTOP#DESIGN_FEATURES,positive
+"It's easy to operate and it's very light (my parents are almost 60 yo, they can't carry a heavy computer while traveling).",LAPTOP#PORTABILITY,positive
+"But here's something I hadn't realized before buying it: there isn't an optical drive, which means NO CDs or DVDs!",LAPTOP#DESIGN_FEATURES,negative
+I have loved this since i took it out of the box.,LAPTOP#GENERAL,positive
+The battery is really long.,BATTERY#OPERATION_PERFORMANCE,positive
+"the features are great, the only thing it needs is better speakers.",LAPTOP#DESIGN_FEATURES,positive
+"the features are great, the only thing it needs is better speakers.",MULTIMEDIA_DEVICES#GENERAL,negative
