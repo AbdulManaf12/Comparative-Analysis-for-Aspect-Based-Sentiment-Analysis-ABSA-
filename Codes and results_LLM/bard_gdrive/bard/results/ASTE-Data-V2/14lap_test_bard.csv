@@ -1,0 +1,656 @@
+"Boot time is super fast , around anywhere from 35 seconds to 1 minute .",['Boot time'],['fast'],['POS'],"aspect: ['boot time']
+Sentiment: ['Positive']",: ['boot time'],: ['Positive']
+tech support would not fix the problem unless I bought your plan for $ 150 plus .,['tech support'],['not fix'],['NEG'],"aspect: ['plan', 'support']
+Sentiment: ['Negative', 'Negative']",": ['plan', 'support']",": ['Negative', 'Negative']"
+Set up was easy .,['Set up'],['easy'],['POS'],"aspect: ['set up']
+Sentiment: ['Positive']",: ['set up'],: ['Positive']
+Did not enjoy the new Windows 8 and touchscreen functions .,"['Windows 8', 'touchscreen functions']","['not enjoy', 'not enjoy']","['NEG', 'NEG']","aspect: ['functions', 'windows 8']
+Sentiment: ['Negative', 'Negative']",": ['functions', 'windows 8']",": ['Negative', 'Negative']"
+"Other than not being a fan of click pads ( industry standard these days ) and the lousy internal speakers , it 's hard for me to find things about this notebook I do n't like , especially considering the $ 350 price tag .",['internal speakers'],['lousy'],['NEG'],"aspect: ['price', 'speakers', 'pad']
+Sentiment: ['Positive', 'Negative', 'Negative']",": ['price', 'speakers', 'pad']",": ['Positive', 'Negative', 'Negative']"
+"It 's fast , light , and simple to use .","['use', 'use', 'use']","['fast', 'light', 'simple']","['POS', 'POS', 'POS']","aspect: ['speed', 'weight', 'usability']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['speed', 'weight', 'usability']",": ['Positive', 'Positive', 'Positive']"
+"Works well , and I am extremely happy to be back to an apple OS .","['Works', 'apple OS']","['well', 'happy']","['POS', 'POS']","aspect: ['OS', 'works']
+Sentiment: ['Positive', 'Positive']",": ['OS', 'works']",": ['Positive', 'Positive']"
+Sure it 's not light and slim but the features make up for it 100 % .,['features'],['not light and slim'],['POS'],"aspect: ['features', 'weight']
+Sentiment: ['Positive', 'Negative']",": ['features', 'weight']",": ['Positive', 'Negative']"
+"I am pleased with the fast log on , speedy WiFi connection and the long battery life ( > 6 hrs ) .","['log on', 'log on', 'WiFi connection', 'WiFi connection', 'battery life', 'battery life']","['pleased', 'fast', 'pleased', 'speedy', 'pleased', 'long']","['POS', 'POS', 'POS', 'POS', 'POS', 'POS']","aspect: ['battery_life', 'connection', 'log_on']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['battery_life', 'connection', 'log_on']",": ['Positive', 'Positive', 'Positive']"
+The Apple engineers have not yet discovered the delete key .,['delete key'],['not yet discovered'],['NEG'],"aspect: ['delete key', 'engineers']
+Sentiment: ['Negative', 'Negative']",": ['delete key', 'engineers']",": ['Negative', 'Negative']"
+Made interneting ( part of my business ) very difficult to maintain .,['interneting'],['difficult'],['NEG'],"aspect: ['internet', 'business']
+Sentiment: ['Negative', 'Negative']",": ['internet', 'business']",": ['Negative', 'Negative']"
+"Luckily , for all of us contemplating the decision , the Mac Mini is priced just right .",['priced'],['right'],['POS'],"aspect: ['price']
+Sentiment: ['Positive']",: ['price'],: ['Positive']
+"Only problem that I had was that the track pad was not very good for me , I only had a problem once or twice with it , But probably my computer was a bit defective .",['track pad'],['not very good'],['NEG'],"aspect: ['trackpad', 'computer']
+Sentiment: ['Negative', 'Negative']",": ['trackpad', 'computer']",": ['Negative', 'Negative']"
+It is super fast and has outstanding graphics .,['graphics'],['outstanding'],['POS'],"aspect: ['graphics', 'speed']
+Sentiment: ['Positive', 'Positive']",": ['graphics', 'speed']",": ['Positive', 'Positive']"
+But the mountain lion is just too slow .,['mountain lion'],['slow'],['NEG'],"aspect: ['speed']
+Sentiment: ['Negative']",: ['speed'],: ['Negative']
+Strong build though which really adds to its durability .,"['durability', 'build']","['Strong', 'Strong']","['POS', 'POS']","aspect: ['build', 'durability']
+Sentiment: ['Positive', 'Positive']",": ['build', 'durability']",": ['Positive', 'Positive']"
+The battery life is excellent -- 6-7 hours without charging .,['battery life'],['excellent'],['POS'],"aspect: ['battery life']
+Sentiment: ['Positive']",: ['battery life'],: ['Positive']
+I 've had my computer for 2 weeks already and it works perfectly .,['works'],['perfectly'],['POS'],"aspect: ['computer', 'performance']
+Sentiment: ['Positive', 'Positive']",": ['computer', 'performance']",": ['Positive', 'Positive']"
+And I may be the only one but I am really liking Windows 8 .,['Windows 8'],['liking'],['POS'],"aspect: ['like']
+Sentiment: ['Positive']",: ['like'],: ['Positive']
+The baterry is very longer .,['baterry'],['longer'],['POS'],"aspect: ['battery']
+Sentiment: ['Positive']",: ['battery'],: ['Positive']
+Its size is ideal and the weight is acceptable .,"['size', 'weight']","['ideal', 'acceptable']","['POS', 'POS']","aspect: ['size', 'weight']
+Sentiment: ['Positive', 'Positive']",": ['size', 'weight']",": ['Positive', 'Positive']"
+I can say that I am fully satisfied with the performance that the computer has supplied .,['performance'],['satisfied'],['POS'],"aspect: ['performance']
+Sentiment: ['Positive']",: ['performance'],: ['Positive']
+It has so much more speed and the screen is very sharp .,"['speed', 'screen']","['much more', 'sharp']","['POS', 'POS']","aspect: ['speed', 'screen']
+Sentiment: ['Positive', 'Positive']",": ['speed', 'screen']",": ['Positive', 'Positive']"
+Everything I wanted and everything I needed and the price was great !,['price'],['great'],['POS'],"aspect: ['price', 'need', 'want']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['price', 'need', 'want']",": ['Positive', 'Positive', 'Positive']"
+It 's not inexpensive but the Hardware performance is impressive for a computer this small .,['Hardware performance'],['impressive'],['POS'],"aspect: ['price', 'performance']
+Sentiment: ['Negative', 'Positive']",": ['price', 'performance']",": ['Negative', 'Positive']"
+"This thing is awesome , everything always works , everything is always easy to set up , everything is compatible , its literally everything I could ask for .","['works', 'set up']","['always', 'easy']","['POS', 'POS']","aspect: ['compatibility', 'ease of use', 'performance']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['compatibility', 'ease of use', 'performance']",": ['Positive', 'Positive', 'Positive']"
+Keyboard responds well to presses .,['Keyboard'],['responds well'],['POS'],"aspect: ['Keyboard']
+Sentiment: ['Positive']",: ['Keyboard'],: ['Positive']
+"Lastly , Windows 8 is annoying .",['Windows 8'],['annoying'],['NEG'],"aspect: ['Windows 8']
+Sentiment: ['Negative']",: ['Windows 8'],: ['Negative']
+Everything is so easy and intuitive to setup or configure .,"['setup', 'setup', 'configure', 'configure']","['easy', 'intuitive', 'easy', 'intuitive']","['POS', 'POS', 'POS', 'POS']","aspect: ['setup', 'intuitive']
+Sentiment: ['Positive', 'Positive']",": ['setup', 'intuitive']",": ['Positive', 'Positive']"
+Biggest complaint is Windows 8 .,['Windows 8'],['complaint'],['NEG'],"aspect: ['windows 8']
+Sentiment: ['Negative']",: ['windows 8'],: ['Negative']
+Only 2 usb ports ... seems kind of ... limited .,['usb ports'],['limited'],['NEG'],"aspect: ['ports', 'usb']
+Sentiment: ['Negative', 'Negative']",": ['ports', 'usb']",": ['Negative', 'Negative']"
+It has all the expected features and more +plus a wide screen and more than roomy keyboard .,"['features', 'screen', 'keyboard']","['expected', 'wide', 'roomy']","['POS', 'POS', 'POS']","aspect: ['features', 'keyboard', 'screen']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['features', 'keyboard', 'screen']",": ['Positive', 'Positive', 'Positive']"
+Amazing Performance for anything I throw at it .,['Performance'],['Amazing'],['POS'],"aspect: ['Performance']
+Sentiment: ['Positive']",: ['Performance'],: ['Positive']
+The receiver was full of superlatives for the quality and performance .,"['quality', 'performance']","['superlatives', 'superlatives']","['POS', 'POS']","aspect: ['performance', 'quality']
+Sentiment: ['Positive', 'Positive']",": ['performance', 'quality']",": ['Positive', 'Positive']"
+I was extremely happy with the OS itself .,['OS'],['happy'],['POS'],"aspect: ['OS']
+Sentiment: ['Positive']",: ['OS'],: ['Positive']
+The new MBP offers great portability and gives us confidence that we are not going to need to purchase a new laptop in 18 months .,['portability'],['great'],['POS'],"aspect: ['portability', 'durability']
+Sentiment: ['Positive', 'Positive']",": ['portability', 'durability']",": ['Positive', 'Positive']"
+"The criticism has waned , and now I 'd be the first to recommend an Air for truly portable computing .","['portable computing', 'portable computing']","['recommend', 'truly']","['POS', 'POS']","aspect: ['computing', 'portability']
+Sentiment: ['Positive', 'Positive']",": ['computing', 'portability']",": ['Positive', 'Positive']"
+"MS Office 2011 for Mac is wonderful , well worth it .","['MS Office 2011 for Mac', 'MS Office 2011 for Mac']","['wonderful', 'well worth']","['POS', 'POS']","aspect: ['worth', 'value']
+Sentiment: ['Positive', 'Positive']",": ['worth', 'value']",": ['Positive', 'Positive']"
+But the performance of Mac Mini is a huge disappointment .,['performance'],['disappointment'],['NEG'],"aspect: ['performance']
+Sentiment: ['Negative']",: ['performance'],: ['Negative']
+They do n't just look good ; they deliver excellent performance .,"['look', 'performance']","['good', 'excellent']","['POS', 'POS']","aspect: ['look', 'performance']
+Sentiment: ['Positive', 'Positive']",": ['look', 'performance']",": ['Positive', 'Positive']"
+I have had it over a year now with out a Glitch of any kind..I love the lit up keys and screen display ... this thing is Fast and clear as can be .,"['lit up keys', 'lit up keys', 'lit up keys', 'screen display', 'screen display', 'screen display']","['love', 'Fast', 'clear', 'love', 'Fast', 'clear']","['POS', 'POS', 'POS', 'POS', 'POS', 'POS']","aspect: ['glitch', 'speed', 'display']
+Sentiment: ['negative', 'positive', 'positive']",": ['glitch', 'speed', 'display']",": ['negative', 'positive', 'positive']"
+The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows .,"['Mountain Lion OS', 'Microsoft Windows']","['not hard', 'familiar']","['POS', 'NEU']","aspect: ['difficulty', 'familiarity']
+Sentiment: ['Positive', 'Positive']",": ['difficulty', 'familiarity']",": ['Positive', 'Positive']"
+"However , I can refute that OSX is `` FAST '' .",['OSX'],['FAST'],['NEG'],"aspect: ['speed']
+Sentiment: ['Negative']",: ['speed'],: ['Negative']
+Enjoy using Microsoft Office !,['Microsoft Office'],['Enjoy'],['POS'],"aspect: ['enjoyment']
+Sentiment: ['Positive']",: ['enjoyment'],: ['Positive']
+Incredible graphics and brilliant colors .,"['graphics', 'colors']","['Incredible', 'brilliant']","['POS', 'POS']","aspect: ['graphics', 'colors']
+Sentiment: ['Positive', 'Positive']",": ['graphics', 'colors']",": ['Positive', 'Positive']"
+Built-in apps are purely amazing .,['Built-in apps'],['amazing'],['POS'],"aspect: ['apps']
+Sentiment: ['Positive']",: ['apps'],: ['Positive']
+From the speed to the multi touch gestures this operating system beats Windows easily .,['operating system'],['beats'],['POS'],"aspect: ['gestures', 'speed', 'operating system']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['gestures', 'speed', 'operating system']",": ['Positive', 'Positive', 'Positive']"
+I really like the size and I 'm a fan of the ACERS .,['size'],['like'],['POS'],"aspect: ['size', 'ACERS']
+Sentiment: ['Positive', 'Positive']",": ['size', 'ACERS']",": ['Positive', 'Positive']"
+I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty ( $ 1500-2000 ) which also support `` accidents '' like drops and spills that are NOT covered by AppleCare .,"['SquareTrade 3-Year Computer Accidental Protection Warranty', 'AppleCare']","['support', 'NOT covered']","['POS', 'NEG']","aspect: ['price', 'warranty', 'coverage']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['price', 'warranty', 'coverage']",": ['Positive', 'Positive', 'Positive']"
+It 's light and easy to transport .,"['transport', 'transport']","['light', 'easy']","['POS', 'POS']","aspect: ['weight', 'portability']
+Sentiment: ['Positive', 'Positive']",": ['weight', 'portability']",": ['Positive', 'Positive']"
+Once you get past learning how to use the poorly designed Windows 8 Set-Up you may feel frustrated .,"['Windows 8 Set-Up', 'Windows 8 Set-Up']","['poorly designed', 'frustrated']","['NEG', 'NEG']","aspect: ['design', 'frustration']
+Sentiment: ['Negative', 'Negative']",": ['design', 'frustration']",": ['Negative', 'Negative']"
+The aluminum body sure makes it stand out .,['aluminum body'],['stand out'],['POS'],"aspect: ['body', 'stand out']
+Sentiment: ['Positive', 'Positive']",": ['body', 'stand out']",": ['Positive', 'Positive']"
+"It is very easy to integrate bluetooth devices , and USB devices are recognized almost instantly .","['integrate bluetooth devices', 'USB devices']","['easy', 'instantly']","['POS', 'POS']","aspect: ['bluetooth', 'usb']
+Sentiment: ['Positive', 'Positive']",": ['bluetooth', 'usb']",": ['Positive', 'Positive']"
+And the fact that Apple is driving the 13 '' RMBP with the Intel4000 graphic chip seems underpowered ( to me .,['Intel4000 graphic chip'],['underpowered'],['NEG'],"aspect: ['graphic chip', 'power']
+Sentiment: ['negative', 'negative']",": ['graphic chip', 'power']",": ['negative', 'negative']"
+Apple removed the DVD drive Firewire port ( will work with adapter ) and put the SDXC slot in a silly position on the back .,"['DVD drive Firewire port', 'SDXC slot']","['removed', 'silly']","['NEU', 'NEG']","aspect: ['dvd_drive', 'firewire_port', 'sdxc_slot']
+Sentiment: ['negative', 'negative', 'negative']",": ['dvd_drive', 'firewire_port', 'sdxc_slot']",": ['negative', 'negative', 'negative']"
+The durability of the laptop will make it worth the money .,['durability'],['worth'],['POS'],"aspect: ['durability', 'money']
+Sentiment: ['Positive', 'Positive']",": ['durability', 'money']",": ['Positive', 'Positive']"
+Well designed and fast .,['designed'],['Well'],['POS'],"aspect: ['design', 'speed']
+Sentiment: ['Positive', 'Positive']",": ['design', 'speed']",": ['Positive', 'Positive']"
+"But I was completely wrong , this computer is UNBELIEVABLE amazing and easy to use .",['use'],['easy'],['POS'],"aspect: ['easy to use', 'amazing']
+Sentiment: ['Positive', 'Positive']",": ['easy to use', 'amazing']",": ['Positive', 'Positive']"
+Exactly as posted plus a great value .,['value'],['great'],['POS'],"aspect: ['value', 'quality']
+Sentiment: ['Positive', 'Positive']",": ['value', 'quality']",": ['Positive', 'Positive']"
+The specs are pretty good too .,['specs'],['good'],['POS'],"aspect: ['specs']
+Sentiment: ['Positive']",: ['specs'],: ['Positive']
+"Apple is unmatched in product quality , aesthetics , craftmanship , and customer service .","['product quality', 'aesthetics', 'craftmanship', 'customer service']","['unmatched', 'unmatched', 'unmatched', 'unmatched']","['POS', 'POS', 'POS', 'POS']","aspect: ['customer service', 'craftmanship', 'product quality', 'aesthetics']
+Sentiment: ['Positive', 'Positive', 'Positive', 'Positive']",": ['customer service', 'craftmanship', 'product quality', 'aesthetics']",": ['Positive', 'Positive', 'Positive', 'Positive']"
+It is a great size and amazing windows 8 included !,"['size', 'windows 8']","['great', 'amazing']","['POS', 'POS']","aspect: ['size', 'windows']
+Sentiment: ['Positive', 'Positive']",": ['size', 'windows']",": ['Positive', 'Positive']"
+I do not like too much Windows 8 .,['Windows 8'],['not like'],['NEG'],"aspect: ['like', 'windows 8']
+Sentiment: ['Negative', 'Negative']",": ['like', 'windows 8']",": ['Negative', 'Negative']"
+Startup times are incredibly long : over two minutes .,['Startup times'],['long'],['NEG'],"aspect: ['startup time']
+Sentiment: ['Negative']",: ['startup time'],: ['Negative']
+Also stunning colors and speedy,['colors'],['stunning'],['POS'],"aspect: ['colors', 'speed']
+Sentiment: ['Positive', 'Positive']",": ['colors', 'speed']",": ['Positive', 'Positive']"
+great price free shipping what else can i ask for ! !,"['price', 'shipping']","['great', 'free']","['POS', 'POS']","aspect: ['price', 'shipping']
+Sentiment: ['Positive', 'Positive']",": ['price', 'shipping']",": ['Positive', 'Positive']"
+This mouse is terrific .,['mouse'],['terrific'],['POS'],"aspect: ['mouse']
+Sentiment: ['Positive']",: ['mouse'],: ['Positive']
+It is really thick around the battery .,['battery'],['thick'],['NEU'],"aspect: ['battery', 'thickness']
+Sentiment: ['Negative', 'Negative']",": ['battery', 'thickness']",": ['Negative', 'Negative']"
+And windows 7 works like a charm .,['windows 7'],['charm'],['POS'],"aspect: ['windows 7']
+Sentiment: ['Positive']",: ['windows 7'],: ['Positive']
+": ) Great product , great price , great delivery , and great service .","['price', 'delivery', 'service']","['great', 'great', 'great']","['POS', 'POS', 'POS']","aspect: ['delivery', 'price', 'product', 'service']
+Sentiment: ['Positive', 'Positive', 'Positive', 'Positive']",": ['delivery', 'price', 'product', 'service']",": ['Positive', 'Positive', 'Positive', 'Positive']"
+: ] It arrived so fast and customer service was great .,['customer service'],['great'],['POS'],"aspect: ['delivery', 'customer service']
+Sentiment: ['Positive', 'Positive']",": ['delivery', 'customer service']",": ['Positive', 'Positive']"
+tried windows 8 and hated it ! ! !,['windows 8'],['hated'],['NEG'],"aspect: ['windows 8']
+Sentiment: ['Negative']",: ['windows 8'],: ['Negative']
+Set up was a breeze .,['Set up'],['breeze'],['POS'],"aspect: ['set up']
+Sentiment: ['Positive']",: ['set up'],: ['Positive']
+But I do NOT like Win8 .,['Win8'],['NOT like'],['NEG'],"aspect: ['Win8']
+Sentiment: ['Negative']",: ['Win8'],: ['Negative']
+"I had the same reasons as most PC users : the price , the overbearing restrictions of OSX and lack of support for games .","['OSX', 'support for games']","['overbearing', 'lack']","['NEG', 'NEG']","aspect: ['price', 'restrictions', 'support']
+Sentiment: ['Negative', 'Negative', 'Negative']",": ['price', 'restrictions', 'support']",": ['Negative', 'Negative', 'Negative']"
+"I wanted it for it 's mobility and man , this little bad boy is very nice .",['mobility'],['nice'],['POS'],"aspect: ['mobility', 'nice']
+Sentiment: ['Positive', 'Positive']",": ['mobility', 'nice']",": ['Positive', 'Positive']"
+I found the mini to be : Exceptionally easy to set up,['set up'],['easy'],['POS'],"aspect: ['set up']
+Sentiment: ['Positive']",: ['set up'],: ['Positive']
+The sound is nice and loud ; I do n't have any problems with hearing anything .,"['sound', 'sound']","['nice', 'loud']","['POS', 'POS']","aspect: ['sound', 'volume']
+Sentiment: ['Positive', 'Positive']",": ['sound', 'volume']",": ['Positive', 'Positive']"
+"It is very slim , the track pad is very much impressed with me .","['track pad', 'track pad']","['slim', 'impressed']","['POS', 'POS']","aspect: ['slim', 'track pad']
+Sentiment: ['Positive', 'Positive']",": ['slim', 'track pad']",": ['Positive', 'Positive']"
+The settings are not user-friendly either .,['settings'],['not user-friendly'],['NEG'],"aspect: ['settings']
+Sentiment: ['Negative']",: ['settings'],: ['Negative']
+Thank goodness for OpenOffice !,['OpenOffice'],['goodness'],['POS'],"aspect: ['usefulness']
+Sentiment: ['Positive']",: ['usefulness'],: ['Positive']
+"Awesome form factor , great battery life , wonderful UX .","['form factor', 'battery life', 'UX']","['Awesome', 'great', 'wonderful']","['POS', 'POS', 'POS']","aspect: ['battery life', 'form factor', 'ux']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['battery life', 'form factor', 'ux']",": ['Positive', 'Positive', 'Positive']"
+i love the keyboard and the screen .,"['keyboard', 'screen']","['love', 'love']","['POS', 'POS']","aspect: ['keyboard', 'screen']
+Sentiment: ['Positive', 'Positive']",": ['keyboard', 'screen']",": ['Positive', 'Positive']"
+"However , there are MAJOR issues with the touchpad which render the device nearly useless .","['touchpad', 'touchpad']","['issues', 'useless']","['NEG', 'NEG']","aspect: ['touchpad', 'device']
+Sentiment: ['Negative', 'Negative']",": ['touchpad', 'device']",": ['Negative', 'Negative']"
+I 've already upgraded o Mavericks and I am impressed with everything about this computer .,['Mavericks'],['impressed'],['POS'],"aspect: ['computer', 'upgrade']
+Sentiment: ['Positive', 'Positive']",": ['computer', 'upgrade']",": ['Positive', 'Positive']"
+Not as fast as I would have expect for an i5 .,['i5'],['Not as fast'],['NEG'],"aspect: ['speed']
+Sentiment: ['Negative']",: ['speed'],: ['Negative']
+thanks for great service and shipping !,"['service', 'shipping']","['great', 'great']","['POS', 'POS']","aspect: ['service', 'shipping']
+Sentiment: ['Positive', 'Positive']",": ['service', 'shipping']",": ['Positive', 'Positive']"
+"The performance seems quite good , and built-in applications like iPhoto work great with my phone and camera .","['performance', 'built-in applications', 'iPhoto']","['good', 'great', 'great']","['POS', 'POS', 'POS']","aspect: ['performance', 'application']
+Sentiment: ['Positive', 'Positive']",": ['performance', 'application']",": ['Positive', 'Positive']"
+I did swap out the hard drive for a Samsung 830 SSD which I highly recommend .,['Samsung 830 SSD'],['recommend'],['POS'],"aspect: ['hard drive', 'recommendation']
+Sentiment: ['Positive', 'Positive']",": ['hard drive', 'recommendation']",": ['Positive', 'Positive']"
+"Yes , that 's a good thing , but it 's made from aluminum that scratches easily .",['aluminum'],['scratches easily'],['NEG'],"aspect: ['material', 'scratches']
+Sentiment: ['Positive', 'Negative']",": ['material', 'scratches']",": ['Positive', 'Negative']"
+I was also informed that the components of the Mac Book were dirty .,['components'],['dirty'],['NEG'],"aspect: ['component', 'cleanliness']
+Sentiment: ['Negative', 'Negative']",": ['component', 'cleanliness']",": ['Negative', 'Negative']"
+"the hardware problems have been so bad , i ca n't wait till it completely dies in 3 years , TOPS !",['hardware'],['bad'],['NEG'],"aspect: ['hardware', 'problems']
+Sentiment: ['Negative', 'Negative']",": ['hardware', 'problems']",": ['Negative', 'Negative']"
+It 's so nice that the battery last so long and that this machine has the snow lion !,"['battery', 'battery']","['nice', 'long']","['POS', 'POS']","aspect: ['battery', 'lion']
+Sentiment: ['Positive', 'Positive']",": ['battery', 'lion']",": ['Positive', 'Positive']"
+"it 's exactly what i wanted , and it has all the new features and whatnot .","['features', 'features']","['wanted', 'new']","['POS', 'POS']","aspect: ['features', 'wanted']
+Sentiment: ['Positive', 'Positive']",": ['features', 'wanted']",": ['Positive', 'Positive']"
+"It feels cheap , the keyboard is not very sensitive .","['keyboard', 'keyboard']","['cheap', 'not very sensitive']","['NEG', 'NEG']","aspect: ['keyboard', 'feel']
+Sentiment: ['Negative', 'Negative']",": ['keyboard', 'feel']",": ['Negative', 'Negative']"
+"Though please note that sometimes it crashes , and the sound quality isnt superb .",['sound quality'],['isnt superb'],['NEG'],"aspect: ['crashes', 'sound quality']
+Sentiment: ['Negative', 'Negative']",": ['crashes', 'sound quality']",": ['Negative', 'Negative']"
+It is very easy to navigate even for a novice .,['navigate'],['easy'],['POS'],"aspect: ['navigation', 'novice']
+Sentiment: ['Positive', 'Positive']",": ['navigation', 'novice']",": ['Positive', 'Positive']"
+"Does everything I need it to , has a wonderful battery life and I could n't be happier .",['battery life'],['wonderful'],['POS'],"aspect: ['battery life', 'performance']
+Sentiment: ['Positive', 'Positive']",": ['battery life', 'performance']",": ['Positive', 'Positive']"
+Great Performance and Quality .,"['Performance', 'Quality']","['Great', 'Great']","['POS', 'POS']","aspect: ['performance', 'quality']
+Sentiment: ['Positive', 'Positive']",": ['performance', 'quality']",": ['Positive', 'Positive']"
+"One more thing , this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC 's , also the charging cables are made of the same cheap material as the iPhone/iPod touch cables .",['material'],['cheap'],['NEG'],"aspect: ['cable', 'restore_disk']
+Sentiment: ['Negative', 'Negative']",": ['cable', 'restore_disk']",": ['Negative', 'Negative']"
+The new os is great on my macbook pro !,['os'],['great'],['POS'],"aspect: ['os', 'macbook pro']
+Sentiment: ['Positive', 'Positive']",": ['os', 'macbook pro']",": ['Positive', 'Positive']"
+"I have experienced no problems , works as anticipated .",['works'],['as anticipated'],['POS'],"aspect: ['problem', 'work']
+Sentiment: ['Negative', 'Positive']",": ['problem', 'work']",": ['Negative', 'Positive']"
+System is running great .,['System'],['great'],['POS'],"aspect: ['System']
+Sentiment: ['Positive']",: ['System'],: ['Positive']
+Easy to customize setting and even create your own bookmarks .,"['customize setting', 'create your own bookmarks']","['Easy', 'Easy']","['POS', 'POS']","aspect: ['bookmark', 'setting']
+Sentiment: ['Positive', 'Positive']",": ['bookmark', 'setting']",": ['Positive', 'Positive']"
+"it has all the features that we expected and the price was good , working well so far .","['price', 'working']","['good', 'well']","['POS', 'POS']","aspect: ['price', 'features']
+Sentiment: ['Positive', 'Positive']",": ['price', 'features']",": ['Positive', 'Positive']"
+The new operating system makes this computer into a super iPad .,['operating system'],['new'],['POS'],"aspect: ['operating system', 'computer']
+Sentiment: ['Positive', 'Positive']",": ['operating system', 'computer']",": ['Positive', 'Positive']"
+Easy to set up and go !,['set up'],['Easy'],['POS'],"aspect: ['ease_of_use']
+Sentiment: ['Positive']",: ['ease_of_use'],: ['Positive']
+I ca n't believe how quiet the hard drive is and how quick this thing boots up .,"['hard drive', 'boots up']","['quiet', 'quick']","['POS', 'POS']","aspect: ['boot time', 'hard drive']
+Sentiment: ['Positive', 'Positive']",": ['boot time', 'hard drive']",": ['Positive', 'Positive']"
+It 's just what we were looking for and it works great .,['works'],['great'],['POS'],"aspect: ['performance', 'suitability']
+Sentiment: ['Positive', 'Positive']",": ['performance', 'suitability']",": ['Positive', 'Positive']"
+It 's so quick and responsive that it makes working / surfing on a computer so much more pleasurable !,"['working', 'surfing']","['pleasurable', 'pleasurable']","['POS', 'POS']","aspect: ['responsiveness', 'performance']
+Sentiment: ['Positive', 'Positive']",": ['responsiveness', 'performance']",": ['Positive', 'Positive']"
+"It works fine , and all the software seems to run pretty well .","['works', 'software']","['fine', 'well']","['POS', 'POS']","aspect: ['software', 'work']
+Sentiment: ['Positive', 'Positive']",": ['software', 'work']",": ['Positive', 'Positive']"
+"I wanted a computer that was quite , fast , and that had overall great performance .",['performance'],['great'],['NEU'],"aspect: ['performance', 'speed', 'quietness']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['performance', 'speed', 'quietness']",": ['Positive', 'Positive', 'Positive']"
+"Harddrive was in poor condition , had to replace it .",['Harddrive'],['poor'],['NEG'],"aspect: ['Harddrive', 'Condition']
+Sentiment: ['Negative', 'Negative']",": ['Harddrive', 'Condition']",": ['Negative', 'Negative']"
+The on/off switch is a bit obscure in the rear corner .,['on/off switch'],['obscure'],['NEG'],"aspect: ['switch', 'location']
+Sentiment: ['Negative', 'Negative']",": ['switch', 'location']",": ['Negative', 'Negative']"
+My only complaint is the total lack of instructions that come with the mac mini .,['instructions'],['lack'],['NEG'],"aspect: ['instructions', 'mac mini']
+Sentiment: ['Negative', 'Negative']",": ['instructions', 'mac mini']",": ['Negative', 'Negative']"
+"The only task that this computer would not be good enough for would be gaming , otherwise the integrated Intel 4000 graphics work well for other tasks .",['gaming'],['not be good'],['NEG'],"aspect: ['graphics', 'gaming']
+Sentiment: ['Positive', 'Negative']",": ['graphics', 'gaming']",": ['Positive', 'Negative']"
+"I use it mostly for content creation ( Audio , video , photo editing ) and its reliable .","['Audio', 'video', 'photo editing']","['reliable', 'reliable', 'reliable']","['POS', 'POS', 'POS']","aspect: ['content creation', 'reliability']
+Sentiment: ['Positive', 'Positive']",": ['content creation', 'reliability']",": ['Positive', 'Positive']"
+Screen is bright and gorgeous .,"['Screen', 'Screen']","['bright', 'gorgeous']","['POS', 'POS']","aspect: ['screen', 'brightness']
+Sentiment: ['Positive', 'Positive']",": ['screen', 'brightness']",": ['Positive', 'Positive']"
+"It is robust , with a friendly use as all Apple products .",['use'],['friendly'],['POS'],"aspect: ['robustness', 'user_friendly']
+Sentiment: ['Positive', 'Positive']",": ['robustness', 'user_friendly']",": ['Positive', 'Positive']"
+It is fast and easy to use .,['use'],['easy'],['POS'],"aspect: ['speed', 'ease of use']
+Sentiment: ['Positive', 'Positive']",": ['speed', 'ease of use']",": ['Positive', 'Positive']"
+And the fact that it comes with an i5 processor definitely speeds things up,['i5 processor'],['speeds things up'],['POS'],"aspect: ['processor', 'speed']
+Sentiment: ['Positive', 'Positive']",": ['processor', 'speed']",": ['Positive', 'Positive']"
+I have been PC for years but this computer is intuitive and its built in features are a great help,['built in features'],['great help'],['POS'],"aspect: ['intuitive', 'features']
+Sentiment: ['Positive', 'Positive']",": ['intuitive', 'features']",": ['Positive', 'Positive']"
+"Nice screen , keyboard works great !","['screen', 'keyboard']","['Nice', 'great']","['POS', 'POS']","aspect: ['keyboard', 'screen']
+Sentiment: ['Positive', 'Positive']",": ['keyboard', 'screen']",": ['Positive', 'Positive']"
+I was amazed at how fast the delivery was .,"['delivery', 'delivery']","['amazed', 'fast']","['POS', 'POS']","aspect: ['delivery']
+Sentiment: ['Positive']",: ['delivery'],: ['Positive']
+The memory was gone and it was not able to be used .,"['memory', 'memory']","['gone', 'not able to be used']","['NEG', 'NEG']","aspect: ['memory', 'usable']
+Sentiment: ['Negative', 'Negative']",": ['memory', 'usable']",": ['Negative', 'Negative']"
+It works great and I am so happy I bought it .,['works'],['great'],['POS'],"aspect: ['performance', 'satisfaction']
+Sentiment: ['Positive', 'Positive']",": ['performance', 'satisfaction']",": ['Positive', 'Positive']"
+"I like the design and ease of use with the keyboard , plenty of ports .","['design', 'keyboard', 'keyboard', 'ports']","['like', 'like', 'ease of use', 'plenty']","['POS', 'POS', 'POS', 'POS']","aspect: ['design', 'ease of use', 'port']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['design', 'ease of use', 'port']",": ['Positive', 'Positive', 'Positive']"
+it definitely beats my old mac and the service was great .,['service'],['great'],['POS'],"aspect: ['mac', 'service']
+Sentiment: ['Positive', 'Positive']",": ['mac', 'service']",": ['Positive', 'Positive']"
+Web browsing is very quick with Safari browser .,"['Web browsing', 'Safari browser']","['quick', 'quick']","['POS', 'POS']","aspect: ['browsing', 'speed']
+Sentiment: ['Positive', 'Positive']",": ['browsing', 'speed']",": ['Positive', 'Positive']"
+I like the lighted screen at night .,['lighted screen'],['like'],['POS'],"aspect: ['screen']
+Sentiment: ['Positive']",: ['screen'],: ['Positive']
+It is really easy to use and it is quick to start up .,"['use', 'start up']","['easy', 'quick']","['POS', 'POS']","aspect: ['ease of use', 'start up time']
+Sentiment: ['Positive', 'Positive']",": ['ease of use', 'start up time']",": ['Positive', 'Positive']"
+I 've lived with the crashes and slow operation and restarts .,['operation'],['slow'],['NEG'],"aspect: ['operation', 'restarts', 'crashes']
+Sentiment: ['Negative', 'Negative', 'Negative']",": ['operation', 'restarts', 'crashes']",": ['Negative', 'Negative', 'Negative']"
+USB3 Peripherals are noticably less expensive than the ThunderBolt ones .,['USB3 Peripherals'],['less expensive'],['POS'],"aspect: ['price', 'peripherals']
+Sentiment: ['Positive', 'Positive']",": ['price', 'peripherals']",": ['Positive', 'Positive']"
+"It 's fast , light , and is perfect for media editing , which is mostly why I bought it in the first place .",['media editing'],['perfect'],['POS'],"aspect: ['speed', 'weight', 'media editing']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['speed', 'weight', 'media editing']",": ['Positive', 'Positive', 'Positive']"
+"The battery lasts as advertised ( give or take 15-20 minutes ) , and the entire user experience is very elegant .",['user experience'],['elegant'],['POS'],"aspect: ['battery', 'user experience']
+Sentiment: ['Positive', 'Positive']",": ['battery', 'user experience']",": ['Positive', 'Positive']"
+Thanks for the fast shipment and great price .,"['shipment', 'price']","['fast', 'great']","['POS', 'POS']","aspect: ['price', 'shipment']
+Sentiment: ['Positive', 'Positive']",": ['price', 'shipment']",": ['Positive', 'Positive']"
+"! Excellent performance , usability , presentation and time response .","['performance', 'usability', 'presentation', 'time response']","['Excellent', 'Excellent', 'Excellent', 'Excellent']","['POS', 'POS', 'POS', 'POS']","aspect: ['performance', 'presentation', 'response', 'usability']
+Sentiment: ['Positive', 'Positive', 'Positive', 'Positive']",": ['performance', 'presentation', 'response', 'usability']",": ['Positive', 'Positive', 'Positive', 'Positive']"
+The smaller size was a bonus because of space restrictions .,"['size', 'size']","['smaller', 'bonus']","['POS', 'POS']","aspect: ['size', 'space']
+Sentiment: ['Positive', 'Positive']",": ['size', 'space']",": ['Positive', 'Positive']"
+I blame the Mac OS .,['Mac OS'],['blame'],['NEG'],"aspect: ['OS']
+Sentiment: ['Negative']",: ['OS'],: ['Negative']
+I like the operating system .,['operating system'],['like'],['POS'],"aspect: ['operating system']
+Sentiment: ['Positive']",: ['operating system'],: ['Positive']
+I love the form factor .,['form factor'],['love'],['POS'],"aspect: ['form factor']
+Sentiment: ['Positive']",: ['form factor'],: ['Positive']
+It 's fast at loading the internet .,['loading the internet'],['fast'],['POS'],"aspect: ['speed']
+Sentiment: ['Positive']",: ['speed'],: ['Positive']
+So much faster and sleeker looking .,"['looking', 'looking']","['faster', 'sleeker']","['POS', 'POS']","aspect: ['look', 'speed']
+Sentiment: ['Positive', 'Positive']",": ['look', 'speed']",": ['Positive', 'Positive']"
+"Unfortunately , it runs XP and Microsoft is dropping support next April .","['XP', 'support', 'support']","['Unfortunately', 'Unfortunately', 'dropping']","['NEU', 'NEG', 'NEG']","aspect: ['OS', 'support']
+Sentiment: ['Negative', 'Negative']",": ['OS', 'support']",": ['Negative', 'Negative']"
+"First off , I really do like my MBP ... once used to the OS it is pretty easy to get around , and the overall build is great ... eg the keyboard is one of the best to type on .","['OS', 'OS', 'overall build', 'keyboard']","['like', 'easy', 'great', 'best']","['POS', 'POS', 'POS', 'POS']","aspect: ['build', 'keyboard', 'os']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['build', 'keyboard', 'os']",": ['Positive', 'Positive', 'Positive']"
+It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit .,['construction'],['solid'],['POS'],"aspect: ['construction', 'system']
+Sentiment: ['Positive', 'Positive']",": ['construction', 'system']",": ['Positive', 'Positive']"
+Very nice unibody construction .,['unibody construction'],['nice'],['POS'],"aspect: ['construction']
+Sentiment: ['Positive']",: ['construction'],: ['Positive']
+"This Macbook Pro is fast , powerful , and runs super quiet and cool .","['runs', 'runs']","['quiet', 'cool']","['POS', 'POS']","aspect: ['performance', 'quietness', 'temperature']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['performance', 'quietness', 'temperature']",": ['Positive', 'Positive', 'Positive']"
+It 's ok but does n't have a disk drive which I did n't know until after I bought it .,['disk drive'],"[""does n't have""]",['NEU'],"aspect: ['disk drive', 'price']
+Sentiment: ['Negative', 'Negative']",": ['disk drive', 'price']",": ['Negative', 'Negative']"
+"There is no HDMI receptacle , nor is there an SD card slot located anywhere on the device .","['HDMI receptacle', 'SD card slot']","['no', 'nor']","['NEU', 'NEU']","aspect: ['hdmi', 'sd_card_slot']
+Sentiment: ['negative', 'negative']",": ['hdmi', 'sd_card_slot']",": ['negative', 'negative']"
+It came in brand new and works perfectly .,['works'],['perfectly'],['POS'],"aspect: ['condition', 'performance']
+Sentiment: ['Positive', 'Positive']",": ['condition', 'performance']",": ['Positive', 'Positive']"
+"It should n't happen like that , I do n't have any design app open or anything .",['design app'],"[""do n't have""]",['NEU'],"aspect: ['design']
+Sentiment: ['Negative']",: ['design'],: ['Negative']
+MY TRACKPAD IS NOT WORKING .,['TRACKPAD'],['NOT WORKING'],['NEG'],"aspect: ['trackpad', 'working']
+Sentiment: ['negative', 'negative']",": ['trackpad', 'working']",": ['negative', 'negative']"
+"It looks and feels solid , with a flawless finish .","['finish', 'looks', 'feels']","['flawless', 'solid', 'solid']","['POS', 'POS', 'POS']","aspect: ['finish', 'look', 'feel']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['finish', 'look', 'feel']",": ['Positive', 'Positive', 'Positive']"
+Price was higher when purchased on MAC when compared to price showing on PC when I bought this product .,['Price'],['higher'],['NEG'],"aspect: ['price']
+Sentiment: ['Negative']",: ['price'],: ['Negative']
+Then the system would many times not power down without a forced power-off .,"['system', 'power down']","['not power down', 'not']","['NEG', 'NEG']","aspect: ['power', 'power-off']
+Sentiment: ['Negative', 'Negative']",": ['power', 'power-off']",": ['Negative', 'Negative']"
+The configuration is perfect for my needs .,['configuration'],['perfect'],['POS'],"aspect: ['configuration']
+Sentiment: ['Positive']",: ['configuration'],: ['Positive']
+and the speakers is the worst ever .,['speakers'],['worst'],['NEG'],"aspect: ['speaker', 'sound']
+Sentiment: ['Negative', 'Negative']",": ['speaker', 'sound']",": ['Negative', 'Negative']"
+"Its the best , its got the looks , super easy to use and love all you can do with the trackpad ! ..","['use', 'trackpad']","['easy', 'love']","['POS', 'POS']","aspect: ['looks', 'user_friendliness', 'trackpad']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['looks', 'user_friendliness', 'trackpad']",": ['Positive', 'Positive', 'Positive']"
+Web surfuring is smooth and seamless .,"['Web surfuring', 'Web surfuring']","['smooth', 'seamless']","['POS', 'POS']","aspect: ['Web surfuring']
+Sentiment: ['Positive']",: ['Web surfuring'],: ['Positive']
+I 'm overall pleased with the interface and the portability of this product .,"['interface', 'portability']","['pleased', 'pleased']","['POS', 'POS']","aspect: ['interface', 'portability']
+Sentiment: ['Positive', 'Positive']",": ['interface', 'portability']",": ['Positive', 'Positive']"
+"This item is a beautiful piece , it works well , it is easy to carry and handle .","['works', 'carry', 'handle']","['well', 'easy', 'easy']","['POS', 'POS', 'POS']","aspect: ['appearance', 'performance', 'portability']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['appearance', 'performance', 'portability']",": ['Positive', 'Positive', 'Positive']"
+"It was also suffering from hardware ( keyboard ) issues , relatively slow performance and shortening battery lifetime .","['performance', 'battery lifetime', 'hardware ( keyboard )', 'hardware ( keyboard )']","['slow', 'shortening', 'suffering', 'issues']","['NEG', 'NEG', 'NEG', 'NEG']","aspect: ['battery_life', 'keyboard', 'performance']
+Sentiment: ['Negative', 'Negative', 'Negative']",": ['battery_life', 'keyboard', 'performance']",": ['Negative', 'Negative', 'Negative']"
+"Runs good and does the job , ca n't complain about that !",['Runs'],['good'],['POS'],"aspect: ['job', 'performance']
+Sentiment: ['Positive', 'Positive']",": ['job', 'performance']",": ['Positive', 'Positive']"
+It 's silent and has a very small footprint on my desk .,['footprint'],['small'],['POS'],"aspect: ['footprint', 'noise']
+Sentiment: ['Positive', 'Positive']",": ['footprint', 'noise']",": ['Positive', 'Positive']"
+The exterior is absolutely gorgeous .,['exterior'],['gorgeous'],['POS'],"aspect: ['exterior']
+Sentiment: ['Positive']",: ['exterior'],: ['Positive']
+"It has a very high performance , just for what I needed for .",['performance'],['high'],['POS'],"aspect: ['performance', 'suitability']
+Sentiment: ['Positive', 'Positive']",": ['performance', 'suitability']",": ['Positive', 'Positive']"
+Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset .,"['intel 4000 graphics chipset', 'design']","['defective', 'defective']","['NEU', 'NEU']","aspect: ['graphics', 'stock']
+Sentiment: ['Negative', 'Negative']",": ['graphics', 'stock']",": ['Negative', 'Negative']"
+"I just bought the new MacBook Pro , the 13 '' model , and I ca n't believe Apple keeps making the same mistake with regard to USB ports .",['USB ports'],['mistake'],['NEG'],"aspect: ['model', 'port', 'mistake']
+Sentiment: ['Positive', 'Negative', 'Negative']",": ['model', 'port', 'mistake']",": ['Positive', 'Negative', 'Negative']"
+It is the perfect size and speed for me .,"['size', 'speed']","['perfect', 'perfect']","['POS', 'POS']","aspect: ['size', 'speed']
+Sentiment: ['Positive', 'Positive']",": ['size', 'speed']",": ['Positive', 'Positive']"
+THE CUSTOMER SERVICE IS TERRIFIC ! !,['CUSTOMER SERVICE'],['TERRIFIC'],['POS'],"aspect: ['customer service']
+Sentiment: ['Positive']",: ['customer service'],: ['Positive']
+"My last laptop was a 17 '' ASUS gaming machine , which performed admirably , but having since built my own desktop and really settling into the college life , I found myself wanting something smaller and less cumbersome , not to mention that the ASUS had been slowly developing problems ever since I bought it about 4 years ago .",['performed'],['admirably'],['POS'],"aspect: ['size', 'performance', 'build quality']
+Sentiment: ['Negative', 'Positive', 'Negative']",": ['size', 'performance', 'build quality']",": ['Negative', 'Positive', 'Negative']"
+"However , it did not have any scratches , ZERO battery cycle count ( pretty surprised ) , and all the hardware seemed to be working perfectly .","['battery cycle count', 'battery cycle count', 'hardware']","['ZERO', 'surprised', 'perfectly']","['POS', 'POS', 'POS']","aspect: ['battery', 'hardware', 'scratches']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['battery', 'hardware', 'scratches']",": ['Positive', 'Positive', 'Positive']"
+And as for all the fancy finger swipes -- I just gave up and attached a mouse .,['finger swipes'],['fancy'],['NEG'],"aspect: ['swipe', 'mouse']
+Sentiment: ['Negative', 'Positive']",": ['swipe', 'mouse']",": ['Negative', 'Positive']"
+"I needed a laptop with big storage , a nice screen and fast so I can photoshop without any problem .","['storage', 'screen']","['big', 'nice']","['NEU', 'NEU']","aspect: ['storage', 'screen', 'speed']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['storage', 'screen', 'speed']",": ['Positive', 'Positive', 'Positive']"
+I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $ 400 old HP laptop .,"['Mac OS', 'speaker quality']","['like', 'lacking']","['POS', 'NEG']","aspect: ['speaker', 'price']
+Sentiment: ['Negative', 'Positive']",": ['speaker', 'price']",": ['Negative', 'Positive']"
+Shipped very quickly and safely .,"['Shipped', 'Shipped']","['quickly', 'safely']","['POS', 'POS']","aspect: ['shipping', 'safety']
+Sentiment: ['Positive', 'Positive']",": ['shipping', 'safety']",": ['Positive', 'Positive']"
+The thunderbolt port is awesome !,['thunderbolt port'],['awesome'],['POS'],"aspect: ['port']
+Sentiment: ['Positive']",: ['port'],: ['Positive']
+The performance is definitely superior to any computer I 've ever put my hands on .,['performance'],['superior'],['POS'],"aspect: ['performance']
+Sentiment: ['Positive']",: ['performance'],: ['Positive']
+It 's great for streaming video and other entertainment uses .,"['streaming video', 'entertainment uses']","['great', 'great']","['POS', 'POS']","aspect: ['entertainment', 'video']
+Sentiment: ['Positive', 'Positive']",": ['entertainment', 'video']",": ['Positive', 'Positive']"
+I like the design and its features but there are somethings I think needs to be improved .,"['design', 'features']","['like', 'needs to be improved']","['POS', 'POS']","aspect: ['design', 'features']
+Sentiment: ['Positive', 'Positive']",": ['design', 'features']",": ['Positive', 'Positive']"
+There were small problems with Mac office .,['Mac office'],['problems'],['NEG'],"aspect: ['problems', 'Mac']
+Sentiment: ['Negative', 'Negative']",": ['problems', 'Mac']",": ['Negative', 'Negative']"
+I ordered my 2012 mac mini after being disappointed with spec of the new 27 '' Imacs .,['spec'],['disappointed'],['NEG'],"aspect: ['spec', 'spec', 'year']
+Sentiment: ['Negative', 'Negative', 'Positive']",": ['spec', 'spec', 'year']",": ['Negative', 'Negative', 'Positive']"
+"Its fast , easy to use and it looks great .","['use', 'looks']","['easy', 'great']","['POS', 'POS']","aspect: ['look', 'speed', 'usability']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['look', 'speed', 'usability']",": ['Positive', 'Positive', 'Positive']"
+"Performance is much much better on the Pro , especially if you install an SSD on it .","['Performance', 'SSD']","['better', 'better']","['POS', 'POS']","aspect: ['performance', 'ssd']
+Sentiment: ['Positive', 'Positive']",": ['performance', 'ssd']",": ['Positive', 'Positive']"
+"Note , however , that any existing MagSafe accessories you have will not work with the MagSafe 2 connection .","['MagSafe accessories', 'MagSafe 2 connection']","['not work', 'not work']","['NEU', 'NEG']","aspect: ['accessory', 'connection']
+Sentiment: ['negative', 'negative']",": ['accessory', 'connection']",": ['negative', 'negative']"
+"The only thing I dislike is the touchpad , alot of the times its unresponsive and does things I dont want it too , I would recommend using a mouse with it .","['touchpad', 'touchpad', 'mouse']","['dislike', 'unresponsive', 'recommend']","['NEG', 'NEG', 'NEU']","aspect: ['touchpad', 'responsiveness']
+Sentiment: ['Negative', 'Negative']",": ['touchpad', 'responsiveness']",": ['Negative', 'Negative']"
+"The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet , actually the fans are n't audible unlike my old pc","['runs', 'fans']","['quiet', ""are n't audible""]","['POS', 'POS']","aspect: ['size', 'noise']
+Sentiment: ['Positive', 'Positive']",": ['size', 'noise']",": ['Positive', 'Positive']"
+I thought the transition would be difficult at best and would take some time to fully familiarize myself with the new Mac ecosystem .,['Mac ecosystem'],['take some time'],['NEU'],"aspect: ['transition', 'familiarize', 'ecosystem']
+Sentiment: ['Negative', 'Negative', 'Negative']",": ['transition', 'familiarize', 'ecosystem']",": ['Negative', 'Negative', 'Negative']"
+It 's absolutely wonderful and worth the price !,"['price', 'price']","['wonderful', 'worth']","['POS', 'POS']","aspect: ['price', 'worth']
+Sentiment: ['Positive', 'Positive']",": ['price', 'worth']",": ['Positive', 'Positive']"
+I am please with the products ease of use ; out of the box ready ; appearance and functionality .,"['use', 'use', 'appearance', 'functionality']","['please', 'ease', 'please', 'please']","['POS', 'POS', 'POS', 'POS']","aspect: ['ease of use', 'appearance', 'functionality']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['ease of use', 'appearance', 'functionality']",": ['Positive', 'Positive', 'Positive']"
+Perfect for all my graphic design classes I 'm taking this year in college : - ),['graphic design'],['Perfect'],['POS'],"aspect: ['design', 'class']
+Sentiment: ['Positive', 'Positive']",": ['design', 'class']",": ['Positive', 'Positive']"
+I will not be using that slot again .,['slot'],['not be using'],['NEG'],"aspect: ['slot']
+Sentiment: ['Negative']",: ['slot'],: ['Negative']
+"The OS is fast and fluid , everything is organized and it 's just beautiful .","['OS', 'OS', 'OS', 'OS']","['fast', 'fluid', 'organized', 'beautiful']","['POS', 'POS', 'POS', 'POS']","aspect: ['OS', 'organization', 'beauty']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['OS', 'organization', 'beauty']",": ['Positive', 'Positive', 'Positive']"
+They are simpler to use .,['use'],['simpler'],['POS'],"aspect: ['use']
+Sentiment: ['Positive']",: ['use'],: ['Positive']
+! so nice .. stable .. fast .. now i got my SSD !,"['SSD', 'SSD', 'SSD']","['nice', 'stable', 'fast']","['POS', 'POS', 'POS']","aspect: ['speed', 'stability', 'performance']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['speed', 'stability', 'performance']",": ['Positive', 'Positive', 'Positive']"
+I love the quick start up .,['start up'],['love'],['POS'],"aspect: ['start up']
+Sentiment: ['Positive']",: ['start up'],: ['Positive']
+You just can not beat the functionality of an Apple device .,['functionality'],['can not beat'],['POS'],"aspect: ['functionality']
+Sentiment: ['Positive']",: ['functionality'],: ['Positive']
+Yet my mac continues to function properly .,['function'],['properly'],['POS'],"aspect: ['function']
+Sentiment: ['Positive']",: ['function'],: ['Positive']
+Graphics are much improved .,['Graphics'],['improved'],['POS'],"aspect: ['graphics']
+Sentiment: ['Positive']",: ['graphics'],: ['Positive']
+"Here are the things that made me confident with my purchase : Build Quality - Seriously , you ca n't beat a unibody construction .","['Build Quality', 'unibody construction']","['confident', ""ca n't beat""]","['POS', 'POS']","aspect: ['build quality']
+Sentiment: ['Positive']",: ['build quality'],: ['Positive']
+It provides much more flexibility for connectivity .,['flexibility for connectivity'],['more'],['POS'],"aspect: ['connectivity']
+Sentiment: ['Positive']",: ['connectivity'],: ['Positive']
+Mac tutorials do help .,['Mac tutorials'],['help'],['POS'],"aspect: ['tutorials']
+Sentiment: ['Positive']",: ['tutorials'],: ['Positive']
+The technical support was not helpful as well .,['technical support'],['not helpful'],['NEG'],"aspect: ['technical support']
+Sentiment: ['Negative']",: ['technical support'],: ['Negative']
+I got the new adapter and there was no change .,"['adapter', 'adapter']","['new', 'no change']","['NEU', 'NEU']","aspect: ['adapter', 'change']
+Sentiment: ['Negative', 'Negative']",": ['adapter', 'change']",": ['Negative', 'Negative']"
+"Logic board utterly fried , cried , and laid down and died .","['Logic board', 'Logic board', 'Logic board', 'Logic board']","['utterly fried', 'cried', 'laid down', 'died']","['POS', 'POS', 'POS', 'POS']","aspect: ['logic board', 'died']
+Sentiment: ['Negative', 'Negative']",": ['logic board', 'died']",": ['Negative', 'Negative']"
+The sound was crappy even when you turn up the volume still the same results .,"['sound', 'volume']","['crappy', 'crappy']","['NEG', 'NEG']","aspect: ['sound']
+Sentiment: ['Negative']",: ['sound'],: ['Negative']
+OSX Lion is a great performer..extremely fast and reliable .,"['OSX Lion', 'OSX Lion', 'OSX Lion']","['great', 'fast', 'reliable']","['POS', 'POS', 'POS']","aspect: ['performance', 'reliability']
+Sentiment: ['Positive', 'Positive']",": ['performance', 'reliability']",": ['Positive', 'Positive']"
+"Having heard from friends and family about how reliable a Mac product is , I never expected to have an application crash within the first month , but I did .",['application'],['crash'],['NEG'],"aspect: ['reliability', 'crash']
+Sentiment: ['Negative', 'Negative']",": ['reliability', 'crash']",": ['Negative', 'Negative']"
+The Macbook pro 's physical form is wonderful .,['physical form'],['wonderful'],['POS'],"aspect: ['physical form']
+Sentiment: ['Positive']",: ['physical form'],: ['Positive']
+The Mini 's body has n't changed since late 2010- and for a good reason .,"['body', 'body']","[""has n't changed"", 'good']","['POS', 'POS']","aspect: ['body']
+Sentiment: ['Positive']",: ['body'],: ['Positive']
+The unibody construction really does feel lot more solid than Apple 's previous laptops .,['unibody construction'],['solid'],['POS'],"aspect: ['construction', 'feel']
+Sentiment: ['Positive', 'Positive']",": ['construction', 'feel']",": ['Positive', 'Positive']"
+3D rendering slows it down considerably .,['3D rendering'],['slows it down'],['NEG'],"aspect: ['rendering', 'speed']
+Sentiment: ['Negative', 'Negative']",": ['rendering', 'speed']",": ['Negative', 'Negative']"
+"fast , great screen , beautiful apps for a laptop ; priced at 1100 on the apple website ; amazon had it for 1098+ tax - plus i had a 10 % off coupon from amazon-cost me 998 plus tax- 1070- OTD !","['screen', 'screen', 'apps']","['fast', 'great', 'beautiful']","['POS', 'POS', 'POS']","aspect: ['price', 'screen', 'speed']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['price', 'screen', 'speed']",": ['Positive', 'Positive', 'Positive']"
+All the ports are much needed since this is my main computer .,['ports'],['much needed'],['NEU'],"aspect: ['ports', 'computer']
+Sentiment: ['Positive', 'Positive']",": ['ports', 'computer']",": ['Positive', 'Positive']"
+"The Like New condition of the iMac MC309LL/A on Amazon is at $ 900+ level only , and it is a Quad-Core 2.5 GHz CPU ( similar to the $ 799 Mini ) , with Radeon HD 6750M 512MB graphic card ( this mini is integrated Intel 4000 card ) , and it even comes with wireless Apple Keyboard and Mouse , all put together in neat and nice package .","['package', 'package']","['neat', 'nice']","['POS', 'POS']","aspect: ['price', 'processor', 'graphics', 'keyboard', 'mouse']
+Sentiment: ['Positive', 'Positive', 'Positive', 'Positive', 'Positive']",": ['price', 'processor', 'graphics', 'keyboard', 'mouse']",": ['Positive', 'Positive', 'Positive', 'Positive', 'Positive']"
+Put a cover on it and is a little better but that is my only complaint .,"['cover', 'cover']","['a little better', 'complaint']","['NEU', 'NEU']","aspect: ['complaint', 'performance']
+Sentiment: ['Negative', 'Positive']",": ['complaint', 'performance']",": ['Negative', 'Positive']"
+Within a few hours I was using the gestures unconsciously .,['gestures'],['unconsciously'],['POS'],"aspect: ['gestures', 'time']
+Sentiment: ['Positive', 'Positive']",": ['gestures', 'time']",": ['Positive', 'Positive']"
+This mac does come with an extender cable and I 'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac .,['cable'],['nice'],['POS'],"aspect: ['cable', 'mac']
+Sentiment: ['Positive', 'Positive']",": ['cable', 'mac']",": ['Positive', 'Positive']"
+The 2.9ghz dual-core i7 chip really out does itself .,['2.9ghz dual-core i7 chip'],['really'],['POS'],"aspect: ['chip', 'speed']
+Sentiment: ['Positive', 'Positive']",": ['chip', 'speed']",": ['Positive', 'Positive']"
+It is pretty snappy and starts up in about 30 seconds which is good enough for me .,"['starts up', 'starts up']","['snappy', 'good']","['POS', 'POS']","aspect: ['speed', 'start-up time']
+Sentiment: ['Positive', 'Positive']",": ['speed', 'start-up time']",": ['Positive', 'Positive']"
+Not sure on Windows 8 .,['Windows 8'],['Not sure'],['NEU'],"aspect: ['OS']
+Sentiment: ['Negative']",: ['OS'],: ['Negative']
+My one complaint is that there was no internal CD drive .,"['internal CD drive', 'internal CD drive']","['complaint', 'no']","['NEG', 'NEG']","aspect: ['CD drive', 'internal']
+Sentiment: ['Negative', 'Negative']",": ['CD drive', 'internal']",": ['Negative', 'Negative']"
+This newer netbook has no hard drive or network lights .,"['hard drive', 'network lights']","['no', 'no']","['NEU', 'NEU']","aspect: ['hard drive', 'network light']
+Sentiment: ['Negative', 'Negative']",": ['hard drive', 'network light']",": ['Negative', 'Negative']"
+Not too expense and has enough storage for most users and many ports .,"['storage', 'ports']","['enough', 'enough']","['POS', 'POS']","aspect: ['price', 'storage', 'port']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['price', 'storage', 'port']",": ['Positive', 'Positive', 'Positive']"
+The audio volume is quite low and virtually unusable in a room with any background activity .,"['audio volume', 'audio volume']","['low', 'unusable']","['NEG', 'NEG']","aspect: ['volume', 'usability']
+Sentiment: ['Negative', 'Negative']",": ['volume', 'usability']",": ['Negative', 'Negative']"
+It is lightweight and the perfect size to carry to class .,['size'],['perfect'],['POS'],"aspect: ['size', 'weight']
+Sentiment: ['Positive', 'Positive']",": ['size', 'weight']",": ['Positive', 'Positive']"
+The MBP is beautiful has many wonderful capabilities .,['capabilities'],['wonderful'],['POS'],"aspect: ['appearance', 'capabilities']
+Sentiment: ['Positive', 'Positive']",": ['appearance', 'capabilities']",": ['Positive', 'Positive']"
+"I thought that it will be fine , if i do some settings .",['settings'],['fine'],['NEU'],"aspect: ['settings']
+Sentiment: ['Positive']",: ['settings'],: ['Positive']
+Runs very smoothly .,['Runs'],['smoothly'],['POS'],"aspect: ['Performance']
+Sentiment: ['Positive']",: ['Performance'],: ['Positive']
+Boot-up slowed significantly after all Windows updates were installed .,"['Boot-up', 'Windows updates']","['slowed', 'slowed']","['NEG', 'NEG']","aspect: ['Boot-up', 'Performance']
+Sentiment: ['Negative', 'Negative']",": ['Boot-up', 'Performance']",": ['Negative', 'Negative']"
+"It was important that it was powerful enough to do all of the tasks he needed on the internet , word processing , graphic design and gaming .","['internet', 'word processing', 'graphic design', 'gaming']","['powerful', 'powerful', 'powerful', 'powerful']","['POS', 'POS', 'POS', 'POS']","aspect: ['power', 'tasks', 'internet', 'word_processing', 'graphic_design', 'gaming']
+Sentiment: ['Positive', 'Positive', 'Positive', 'Positive', 'Positive', 'Positive']",": ['power', 'tasks', 'internet', 'word_processing', 'graphic_design', 'gaming']",": ['Positive', 'Positive', 'Positive', 'Positive', 'Positive', 'Positive']"
+"I like the Mini Mac it was easy to setup and install , but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu .","['setup', 'setup', 'install', 'install']","['like', 'easy', 'like', 'easy']","['POS', 'POS', 'POS', 'POS']","aspect: ['ease_of_use', 'features', 'mouse', 'tutorial']
+Sentiment: ['Positive', 'Negative', 'Negative', 'Positive']",": ['ease_of_use', 'features', 'mouse', 'tutorial']",": ['Positive', 'Negative', 'Negative', 'Positive']"
+Runs real quick .,['Runs'],['quick'],['POS'],"aspect: ['Performance']
+Sentiment: ['Positive']",: ['Performance'],: ['Positive']
+"Since the machine 's slim profile is critical to me , that was a problem .","['profile', 'profile']","['slim', 'critical']","['NEG', 'NEG']","aspect: ['profile', 'problem']
+Sentiment: ['critical', 'negative']",": ['profile', 'problem']",": ['critical', 'negative']"
+"WiFi capability , disk drive and multiple USB ports to connect scale and printers was all that was required .","['disk drive', 'USB ports', 'WiFi capability']","['required', 'required', 'required']","['POS', 'POS', 'POS']","aspect: ['disk drive', 'port', 'scale', 'printer']
+Sentiment: ['Positive', 'Positive', 'Positive', 'Positive']",": ['disk drive', 'port', 'scale', 'printer']",": ['Positive', 'Positive', 'Positive', 'Positive']"
+"The SD card reader is slightly recessed and upside down ( the nail slot on the card can not be accessed ) , if this was a self ejecting slot this would not be an issue , but its not .","['SD card reader', 'SD card reader', 'nail slot on the card', 'slot']","['recessed', 'upside down', 'can not be accessed', 'issue']","['NEG', 'NEG', 'NEG', 'NEG']","aspect: ['card_reader', 'slot']
+Sentiment: ['Negative', 'Negative']",": ['card_reader', 'slot']",": ['Negative', 'Negative']"
+"Soft touch , anodized aluminum with laser cut precision and no flaws .","['touch', 'anodized aluminum', 'anodized aluminum']","['Soft', 'precision', 'no flaws']","['POS', 'POS', 'POS']","aspect: ['precision', 'touch', 'flaw']
+Sentiment: ['Positive', 'Positive', 'Negative']",": ['precision', 'touch', 'flaw']",": ['Positive', 'Positive', 'Negative']"
+"Simple details , crafted aluminium and real glass make this laptop blow away the other plastic ridden , bulky sticker filled laptops .","['aluminium', 'glass']","['crafted', 'blow away']","['POS', 'POS']","aspect: ['design', 'material', 'other_laptops']
+Sentiment: ['Positive', 'Positive', 'Negative']",": ['design', 'material', 'other_laptops']",": ['Positive', 'Positive', 'Negative']"
+First of all yes this is a mac and it has that nice brushed aluminum .,['aluminum'],['nice'],['POS'],"aspect: ['aluminum', 'mac']
+Sentiment: ['Positive', 'Positive']",": ['aluminum', 'mac']",": ['Positive', 'Positive']"
+No HDMI port .,['HDMI port'],['No'],['NEU'],"aspect: ['port']
+Sentiment: ['Negative']",: ['port'],: ['Negative']
+Customization on mac is impossible .,['Customization'],['impossible'],['NEG'],"aspect: ['customization']
+Sentiment: ['Negative']",: ['customization'],: ['Negative']
+Plus two finger clicking as a replacement for the right click button is surprisingly intuitive .,"['two finger clicking', 'right click button']","['surprisingly', 'intuitive']","['POS', 'NEU']","aspect: ['button', 'click', 'intuitive']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['button', 'click', 'intuitive']",": ['Positive', 'Positive', 'Positive']"
+The SuperDrive is quiet .,['SuperDrive'],['quiet'],['POS'],"aspect: ['quiet']
+Sentiment: ['Positive']",: ['quiet'],: ['Positive']
+"The battery was completely dead , in fact it had grown about a quarter inch thick lump on the underside .",['battery'],['dead'],['NEG'],"aspect: ['battery', 'lump']
+Sentiment: ['Negative', 'Negative']",": ['battery', 'lump']",": ['Negative', 'Negative']"
+if yo like practicality this is the laptop for you .,['practicality'],['like'],['POS'],"aspect: ['practicality']
+Sentiment: ['Positive']",: ['practicality'],: ['Positive']
+The OS is great .,['OS'],['great'],['POS'],"aspect: ['OS']
+Sentiment: ['Positive']",: ['OS'],: ['Positive']
+"CONS : Price is a bit ridiculous , kinda heavy .","['Price', 'Price']","['ridiculous', 'heavy']","['NEG', 'NEG']","aspect: ['price', 'weight']
+Sentiment: ['Negative', 'Negative']",": ['price', 'weight']",": ['Negative', 'Negative']"
+"Which it did not have , only 3 USB 2 ports .",['USB 2 ports'],['not have'],['NEU'],"aspect: ['ports', 'usb']
+Sentiment: ['Negative', 'Negative']",": ['ports', 'usb']",": ['Negative', 'Negative']"
+No startup disk was not included but that may be my fault .,"['startup disk', 'startup disk', 'startup disk']","['No', 'not included', 'fault']","['NEU', 'NEU', 'NEU']","aspect: ['disk', 'startup']
+Sentiment: ['Negative', 'Negative']",": ['disk', 'startup']",": ['Negative', 'Negative']"
+It is very fast and has everything that I need except for a word program .,['word program'],['except for'],['NEG'],"aspect: ['speed', 'word program']
+Sentiment: ['Positive', 'Negative']",": ['speed', 'word program']",": ['Positive', 'Negative']"
+Needs a CD/DVD drive and a bigger power switch .,['power switch'],['bigger'],['NEG'],"aspect: ['CD/DVD drive', 'power switch']
+Sentiment: ['Negative', 'Negative']",": ['CD/DVD drive', 'power switch']",": ['Negative', 'Negative']"
+My laptop with Windows 7 crashed and I did not want Windows 8 .,"['Windows 7', 'Windows 8']","['crashed', 'not want']","['NEG', 'NEG']","aspect: ['crash', 'operating system']
+Sentiment: ['Negative', 'Negative']",": ['crash', 'operating system']",": ['Negative', 'Negative']"
+Easy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi .,"['install', 'configure for ADSl cable or wifi']","['Easy', 'easy']","['POS', 'POS']","aspect: ['configuration', 'size', 'installation']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['configuration', 'size', 'installation']",": ['Positive', 'Positive', 'Positive']"
+Nice packing .,['packing'],['Nice'],['POS'],"aspect: ['packing']
+Sentiment: ['Positive']",: ['packing'],: ['Positive']
+"I switched to this because I wanted something different , even though I miss windows .",['windows'],['miss'],['POS'],"aspect: ['different', 'miss', 'switch']
+Sentiment: ['Positive', 'Negative', 'Positive']",": ['different', 'miss', 'switch']",": ['Positive', 'Negative', 'Positive']"
+"Apple no longer includes iDVD with the computer and furthermore , Apple does n't even offer it anymore !",['iDVD'],['no longer includes'],['NEG'],"aspect: ['idvd', 'offer']
+Sentiment: ['negative', 'negative']",": ['idvd', 'offer']",": ['negative', 'negative']"
+"I also wanted Windows 7 , which this one has .",['Windows 7'],['wanted'],['POS'],"aspect: ['operating system', 'windows 7']
+Sentiment: ['Positive', 'Positive']",": ['operating system', 'windows 7']",": ['Positive', 'Positive']"
+"At first , I feel a little bit uncomfortable in using the Mac system .",['Mac system'],['uncomfortable'],['NEG'],"aspect: ['system', 'user experience']
+Sentiment: ['Negative', 'Negative']",": ['system', 'user experience']",": ['Negative', 'Negative']"
+It just works out of the box and you have a lot of cool software included with the OS .,"['works', 'software', 'OS']","['out of the box', 'cool', 'cool']","['POS', 'POS', 'NEU']","aspect: ['software', 'works']
+Sentiment: ['Positive', 'Positive']",": ['software', 'works']",": ['Positive', 'Positive']"
+its as advertised on here ... .. it works great and is not a waste of money !,['works'],['great'],['POS'],"aspect: ['money', 'performance']
+Sentiment: ['Positive', 'Positive']",": ['money', 'performance']",": ['Positive', 'Positive']"
+Premium price for the OS more than anything else .,"['price', 'OS']","['Premium', 'Premium']","['POS', 'NEU']","aspect: ['price']
+Sentiment: ['Negative']",: ['price'],: ['Negative']
+"I was a little concerned about the touch pad based on reviews , but I 've found it fine to work with .","['touch pad', 'touch pad']","['concerned', 'fine']","['POS', 'POS']","aspect: ['touch pad', 'concern']
+Sentiment: ['Positive', 'Negative']",": ['touch pad', 'concern']",": ['Positive', 'Negative']"
+"However , the experience was great since the OS does not become unstable and the application will simply shutdown and reopen .","['OS', 'OS']","['great', 'not become unstable']","['POS', 'POS']","aspect: ['application', 'OS']
+Sentiment: ['Positive', 'Positive']",": ['application', 'OS']",": ['Positive', 'Positive']"
+The battery is not as shown in the product photos .,['battery'],['not as shown'],['NEG'],"aspect: ['battery', 'photo']
+Sentiment: ['Negative', 'Negative']",": ['battery', 'photo']",": ['Negative', 'Negative']"
+Shipping was quick and product described was the product sent and so much more ...,['Shipping'],['quick'],['POS'],"aspect: ['shipping', 'product']
+Sentiment: ['Positive', 'Positive']",": ['shipping', 'product']",": ['Positive', 'Positive']"
+the retina display display make pictures i took years ago jaw dropping .,['retina display display'],['dropping'],['POS'],"aspect: ['display', 'pictures']
+Sentiment: ['Positive', 'Positive']",": ['display', 'pictures']",": ['Positive', 'Positive']"
+The Mac Mini is probably the simplest example of compact computing out there .,['compact computing'],['simplest'],['POS'],"aspect: ['compactness', 'computing']
+Sentiment: ['Positive', 'Positive']",": ['compactness', 'computing']",": ['Positive', 'Positive']"
+"Additionally , there is barely a ventilation system in the computer , and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot , and in fact impossible to keep on lap .","['ventilation system', 'ventilation system', 'watching videos', 'watching videos', 'playing steam games']","['barely', 'hot', 'simple', 'hot', 'hot']","['NEG', 'NEG', 'NEU', 'NEU', 'NEU']","aspect: ['heat', 'ventilation', 'video', 'laptop']
+Sentiment: ['Negative', 'Negative', 'Positive', 'Negative']",": ['heat', 'ventilation', 'video', 'laptop']",": ['Negative', 'Negative', 'Positive', 'Negative']"
+"Chatting with Acer support , I was advised the problem was corrupted operating system files .",['operating system files'],['corrupted'],['NEU'],"aspect: ['support', 'problem', 'operating system']
+Sentiment: ['Positive', 'Negative', 'Negative']",": ['support', 'problem', 'operating system']",": ['Positive', 'Negative', 'Negative']"
+It 's been a couple weeks since the purchase and I 'm struggle with finding the correct keys ( but that was expected ) .,['keys'],['struggle'],['NEU'],"aspect: ['keys', 'purchase']
+Sentiment: ['Negative', 'Positive']",": ['keys', 'purchase']",": ['Negative', 'Positive']"
+"Many people complain about the new OS , and it 's urgent for Apple to fix it asap !",['OS'],['complain'],['NEG'],"aspect: ['OS', 'Urgency']
+Sentiment: ['Negative', 'Positive']",": ['OS', 'Urgency']",": ['Negative', 'Positive']"
+Now that I have upgraded to Lion I am much happier about MAC OS and have just bought an iMac for office .,"['Lion', 'MAC OS']","['upgraded', 'happier']","['POS', 'POS']","aspect: ['mac os', 'imac', 'office']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['mac os', 'imac', 'office']",": ['Positive', 'Positive', 'Positive']"
+User upgradeable RAM and HDD .,"['RAM', 'HDD']","['upgradeable', 'upgradeable']","['POS', 'POS']","aspect: ['RAM', 'HDD']
+Sentiment: ['Positive', 'Positive']",": ['RAM', 'HDD']",": ['Positive', 'Positive']"
+But I wanted the Pro for the CD/DVD player .,['CD/DVD player'],['wanted'],['POS'],"aspect: ['CD/DVD player']
+Sentiment: ['Negative']",: ['CD/DVD player'],: ['Negative']
+I was a little worry at first because I do n't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows .,['os.x'],['worry'],['NEU'],"aspect: ['experience', 'os.x', 'windows']
+Sentiment: ['negative', 'negative', 'positive']",": ['experience', 'os.x', 'windows']",": ['negative', 'negative', 'positive']"
+With the softwares supporting the use of other OS makes it much better .,"['OS', 'softwares']","['better', 'better']","['NEU', 'NEU']","aspect: ['software', 'os']
+Sentiment: ['Positive', 'Positive']",": ['software', 'os']",": ['Positive', 'Positive']"
+"I was considering buying the Air , but in reality , this one has a more powerful performance and seems much more convenient , even though it 's about .20 inch thicker and 2 lbs heavier .",['performance'],['powerful'],['POS'],"aspect: ['performance', 'weight', 'convenience']
+Sentiment: ['Positive', 'Negative', 'Positive']",": ['performance', 'weight', 'convenience']",": ['Positive', 'Negative', 'Positive']"
+"At home and the office it gets plugged into an external 24 '' LCD screen , so built in screen size is not terribly important .",['built in screen size'],['not terribly important'],['NEU'],"aspect: ['screen_size', 'portability']
+Sentiment: ['Positive', 'Positive']",": ['screen_size', 'portability']",": ['Positive', 'Positive']"
+Just beware no DVD slot so when I went to install software I had on CD I could n't .,['DVD slot'],['no'],['NEU'],"aspect: ['DVD slot', 'software']
+Sentiment: ['Negative', 'Negative']",": ['DVD slot', 'software']",": ['Negative', 'Negative']"
+No Cd Rom in the new version there 's no way I 'm spending that kind of money on something has less features than the older version .,"['Cd Rom', 'features']","['No', 'less']","['NEU', 'NEG']","aspect: ['features', 'money', 'version']
+Sentiment: ['Negative', 'Negative', 'Negative']",": ['features', 'money', 'version']",": ['Negative', 'Negative', 'Negative']"
+the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer,"['volume', 'volume', 'volume', 'volume']","['low', 'hate', 'low', 'hate']","['NEG', 'NEG', 'NEG', 'NEG']","aspect: ['volume', 'sound']
+Sentiment: ['Negative', 'Negative']",": ['volume', 'sound']",": ['Negative', 'Negative']"
+and its not hard to accidentally bang it against something so i recommend getting a case to protect it .,['case'],['recommend'],['NEU'],"aspect: ['case', 'protection', 'bang']
+Sentiment: ['Positive', 'Positive', 'Negative']",": ['case', 'protection', 'bang']",": ['Positive', 'Positive', 'Negative']"
+I got this at an amazing price from Amazon and it arrived just in time .,['price'],['amazing'],['POS'],"aspect: ['price', 'time']
+Sentiment: ['Positive', 'Positive']",": ['price', 'time']",": ['Positive', 'Positive']"
+"Every time I log into the system after a few hours , there is this endlessly frustrating process that I have to go through .",['log into the system'],['frustrating'],['NEG'],"aspect: ['frustration', 'login']
+Sentiment: ['Negative', 'Negative']",": ['frustration', 'login']",": ['Negative', 'Negative']"
+"Put a SSD and use a 21 '' LED screen , this set up is silky smooth !",['set up'],['silky smooth'],['POS'],"aspect: ['screen', 'smoothness']
+Sentiment: ['Positive', 'Positive']",": ['screen', 'smoothness']",": ['Positive', 'Positive']"
+"The case is now slightly larger than the previous generation , but the lack of an external power supply justifies the small increase in size .","['case', 'external power supply']","['larger', 'lack']","['NEG', 'NEU']","aspect: ['case', 'size', 'power supply']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['case', 'size', 'power supply']",": ['Positive', 'Positive', 'Positive']"
+"I had to buy a wireless mouse to go with it , as I am old school and hate the pad , but knew that before I bought it , now it works great , need to get adjusted to the key board , as I am used to a bigger one and pounding .","['pad', 'works']","['hate', 'great']","['NEG', 'POS']","aspect: ['keyboard', 'mouse', 'pad']
+Sentiment: ['Positive', 'Positive', 'Negative']",": ['keyboard', 'mouse', 'pad']",": ['Positive', 'Positive', 'Negative']"
+"Has all the other features I wanted including a VGA port , HDMI , ethernet and 3 USB ports .","['features', 'VGA port', 'HDMI', 'ethernet', 'USB ports']","['wanted', 'wanted', 'wanted', 'wanted', 'wanted']","['POS', 'NEU', 'NEU', 'NEU', 'NEU']","aspect: ['features', 'port', 'usb']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['features', 'port', 'usb']",": ['Positive', 'Positive', 'Positive']"
+The only thing I dislike about this laptop are the rubber pads found on the bottom of the computer for grip .,['rubber pads'],['dislike'],['NEG'],"aspect: ['grip', 'pad']
+Sentiment: ['Negative', 'Negative']",": ['grip', 'pad']",": ['Negative', 'Negative']"
+It 's a decent computer for the price and hopefully it will last a long time .,['price'],['decent'],['NEU'],"aspect: ['price', 'durability']
+Sentiment: ['Positive', 'Positive']",": ['price', 'durability']",": ['Positive', 'Positive']"
+The nicest part is the low heat output and ultra quiet operation .,"['heat output', 'heat output', 'operation', 'operation']","['nicest', 'low', 'nicest', 'quiet']","['POS', 'POS', 'POS', 'POS']","aspect: ['heat', 'noise']
+Sentiment: ['Positive', 'Positive']",": ['heat', 'noise']",": ['Positive', 'Positive']"
+"this Mac Mini does not have a built-in mic , and it would seem that its Mac OS 10.9 does not handle external microphones properly .","['built-in mic', 'Mac OS 10.9']","['not have', 'not handle']","['NEU', 'NEG']","aspect: ['microphone', 'os']
+Sentiment: ['Negative', 'Negative']",": ['microphone', 'os']",": ['Negative', 'Negative']"
+A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC .,"['features', 'shortcuts']","['lot of', 'lot of']","['NEU', 'NEU']","aspect: ['features', 'shortcuts']
+Sentiment: ['Positive', 'Positive']",": ['features', 'shortcuts']",": ['Positive', 'Positive']"
+Was n't sure if I was going to like it much less love it so I went to a local best buy and played around with the IOS system on a Mac Pro and it was totally unique and different .,"['IOS system', 'IOS system']","['unique', 'different']","['POS', 'POS']","aspect: ['system', 'uniqueness']
+Sentiment: ['Positive', 'Positive']",": ['system', 'uniqueness']",": ['Positive', 'Positive']"
+air has higher resolution but the fonts are small .,"['resolution', 'fonts']","['higher', 'small']","['POS', 'NEG']","aspect: ['resolution', 'font']
+Sentiment: ['Positive', 'Negative']",": ['resolution', 'font']",": ['Positive', 'Negative']"
+"working with Mac is so much easier , so many cool features .","['working', 'features']","['easier', 'cool']","['POS', 'POS']","aspect: ['features', 'ease of use']
+Sentiment: ['Positive', 'Positive']",": ['features', 'ease of use']",": ['Positive', 'Positive']"
+I like the brightness and adjustments .,"['brightness', 'adjustments']","['like', 'like']","['POS', 'POS']","aspect: ['brightness', 'adjustments']
+Sentiment: ['Positive', 'Positive']",": ['brightness', 'adjustments']",": ['Positive', 'Positive']"
+I only wish this mac had a CD/DVD player built in .,['CD/DVD player'],['wish'],['NEU'],"aspect: ['CD/DVD player']
+Sentiment: ['Negative']",: ['CD/DVD player'],: ['Negative']
+The only thing I miss is that my old Alienware laptop had backlit keys .,['backlit keys'],['miss'],['NEG'],"aspect: ['keys', 'backlit']
+Sentiment: ['Negative', 'Positive']",": ['keys', 'backlit']",": ['Negative', 'Positive']"
+"So happy with this purchase , I just wish it came with Microsoft Word .",['Microsoft Word'],['wish'],['NEU'],"aspect: ['purchase', 'word']
+Sentiment: ['Positive', 'Negative']",": ['purchase', 'word']",": ['Positive', 'Negative']"
+It has enough memory and speed to run my business with all the flexibility that comes with a laptop .,"['memory', 'speed']","['enough', 'enough']","['POS', 'POS']","aspect: ['memory', 'speed', 'flexibility']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['memory', 'speed', 'flexibility']",": ['Positive', 'Positive', 'Positive']"
+"The battery life is excellent , the display is excellent , and downloading apps is a breeze .","['battery life', 'display', 'downloading apps']","['excellent', 'excellent', 'breeze']","['POS', 'POS', 'POS']","aspect: ['battery', 'display', 'app']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['battery', 'display', 'app']",": ['Positive', 'Positive', 'Positive']"
+"The screen , the software and the smoothness of the operating system .",['operating system'],['smoothness'],['POS'],"aspect: ['operating system', 'screen', 'software']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['operating system', 'screen', 'software']",": ['Positive', 'Positive', 'Positive']"
+"But with this laptop , the bass is very weak and the sound comes out sounding tinny .","['bass', 'sound']","['weak', 'tinny']","['NEG', 'NEG']","aspect: ['bass', 'sound']
+Sentiment: ['Negative', 'Negative']",": ['bass', 'sound']",": ['Negative', 'Negative']"
+"The built quality is really good , I was so Happy and excited about this Product .","['built quality', 'built quality', 'built quality']","['good', 'Happy', 'excited']","['POS', 'POS', 'POS']","aspect: ['quality', 'satisfaction']
+Sentiment: ['Positive', 'Positive']",": ['quality', 'satisfaction']",": ['Positive', 'Positive']"
+I am loving the fast performance also .,"['performance', 'performance']","['loving', 'fast']","['POS', 'POS']","aspect: ['performance']
+Sentiment: ['Positive']",: ['performance'],: ['Positive']
+"Further , this Mac Mini has a sloppy Bluetooth interface ( courtesy of the Mac OS ) and the range is poor .","['Bluetooth interface', 'Mac OS', 'range']","['sloppy', 'courtesy', 'poor']","['NEG', 'NEG', 'NEG']","aspect: ['range', 'bluetooth']
+Sentiment: ['Negative', 'Negative']",": ['range', 'bluetooth']",": ['Negative', 'Negative']"
+My only gripe would be the need to add more RAM .,['RAM'],['gripe'],['NEG'],"aspect: ['ram']
+Sentiment: ['negative']",: ['ram'],: ['negative']
+Fine if you have a touch screen .,['touch screen'],['Fine'],['NEU'],"aspect: ['screen']
+Sentiment: ['Positive']",: ['screen'],: ['Positive']
+"This by far beats any computer out on the market today built well , battery life AMAZING .","['built', 'battery life']","['well', 'AMAZING']","['POS', 'POS']","aspect: ['battery_life', 'build']
+Sentiment: ['Positive', 'Positive']",": ['battery_life', 'build']",": ['Positive', 'Positive']"
+"The OS is easy , and offers all kinds of surprises .","['OS', 'OS']","['easy', 'surprises']","['POS', 'POS']","aspect: ['OS', 'surprises']
+Sentiment: ['Positive', 'Positive']",": ['OS', 'surprises']",": ['Positive', 'Positive']"
+A veryimportant feature is Firewire 800 which in my experience works better then USB3 ( in PC enabled with USB3 ) I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7 .,"['Firewire 800', 'Firewire 800', 'MAC OS']","['veryimportant', 'better', 'inferior']","['POS', 'POS', 'NEG']","aspect: ['firewire', 'os', 'usb3']
+Sentiment: ['Positive', 'Negative', 'Positive']",": ['firewire', 'os', 'usb3']",": ['Positive', 'Negative', 'Positive']"
+"I like iTunes , the apparent security , the Mini form factor , all the nice graphics stuff .","['iTunes', 'security', 'graphics stuff']","['like', 'apparent', 'nice']","['POS', 'POS', 'POS']","aspect: ['graphics', 'security', 'form factor']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['graphics', 'security', 'form factor']",": ['Positive', 'Positive', 'Positive']"
+"After replacing the spinning hard disk with an ssd drive , my mac is just flying .",['ssd drive'],['flying'],['POS'],"aspect: ['drive', 'performance']
+Sentiment: ['Positive', 'Positive']",": ['drive', 'performance']",": ['Positive', 'Positive']"
+I know some people complained about HDMI issues but they released a firmware patch to address that issue .,['HDMI'],['complained'],['NEU'],"aspect: ['hdmi', 'patch']
+Sentiment: ['Negative', 'Positive']",": ['hdmi', 'patch']",": ['Negative', 'Positive']"
+With the needs of a professional photographer I generally need to keep up with the best specs .,['specs'],['best'],['NEU'],"aspect: ['need', 'specs']
+Sentiment: ['Positive', 'Positive']",": ['need', 'specs']",": ['Positive', 'Positive']"
+packing and everything was perfect,['packing'],['perfect'],['POS'],"aspect: ['packing', 'everything']
+Sentiment: ['Positive', 'Positive']",": ['packing', 'everything']",": ['Positive', 'Positive']"
+I called Toshiba where I gave them the serial number and they informed me that they were having issues with the mother boards .,['mother boards'],['issues'],['NEU'],"aspect: ['motherboard', 'serial number']
+Sentiment: ['Negative', 'Positive']",": ['motherboard', 'serial number']",": ['Negative', 'Positive']"
+"I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty , related to the graphics card .","['Mother Board', 'graphics card']","['faulty', 'faulty']","['NEG', 'NEG']","aspect: ['graphics_card', 'mother_board']
+Sentiment: ['Negative', 'Negative']",": ['graphics_card', 'mother_board']",": ['Negative', 'Negative']"
+It also comes with 4G of RAM but if you 're like me you want to max that out so I immediately put 8G of RAM in her and I 've never used a computer that performs better .,['performs'],['better'],['POS'],"aspect: ['ram', 'performance']
+Sentiment: ['positive', 'positive']",": ['ram', 'performance']",": ['positive', 'positive']"
+This computer is also awesome for my sons virtual home schooling .,['virtual home schooling'],['awesome'],['POS'],"aspect: ['computer', 'home schooling']
+Sentiment: ['Positive', 'Positive']",": ['computer', 'home schooling']",": ['Positive', 'Positive']"
+Cost is more as compared to other brands .,['Cost'],['more'],['NEG'],"aspect: ['cost']
+Sentiment: ['Negative']",: ['cost'],: ['Negative']
+also ... - excellent operating system -- size and weight for optimal mobility -- excellent durability of the battery -- the functions provided by the trackpad is unmatched by any other brand-,"['operating system', 'size', 'weight', 'mobility', 'durability of the battery', 'functions provided by the trackpad']","['excellent', 'excellent', 'excellent', 'optimal', 'excellent', 'unmatched']","['POS', 'POS', 'POS', 'POS', 'POS', 'POS']","aspect: ['battery', 'operating system', 'size', 'trackpad']
+Sentiment: ['Positive', 'Positive', 'Positive', 'Positive']",": ['battery', 'operating system', 'size', 'trackpad']",": ['Positive', 'Positive', 'Positive', 'Positive']"
+This hardware seems to be better than the iMac in that it is n't $ 1400 and smaller .,['hardware'],['better'],['POS'],"aspect: ['price', 'size']
+Sentiment: ['Positive', 'Positive']",": ['price', 'size']",": ['Positive', 'Positive']"
+I 've had it for about 2 months now and found no issues with software or updates .,"['software', 'updates']","['no issues', 'no issues']","['NEU', 'NEU']","aspect: ['software', 'updates']
+Sentiment: ['Positive', 'Positive']",": ['software', 'updates']",": ['Positive', 'Positive']"
+the latest version does not have a disc drive .,['disc drive'],['not have'],['NEU'],"aspect: ['disc_drive']
+Sentiment: ['Negative']",: ['disc_drive'],: ['Negative']
+Screen - although some people might complain about low res which I think is ridiculous .,"['Screen', 'Screen', 'res', 'res']","['complain', 'ridiculous', 'low', 'ridiculous']","['POS', 'POS', 'POS', 'POS']","aspect: ['screen', 'resolution']
+Sentiment: ['Positive', 'Negative']",": ['screen', 'resolution']",": ['Positive', 'Negative']"

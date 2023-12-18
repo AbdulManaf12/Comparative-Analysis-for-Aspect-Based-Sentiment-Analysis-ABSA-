@@ -1,0 +1,197 @@
+sentence,target_text,begin,end,sentiment,deberta
+"""Typical"" Italian food was far from typical.",Italian food,10,22,negative,positive
+"After a few weeks the tablet started asking for updates, however i don't mind that, the resolution of the camera is decent, the sound quality is okay, i can watch movies with no problems and i like the wireless headphones that came with it, excellent buy.",sound,128,133,positive,positive
+All the doctors and staff present were attentive to what I needed and they helped me in everything,doctors and staff present,8,33,positive,positive
+"Also, the fuel injection system does not work as it should since it does not inject enough, I am disappointed.",the fuel injection system,6,31,negative,negative
+Always seems to understand me with perfectly clarity and there is no delay between my commands and the answers I get.,clarity,45,52,positive,positive
+And great performance with hard work.,performance,10,21,positive,positive
+"As a result , I got bacteria in my stomach and i was very sick .",bacteria in my stomach,20,42,negative,negative
+"Banks are entities that help us to carry out projects that are fruitful, only that with these entities you have to be careful regarding the request for credits since they generate interest and we can lose more than we earn.",projects,45,53,positive,positive
+Built in webcam works fantastically well.,Built in webcam,0,15,positive,positive
+But I had to wait a long time.,wait,13,17,negative,negative
+"But what an annoying bank, a lot of requirements and when you bring them they do not give you attention as you expect that failure",attention,94,103,negative,negative
+"Despite having original content, it has a long way to go to keep up with other streaming services.",content,24,31,positive,negative
+"Ecxelent injector service, my car looked great.",injector service,9,25,positive,positive
+Excellent location.,location,10,18,positive,positive
+Exceptionally simple to browse and find what I wanted.,find what I wanted,35,53,positive,positive
+"Good attention, excellent sweets.",sweets,26,32,positive,positive
+Good rates and good service.,rates,5,10,positive,positive
+"Good service, but the rooms are very small and do not have a children's pool or a recreation park.",service,5,12,positive,positive
+Good: continually updating your catalog.,updating your catalog,18,39,positive,positive
+"Great location, great food, definitely will be back!",food,22,26,positive,positive
+"He received me very kindly with a cocktail, the room as in every way, a five-star experience",experience,82,92,positive,positive
+"He was so nice and helpful, even set my settings how I wanted them to be set for my emails, photos and anything else I asked of him.",He,0,2,positive,positive
+He went way beyond what he was required to do.,He,0,2,positive,positive
+He would return to that place.,place,24,29,positive,positive
+I advise people who work for long time to try it.,it,46,48,positive,positive
+I always buy from this grocer.,grocer,23,29,positive,positive
+I bought Big Mac and it was a very nice meal.,Big Mac,9,16,positive,positive
+"I bought a last generation phone but the camera does not work, it is fatal",camera,41,47,negative,negative
+I bought some rice from the grocery shop and my family liked it.,rice from the grocery shop,14,40,positive,positive
+"I bought this cellphone for its camera, but it turns out that the quality is not as expected.",cellphone,14,23,negative,positive
+"I bought this laptop 1 year ago and I am satisfied with that.It has a moderate price.Its battery life is short.It has a two-year warranty, which is good.",two,120,123,positive,positive
+I bought this mobile phone from 1 year age and it is working perfectly till now .,mobile phone,14,26,positive,positive
+I can't wait to visit this restaurant again.,restaurant,27,37,positive,positive
+I had a wonderful experience buying my phone.,experience buying my phone,18,44,positive,positive
+I had sex issues with my wife as we have got married recently and we didn't have sex before marriage.,sex,6,9,negative,negative
+I have to admit that I am so happy to dealing with this shop .,dealing with this shop,38,60,positive,positive
+I have to admit that I am very happy  because of buy this phone .,this phone,53,63,positive,positive
+I have toothache so i visited the dentist and gave me some advises on how to wash my teeth properly and he was very nice.,dentist,34,41,positive,positive
+I highly recommend it.,it,19,21,positive,positive
+I like its shape.It has low quality.It has a low price.I especially love its camera.It has moderate support.,price,49,54,positive,positive
+I liked it,it,8,10,positive,positive
+"I made one of the most important purchases of my life, the store had everything I was looking for and at excellent prices",store,59,64,positive,positive
+"I rate it with 0 stars, the attention is of very low quality, the wait in the lines is very long, I do not recommend it",attention,28,37,negative,negative
+I really like it.,it,14,16,positive,positive
+I recently signed up for the Spotify 14 day free trial.,Spotify 14 day free trial,29,54,positive,positive
+I recommend them.,them,12,16,positive,positive
+I suffer from allergy to many kinds of foods and things.,allergy,14,21,negative,negative
+I visited the allergist and he made some tests and understood what things exactly i should stay away from.,allergist,14,23,positive,positive
+I was looking for a product and found someone that works in the store to ask them where I can locate the product and she was very rude and said I don't know really snotty and walked away.,someone that works in the store,38,69,negative,negative
+"I went to my insurance company to renew my insurance policy, it didn't take long, the attention was fast, the assistant was very kind and respectful, they gave me a coffee, I was really pleased with the service, I would recommend it to everyone.",service,203,210,positive,positive
+"I went to the medical spa where I received an excellent therapy for muscle aches, it is very satisfying to feel relieved",therapy,56,63,positive,positive
+I went to this hotel  3 months ago and i highly recommended it .,hotel,15,20,positive,positive
+"I went with my wife to eat at a restaurant recommended by a friend, the staff was attentive and very helpful, but the food was not as good as we expected.",staff,72,77,positive,positive
+I will definitely travel with this airline again and will recommend it to my friends.,this airline,30,42,positive,positive
+I will never fly with that airline again.,airline,27,34,negative,negative
+I will return to that place.,place,22,27,positive,positive
+I would not return to that place.,that place,22,32,negative,negative
+I've bought these sunglasses in order to protect my eyes from the sun.,sunglasses,18,28,positive,positive
+"It has an excellent location and the view is very beautiful, but the decoration is old, they need to be updated.",decoration,69,79,negative,negative
+It is a genre that many people love despite its loud and incomprehensible content,loud,48,52,negative,negative
+"It is a great alternative when you need to have your business running 24 hours a day, 7 days a week, 365 days a year.",alternative,14,25,positive,positive
+It is a lightweight phone.,phone,20,25,positive,positive
+It is a warm place that I would go again.,place,13,18,positive,positive
+"It is perfect, it does not adhere to the dirt and much less the rainwater so the paint of your car will last much longer",It,0,2,positive,positive
+It was very cheap.,It,0,2,positive,positive
+"It worked well for the first two months, I loved the camera and the speed of opening applications.",speed of opening applications,68,97,positive,positive
+It's mid tower and suitable for most  motherboards and VGA cards.,tower,9,14,positive,positive
+"Its a Ojeda store, that have much variety and very well made!",Ojeda store,6,17,positive,positive
+"Last week with my friends, went to a restaurant that offers a lot of different kinds of food, and I confess that really never taste some macaron's food in any way.",restaurant,37,47,positive,positive
+My children asked me to bring some meat to make meatballs but I was worried that the meat in markets aren't fresh until I saw this butcher and bough 2kg of meat.,meat in markets,85,100,negative,negative
+"My girlfriend and I have contracted some good friend of hers that works and help to bring any home better harmony, energy, style, and architecture to life, based on the feng shui energy because my girlfriend and I of course believe and that kind of stuff.",harmony,106,113,positive,positive
+My impressions so far are positive and i would recommend the service.,service,61,68,positive,positive
+My phone has less than a week of use and the battery is already failing,phone,3,8,negative,negative
+Netflix is â€‹â€‹the best option to watch movies in this quarantine season,Netflix,0,7,positive,positive
+Nice interface and system.,interface and system,5,25,positive,positive
+Now I enjoy a happy sexual life with my wife.,sexual life with my wife,20,44,positive,positive
+Perfect mixture of both sweet and savoury products on offer.,mixture of both sweet and savoury products,8,50,positive,positive
+Personnel with good experience and very well trained to carry out any infrastructure work and training of the place to build.,experience,20,30,positive,positive
+Since then I took his advises seriously and I've never felt allergic symptoms anymore.,advises,22,29,positive,positive
+Sleek looking and it's small size makes it perfect to store in the living room.,small size,23,33,positive,negative
+So  I recommend it without any doubt.,it,16,18,positive,positive
+Super stable and low consumption.,consumption,21,32,positive,negative
+The adult shops most be a concientitation campaing,adult shops,4,15,positive,negative
+The battery discharges quickly.,battery,4,11,negative,negative
+"The cabin is luxurious, and has enough capacity to fit my whole family comfortably.",cabin,4,9,positive,positive
+The camera is one of the best that I have used.,camera,4,10,positive,positive
+The car is beautiful from the outside and has full options inside including gps.,car,4,7,positive,positive
+"The comfort was incredible, but the rooms and hall arenÂ´t clean at all.",rooms,36,41,negative,negative
+"The decorist was the perfect blend of individualized service, so creative, innovated, fast and kind, gave a click with the style exactly that I wanted for the rooms.",decorist,4,12,positive,positive
+"The entity provides a good service to its clients and protection of their money, with different types of credits and comfortable monthly payments.",service,27,34,positive,positive
+The first month was profitable.,first month,4,15,positive,positive
+"The food is very good, I would have liked a better garlic sauce, but otherwise everything is fine.",everything,79,89,positive,positive
+The hotel has very good attention I loved staying here I recommend it 100% I hope to return next month,attention,24,33,positive,positive
+The hotel staff gave me an amazing room with sea view.,room,35,39,positive,positive
+The il service its very helpfull the operators tell me about another fail whit my car whit no other extra cost,operators,37,46,positive,positive
+"The inflation is very comfortable, and shows the results without any complications.",inflation,4,13,positive,positive
+The internet service is very slow lately when when I call to ask they say that the area has been under maintenance for about 1 week,internet service,4,20,negative,negative
+"The man that helped me, went out of his way and did everything that needed to be done to get my new phone up and running.",The man that helped me,0,22,positive,positive
+The motherboard comes with excellent heat sinks to reduce the temperature of Ryzen processors and it supports crossfire so this made thins easier for me.,heat sinks,37,47,positive,positive
+The ocean view is incredible.,The ocean view,0,14,positive,positive
+The reception was bad and the staff looked tired.,staff,30,35,negative,negative
+"The restaurant has a very good location, but the food is very expensive and too salty for my taste",food,49,53,negative,negative
+The restaurant is beautiful from outside and inside and  you can smell the food from a distance which makes you hungry.,food,75,79,positive,positive
+"The rooms and overall the whole hotel was very nice, I love it",rooms,4,9,positive,positive
+The rooms were very comfortable and the staff treated us like royalty.,staff,40,45,positive,positive
+The waiters are respectful.,waiters,4,11,positive,positive
+The watch has a perfect design and nice shaped buttons.,watch,4,9,positive,positive
+There you can have all kinds of luxury and the room service is very friendly .,room service,47,59,positive,positive
+They charged me a lot for registration.,charged,5,12,negative,negative
+They have a range of good quality technological equipment and a 1 year warranty on all their equipment.,technological equipment,34,57,positive,positive
+They offer extensive gifting options and varieties that made it more than simple enough.,gifting options and varieties,21,50,positive,positive
+They were fresh and healthy and my kids loved it.,They,0,4,positive,positive
+"Truly it was the best thing that I eat so far, very nice flavor, good texture, great companion with the spaghetti, so easy and unique appearance, smell, and delicious.",thing that I eat,22,38,positive,positive
+Usually delivers a great quality picture and sound experience however customer service couldn't deal with an issue I had.,quality,25,32,positive,positive
+Very few series and movies,series and movies,9,26,negative,negative
+Very nice place.,place,10,15,positive,positive
+We were told that breakfast was included and it turns out we had to pay for it.,breakfast,18,27,negative,positive
+Well timed promotions that make you feel that you are getting your monies worth.,promotions,11,21,positive,positive
+"Went to the restaurant for the first time and everything was perfect, the waitress went out of her way to attend to us.",everything,46,56,positive,positive
+Wery well made lawyer!,lawyer,15,21,positive,positive
+What I don't like is that it gets a bit hot after a few minutes of use.,it gets a bit hot,26,43,negative,negative
+"When i opened the packaging and took the console out, i was impressed with the design of the console.",design,79,85,positive,positive
+"Whenever I go shopping at walmart, the workers are always very polite and helpful.",walmart,26,33,positive,positive
+You can buy online and send to your home super fast,send,23,27,positive,positive
+"classical music serves as a method of relaxation and to relieve stress
+the counterproductive is that classical music has been modernized which causes its effect on relaxation to be not the same as with traditional music",classical music has been modernized,101,136,negative,negative
+"excellent bank with friendly service, always available and easy to use app",service,29,36,positive,positive
+"first , I admit that  I was correct when  decided to go to a Psychologist .",Psychologist,61,73,positive,positive
+he recommended the use of some vitamins and a plan for feeding the chlid and it finally works .,plan for feeding the chlid,46,72,positive,positive
+"i bought this phone at a reasonable price, i loved it because it has enough ram memory to be able to open my applications without any inconvenience, its on-screen technology allows me to view the videos in HD and it is also ultra thin and light, i love it",phone,14,19,positive,positive
+i bought this phone two years ago and i admit that this mobile is perfect .,phone,14,19,positive,positive
+"investments are expensive and interest is very high, i am very disappointed with the service",interest,30,38,negative,negative
+it has 48 hours of battery life .,battery life,19,31,positive,positive
+it overheats a lot and that makes it difficult to work with it,it,0,2,negative,negative
+it was a bad experience  for me .,experience,13,23,negative,negative
+my moral was hurting and I went to dentist who recommended pulling this molar .... but I notice that the equipment  was not  sterile and clean .,moral,3,8,negative,negative
+pepsi diet has very good taste with less calories,taste,25,30,positive,positive
+pretty good muscle therapy service with the best therapists in the state.,therapists,49,59,positive,positive
+the attention is very good and the place is very beautiful,place,35,40,positive,positive
+"the car is in excellent condition, you have new tires, seats in excellent condition and engine up to date",engine,88,94,positive,positive
+"the car is in very bad condition, seats are broken and paint deteriorated, apart from the stereo it does not work",car,4,7,negative,negative
+the church is very well preserved and has very beautiful facilities,church,4,10,positive,positive
+the clinic location is perfect ..,clinic location,4,19,positive,positive
+the coffee i bought from the shop is so effective that because it's supplied with caffeine.,caffeine,82,90,positive,positive
+the dentist has very good reviews which encouraged me to pay him a visit because I had teeth pain.,dentist,4,11,positive,positive
+"the guys arrived on time for the cleaning, they have the latest tools for cleaning, they do their job without much noise and quickly, excellent treatment and very cordial and respectful",the guys,0,8,positive,positive
+the hotel is very good but the weather is very cold for my taste,weather,31,38,negative,negative
+the keyboard is soft and so thin which makes you relax when tapping it's buttons.,keyboard,4,12,positive,positive
+the location of the store is so clear and easy to go .,location of the store,4,25,positive,positive
+the location of this shop is great and easy to go to but the treatment of the shop staff is not good .,treatment of the shop staff,61,88,negative,negative
+the most amazing thing about this controller is that it has adjustable sensitivity settings and it works perfectly,controller,34,44,positive,positive
+"the place is great  they offer many healing services  specialy acupunture , i really  heal my pain  in my back, you can chose the plan that you want they offered 4 plans, the service is special and  the personal  do their job very well  and they have convienence hours",place,4,9,positive,positive
+"the place was nicely decorated and the food was spectacular, I would definitely go again",food,39,43,positive,positive
+the price of food is enough fair.,price,4,9,positive,positive
+"the refrigerator does not cool, and the food is spoiled due to lack of temperature",refrigerator,4,16,negative,negative
+"the restaurant really was quite spacious as expected, very good service, quite elegant waiters and very delicious food",restaurant,4,14,positive,positive
+the room service was excellent and the staff is very friendly,staff,39,44,positive,positive
+the room service was so ruddy and the quality of food was so bad .,room service,4,16,negative,negative
+the room was very nice and room service was great.,room service,27,39,positive,positive
+the router works fine for what i pay but it doesn't have much range and sometimes it gets misconfigured by itself,works,11,16,positive,negative
+the seats are comfortable and can take up to 6 persons in.,seats,4,9,positive,positive
+"this restaurant is the best their sandwich are amazing  they have all the ingredients that you possible want , and the size is  great to  i recomended to go to this restaurant",sandwich,34,42,positive,positive
+this service is great  the speed of this internet is amazing  i can watch netflix  and  disney + in the  same time is the best,speed of this internet,27,49,positive,positive
+very good food in this restaurant and the attention is very good I love it,attention,42,51,positive,positive
+"very pleasant place to spend some days near the sea
+
+the attention is first
+
+the cost is cheap",cost,81,85,positive,positive
+"we stayed 5 days in the hotel, the wonderful food and its wonderful pool",food,45,49,positive,positive
+when I bought this phone I thought it has 128gb clear memory but unfortunately the system takes about 50gb  which is too much.,system,83,89,negative,negative
+with this product I have enjoyed working in appen!,product,10,17,positive,positive
+"yesterday, I ordered four chicken sandwiches but the quality of food was disappointing for me , Food was delivered after 4 hours .",delivered,105,114,negative,negative
+you can find there anything you want .,there,13,18,positive,positive
+you can let your child  play in the kids area safely .,kids area,36,45,positive,positive
+I started reading it but never laughed.,Target Not Found,-1,-1,Not Available,
+We had to wait for our room to be vacated.,Target Not Found,-1,-1,Not Available,
+medicine was the whole solution for this pandemic but we do not know how effective it is,Target Not Found,-1,-1,Not Available,
+They told me that they could change it for another of better quality but the price was very high.,Target Not Found,-1,-1,Not Available,
+Highly recommended.,Target Not Found,-1,-1,Not Available,
+all in 1.,Target Not Found,-1,-1,Not Available,
+My back pain disappeared within 3 months.,Target Not Found,-1,-1,Not Available,
+The best,Target Not Found,-1,-1,Not Available,
+Stars: 4.8,Target Not Found,-1,-1,Not Available,
+I travelled with American Airlines.,Target Not Found,-1,-1,Not Available,
+I went to this employment agency 3 months ago.,Target Not Found,-1,-1,Not Available,
+Just as they had described it to us.,Target Not Found,-1,-1,Not Available,
+I visited the book shop and bought a book about the world war II.,Target Not Found,-1,-1,Not Available,
+It's okay if you only need it for one night.,Target Not Found,-1,-1,Not Available,
+I recently travelled to visit my grandparents in Florida.,Target Not Found,-1,-1,Not Available,
+super yes!,Target Not Found,-1,-1,Not Available,
+"Although the staff was attentive, they did not solve the problem with the credit card and we had to pay with cash.",Target Not Found,-1,-1,Not Available,
+Eaten at Chili's many times and never had a problem before.,Target Not Found,-1,-1,Not Available,
+I invested in the shares of this company in the stock market 6 months ago.,Target Not Found,-1,-1,Not Available,
+I bought a pair of sunglasses yesterday.,Target Not Found,-1,-1,Not Available,
+It was not what I expected.,Target Not Found,-1,-1,Not Available,

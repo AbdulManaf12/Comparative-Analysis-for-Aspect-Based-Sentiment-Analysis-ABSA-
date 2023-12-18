@@ -1,0 +1,12 @@
+dataset_name,task,test_accuracy,f_score,precision,recall
+dotsa/Restaurant_test_bard,ATSA,0.83,0.82,0.84,0.85
+dotsa/Books_test_bard,ATSA,0.79,0.75,0.7,0.8
+dotsa/Hotels_test_bard,ATSA,0.93,0.92,0.9,0.94
+dotsa/Clothing_test_bard,ATSA,0.78,0.7,0.63,0.78
+MAMS/ATSA_test_bard,ATSA,0.49,0.35,0.54,0.49
+MAMS/ACSA_test_bard,ATSA,0.56,0.48,0.7,0.56
+YASO/TSA-MD_val_bard,ATSA,0.98,0.98,0.98,0.98
+SemEval2016/restaurants_test_bard,ATSA,0.94,0.92,0.94,0.94
+SemEval2016/laptops_test_category_bard,ACSA,0.91,0.89,0.88,0.91
+SemEval2016/restaurants_test_category_bard,ACSA,0.93,0.91,0.92,0.93
+Sentihood/sentihood_test_bard_categories,ACSA,0.91,0.91,0.91,0.91

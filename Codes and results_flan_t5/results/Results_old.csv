@@ -1,0 +1,24 @@
+dataset_name,task,test_accuracy,f_score,precision,recall
+MAMS/ACSA_test_t5,ATSA,0.32,0.33,0.39,0.32
+YASO/TSA-MD_val_t5 - Copy,ATSA,0.78,0.87,1,0.78
+YASO/TSA-MD_val_t5,ATSA,0.76,0.83,0.93,0.76
+YASO/TSA-MD_val_t5 - Copy,ATSA,0.78,0.87,1,0.78
+YASO/TSA-MD_val_t5,ATSA,0.78,0.87,1,0.78
+SemEval2016/laptops_test_category_t5,ACSA,0,0,0,0
+SemEval2016/restaurants_test_category_t5,ACSA,0.72,0.83,0.97,0.72
+dotsa/Restaurant_test_t5 - Copy,ATSA,0.71,0.75,0.83,0.71
+dotsa/Restaurant_test_t5,ATSA,0.78,0.78,0.79,0.78
+dotsa/Restaurant_test_t5 - Copy,ATSA,0,0,0,0
+dotsa/Restaurant_test_t5,ATSA,0,0,0,0
+dotsa/Restaurant_test_t5 - Copy,ATSA,0.71,0.75,0.83,0.71
+dotsa/Restaurant_test_t5,ATSA,0.79,0.8,0.8,0.79
+MAMS/ACSA_test_old_t5,ATSA,0.32,0.33,0.39,0.32
+MAMS/ATSA_test_t5,ATSA,0.53,0.51,0.54,0.53
+YASO done/TSA-MD_val_t5,ATSA,0.84,0.9,0.98,0.84
+YASO done/TSA-MD_val_t5_old,ATSA,0.78,0.87,1,0.78
+MAMS/ACSA_test_old_t5,ATSA,0.32,0.33,0.39,0.32
+MAMS/ATSA_test_t5,ATSA,0.53,0.51,0.54,0.53
+dotsa/Books_test_t5,ATSA,0.68,0.7,0.71,0.68
+dotsa/Clothing_test_t5,ATSA,0.74,0.75,0.78,0.74
+dotsa/Hotels_test_t5,ATSA,0.9,0.91,0.92,0.9
+dotsa/Restaurant_test_t5,ATSA,0.79,0.8,0.8,0.79

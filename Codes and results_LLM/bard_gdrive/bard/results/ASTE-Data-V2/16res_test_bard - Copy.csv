@@ -1,0 +1,443 @@
+text,aspect,opinion,sentiment,Response_gpt,aspect_bard,sentiment_bard
+Serves really good sushi .,['sushi'],['good'],['POS'],"aspect: ['sushi']
+Sentiment: ['Positive']",: ['sushi'],: ['Positive']
+Not the biggest portions but adequate .,"['portions', 'portions']","['Not the biggest', 'adequate']","['NEU', 'NEU']","aspect: ['portions']
+Sentiment: ['Negative']",: ['portions'],: ['Negative']
+,,,,,,
+,,,,,,
+The entire staff was extremely accomodating and tended to my every need .,['staff'],['accomodating'],['POS'],"aspect: ['staff', 'service']
+Sentiment: ['Positive', 'Positive']",": ['staff', 'service']",": ['Positive', 'Positive']"
+The owner is belligerent to guests that have a complaint .,['owner'],['belligerent'],['NEG'],"aspect: ['owner', 'staff']
+Sentiment: ['Negative', 'Negative']",": ['owner', 'staff']",": ['Negative', 'Negative']"
+Good food !,['food'],['Good'],['POS'],"aspect: ['food']
+Sentiment: ['Positive']",: ['food'],: ['Positive']
+This is a great place to get a delicious meal .,['meal'],['delicious'],['POS'],"aspect: ['meal', 'place']
+Sentiment: ['Positive', 'Positive']",": ['meal', 'place']",": ['Positive', 'Positive']"
+The staff is pretty friendly .,['staff'],['friendly'],['POS'],"aspect: ['staff']
+Sentiment: ['Positive']",: ['staff'],: ['Positive']
+The onion rings are great !,['onion rings'],['great'],['POS'],"aspect: ['onion rings']
+Sentiment: ['Positive']",: ['onion rings'],: ['Positive']
+"The lemon chicken tasted like sticky sweet donuts and the honey walnut prawns , the few they actually give you ... ..were not good .","['lemon chicken', 'honey walnut prawns']","['sticky sweet', 'not good']","['NEG', 'NEG']","aspect: ['chicken', 'prawns']
+Sentiment: ['Negative', 'Negative']",": ['chicken', 'prawns']",": ['Negative', 'Negative']"
+"Nice ambience , but highly overrated place .","['ambience', 'place']","['Nice', 'overrated']","['POS', 'NEG']","aspect: ['ambience', 'place']
+Sentiment: ['Positive', 'Negative']",": ['ambience', 'place']",": ['Positive', 'Negative']"
+Worst Service I Ever Had,['Service'],['Worst'],['POS'],"aspect: ['service']
+Sentiment: ['Negative']",: ['service'],: ['Negative']
+Everyone that sat in the back outside agreed that it was the worst service we had ever received .,['service'],['worst'],['NEG'],"aspect: ['service', 'seats']
+Sentiment: ['Negative', 'Negative']",": ['service', 'seats']",": ['Negative', 'Negative']"
+"Our waiter was non-existent and after our food finally arrived over an hour after we ordered , we were not given any water or utensils .",['waiter'],['non-existent'],['NEG'],"aspect: ['food', 'waiter', 'utensils']
+Sentiment: ['Negative', 'Negative', 'Negative']",": ['food', 'waiter', 'utensils']",": ['Negative', 'Negative', 'Negative']"
+"I complained to the manager , but he was not even apologetic .",['manager'],['not even apologetic'],['NEG'],"aspect: ['manager', 'politeness']
+Sentiment: ['Negative', 'Negative']",": ['manager', 'politeness']",": ['Negative', 'Negative']"
+Fabulous Italian Food !,['Italian Food'],['Fabulous'],['POS'],"aspect: ['food']
+Sentiment: ['Positive']",: ['food'],: ['Positive']
+– I highly recommend Mioposto .,['Mioposto'],['recommend'],['POS'],"aspect: ['recommendation']
+Sentiment: ['Positive']",: ['recommendation'],: ['Positive']
+I am so happy to have a wonderful Italian restaurant in my neighborhood .,['Italian restaurant'],['wonderful'],['POS'],"aspect: ['neighborhood', 'restaurant', 'food']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['neighborhood', 'restaurant', 'food']",": ['Positive', 'Positive', 'Positive']"
+The wine list is wonderful and the food reminds me of my recent trip to Italy .,['wine list'],['wonderful'],['POS'],"aspect: ['food', 'wine']
+Sentiment: ['Positive', 'Positive']",": ['food', 'wine']",": ['Positive', 'Positive']"
+I love this restaurant,['restaurant'],['love'],['POS'],"aspect: ['food', 'service']
+Sentiment: ['Positive', 'Positive']",": ['food', 'service']",": ['Positive', 'Positive']"
+"– I will never forget the amazing meal , service , and ambiance I experience at this restaurant .","['meal', 'service', 'ambiance']","['amazing', 'amazing', 'amazing']","['POS', 'POS', 'POS']","aspect: ['meal', 'service', 'ambiance']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['meal', 'service', 'ambiance']",": ['Positive', 'Positive', 'Positive']"
+"The wine list is incredible and extensive and diverse , the food is all incredible and the staff was all very nice , good at their jobs and cultured .","['wine list', 'wine list', 'wine list', 'food', 'staff']","['incredible', 'extensive', 'diverse', 'incredible', 'nice']","['POS', 'POS', 'POS', 'POS', 'POS']","aspect: ['food', 'staff', 'wine']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['food', 'staff', 'wine']",": ['Positive', 'Positive', 'Positive']"
+The food was great !,['food'],['great'],['POS'],"aspect: ['food']
+Sentiment: ['Positive']",: ['food'],: ['Positive']
+"– In a age of incremental cost cutting in restaurants , its nice to see a place that bucks that trend , and just plain delivers high quality food and good service , period .","['food', 'service']","['high quality', 'good']","['POS', 'POS']","aspect: ['food', 'service']
+Sentiment: ['Positive', 'Positive']",": ['food', 'service']",": ['Positive', 'Positive']"
+This is the place to relax and enjoy the finest quality food the industry can offer .,"['place', 'food']","['relax', 'finest quality']","['POS', 'POS']","aspect: ['food', 'quality']
+Sentiment: ['Positive', 'Positive']",": ['food', 'quality']",": ['Positive', 'Positive']"
+Caution - its real food for people who love the best .,"['food', 'food']","['real', 'best']","['POS', 'POS']","aspect: ['food', 'quality']
+Sentiment: ['Positive', 'Positive']",": ['food', 'quality']",": ['Positive', 'Positive']"
+I liked the atmosphere very much but the food was not worth the price .,"['atmosphere', 'food']","['liked', 'not worth the price']","['POS', 'NEG']","aspect: ['atmosphere', 'food']
+Sentiment: ['Positive', 'Negative']",": ['atmosphere', 'food']",": ['Positive', 'Negative']"
+I may not be a sushi guru but I can tell you that the food here is just okay and that there is not much else to it .,['food'],['okay'],['NEG'],"aspect: ['food', 'variety']
+Sentiment: ['Positive', 'Negative']",": ['food', 'variety']",": ['Positive', 'Negative']"
+"Rice is too dry , tuna was n't so fresh either .","['Rice', 'tuna']","['too dry', ""was n't so fresh""]","['NEG', 'NEG']","aspect: ['rice', 'tuna']
+Sentiment: ['Negative', 'Negative']",": ['rice', 'tuna']",": ['Negative', 'Negative']"
+I have eaten here three times and have found the quality and variety of the fish to be excellent .,['fish'],['excellent'],['POS'],"aspect: ['fish', 'quality', 'variety']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['fish', 'quality', 'variety']",": ['Positive', 'Positive', 'Positive']"
+"However , the value and service are both severely lacking .",['service'],['lacking'],['NEG'],"aspect: ['value', 'service']
+Sentiment: ['Negative', 'Negative']",": ['value', 'service']",": ['Negative', 'Negative']"
+"Furthermore , while the fish is unquestionably fresh , rolls tend to be inexplicably bland .","['fish', 'rolls']","['fresh', 'bland']","['POS', 'NEG']","aspect: ['fish', 'rolls']
+Sentiment: ['Positive', 'Negative']",": ['fish', 'rolls']",": ['Positive', 'Negative']"
+The service ranges from mediocre to offensive .,"['service', 'service']","['mediocre', 'offensive']","['NEG', 'NEG']","aspect: ['service']
+Sentiment: ['Negative']",: ['service'],: ['Negative']
+"On a recent trip , our waiter was extremely dismissive , while no less than three staff members waited hand-and-foot on a pair of Japanese girls seated nearby .",['waiter'],['dismissive'],['NEG'],"aspect: ['waiter', 'service']
+Sentiment: ['Negative', 'Negative']",": ['waiter', 'service']",": ['Negative', 'Negative']"
+Freshest sushi – I love this restaurant .,"['sushi', 'restaurant']","['Freshest', 'love']","['POS', 'POS']","aspect: ['food', 'restaurant']
+Sentiment: ['Positive', 'Positive']",": ['food', 'restaurant']",": ['Positive', 'Positive']"
+They pay such detail to everything from miso soup to complex rolls .,['rolls'],['complex'],['POS'],"aspect: ['detail', 'rolls', 'soup']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['detail', 'rolls', 'soup']",": ['Positive', 'Positive', 'Positive']"
+The sashimi was the freshest and most tender I have ever tasted .,"['sashimi', 'sashimi']","['freshest', 'tender']","['POS', 'POS']","aspect: ['freshness', 'tenderness']
+Sentiment: ['Positive', 'Positive']",": ['freshness', 'tenderness']",": ['Positive', 'Positive']"
+Their apps are all delicious .,['apps'],['delicious'],['POS'],"aspect: ['apps']
+Sentiment: ['Positive']",: ['apps'],: ['Positive']
+The only drawback is that this place is really expensive and the portions are on the small side .,['place'],['expensive'],['NEG'],"aspect: ['price', 'portion']
+Sentiment: ['negative', 'negative']",": ['price', 'portion']",": ['negative', 'negative']"
+"But the space is small and lovely , and the service is helpful .","['space', 'space', 'service']","['small', 'lovely', 'helpful']","['POS', 'POS', 'POS']","aspect: ['space', 'service']
+Sentiment: ['Positive', 'Positive']",": ['space', 'service']",": ['Positive', 'Positive']"
+– The food was not great & the waiters were rude .,"['food', 'waiters']","['not great', 'rude']","['NEG', 'NEG']","aspect: ['food', 'service']
+Sentiment: ['Negative', 'Negative']",": ['food', 'service']",": ['Negative', 'Negative']"
+great service,['service'],['great'],['POS'],"aspect: ['service']
+Sentiment: ['Positive']",: ['service'],: ['Positive']
+my service was stellar !,['service'],['stellar'],['POS'],"aspect: ['service']
+Sentiment: ['Positive']",: ['service'],: ['Positive']
+"food was fine , with a some little-tastier-than-normal salsa .",['food'],['fine'],['POS'],"aspect: ['food', 'salsa']
+Sentiment: ['Positive', 'Positive']",": ['food', 'salsa']",": ['Positive', 'Positive']"
+"the food was great , the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me .","['food', 'margaritas', 'waitress']","['great', 'great', 'too busy']","['POS', 'POS', 'NEG']","aspect: ['food', 'margaritas', 'waitress']
+Sentiment: ['Positive', 'Positive', 'Negative']",": ['food', 'margaritas', 'waitress']",": ['Positive', 'Positive', 'Negative']"
+Mama Mia – I live in the neighborhood and feel lucky to live by such a great pizza place .,['pizza place'],['great'],['POS'],"aspect: ['location', 'pizza']
+Sentiment: ['Positive', 'Positive']",": ['location', 'pizza']",": ['Positive', 'Positive']"
+Best Sushi in town .,['Sushi'],['Best'],['POS'],"aspect: ['food']
+Sentiment: ['Positive']",: ['food'],: ['Positive']
+The best calamari in Seattle !,['calamari'],['best'],['POS'],"aspect: ['calamari']
+Sentiment: ['Positive']",: ['calamari'],: ['Positive']
+– ... and the best summertime deck experience -- they will even bring you a blanket if you get cold in the Seattle evening weather .,['deck'],['best'],['POS'],"aspect: ['deck', 'weather']
+Sentiment: ['Positive', 'Negative']",": ['deck', 'weather']",": ['Positive', 'Negative']"
+A perfect place to take out of town guests any time of the year .,['place'],['perfect'],['POS'],"aspect: ['time', 'guest']
+Sentiment: ['Positive', 'Positive']",": ['time', 'guest']",": ['Positive', 'Positive']"
+"Endless fun , awesome music , great staff ! ! !","['music', 'staff']","['awesome', 'great']","['POS', 'POS']","aspect: ['fun', 'music', 'staff']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['fun', 'music', 'staff']",": ['Positive', 'Positive', 'Positive']"
+– By far the best bar in the east village ...,['bar'],['best'],['POS'],"aspect: ['bar']
+Sentiment: ['Positive']",: ['bar'],: ['Positive']
+Great draft and bottle selection and the pizza rocks .,['draft and bottle selection'],['Great'],['POS'],"aspect: ['pizza', 'selection']
+Sentiment: ['Positive', 'Positive']",": ['pizza', 'selection']",": ['Positive', 'Positive']"
+Definitely has one of the best jukebox 's i 've seen in a long long time .,"[""jukebox 's""]",['best'],['POS'],"aspect: ['jukebox']
+Sentiment: ['Positive']",: ['jukebox'],: ['Positive']
+"The food is great , the bartenders go that extra mile .",['food'],['great'],['POS'],"aspect: ['food', 'bartender']
+Sentiment: ['Positive', 'Positive']",": ['food', 'bartender']",": ['Positive', 'Positive']"
+The owners are great fun and the beer selection is worth staying for .,"['owners', 'beer selection']","['great', 'worth staying for']","['POS', 'POS']","aspect: ['beer', 'owners']
+Sentiment: ['Positive', 'Positive']",": ['beer', 'owners']",": ['Positive', 'Positive']"
+And the upstairs is a great place to hang out .,['upstairs'],['great'],['POS'],"aspect: ['place', 'upstairs']
+Sentiment: ['Positive', 'Positive']",": ['place', 'upstairs']",": ['Positive', 'Positive']"
+"Not alot of smoking places left in New York , but I have found my favorite smoking balconey in the city .",['balconey'],['favorite'],['POS'],"aspect: ['balcony', 'place', 'smoking']
+Sentiment: ['Positive', 'Negative', 'Positive']",": ['balcony', 'place', 'smoking']",": ['Positive', 'Negative', 'Positive']"
+The sushi here is delicious !,['sushi'],['delicious'],['POS'],"aspect: ['food']
+Sentiment: ['Positive']",: ['food'],: ['Positive']
+They have a wide variety of fish and they even list which oceans they come from ; Atlantic or Pacific .,['fish'],['wide variety'],['POS'],"aspect: ['variety', 'ocean']
+Sentiment: ['Positive', 'Positive']",": ['variety', 'ocean']",": ['Positive', 'Positive']"
+"I 've had the Jellyfish , Horse Mackerel , Blue Fin Tuna and the Sake Ikura roll among others , and they were all good .","['Jellyfish', 'Horse Mackerel', 'Blue Fin Tuna', 'Sake Ikura roll']","['good', 'good', 'good', 'good']","['POS', 'POS', 'POS', 'POS']","aspect: ['roll', 'taste']
+Sentiment: ['Positive', 'Positive']",": ['roll', 'taste']",": ['Positive', 'Positive']"
+"The decor is rustic , traditional Japanese .","['decor', 'decor']","['rustic', 'traditional Japanese']","['NEU', 'NEU']","aspect: ['decor']
+Sentiment: ['Positive']",: ['decor'],: ['Positive']
+The service was courteous and attentive .,"['service', 'service']","['courteous', 'attentive']","['POS', 'POS']","aspect: ['service']
+Sentiment: ['Positive']",: ['service'],: ['Positive']
+Mediocre food,['food'],['Mediocre'],['NEU'],"aspect: ['food']
+Sentiment: ['Negative']",: ['food'],: ['Negative']
+The outside patio area has an abbreviated menu .,['menu'],['abbreviated'],['NEU'],"aspect: ['menu', 'patio']
+Sentiment: ['Negative', 'Positive']",": ['menu', 'patio']",": ['Negative', 'Positive']"
+My g/f and I both agreed the food was very mediocre especially considering the price .,['food'],['mediocre'],['NEG'],"aspect: ['food', 'price']
+Sentiment: ['Negative', 'Negative']",": ['food', 'price']",": ['Negative', 'Negative']"
+"We are locals , and get the feeling the only way this place survives with such average food is because most customers are probably one-time customer tourists .",['food'],['average'],['NEG'],"aspect: ['food', 'customer']
+Sentiment: ['Negative', 'Negative']",": ['food', 'customer']",": ['Negative', 'Negative']"
+Service was decent .,['Service'],['decent'],['NEU'],"aspect: ['service']
+Sentiment: ['Positive']",: ['service'],: ['Positive']
+Drinks were good .,['Drinks'],['good'],['POS'],"aspect: ['Drinks']
+Sentiment: ['Positive']",: ['Drinks'],: ['Positive']
+"Excellent food , nice ambience , fairly expensive","['food', 'ambience']","['Excellent', 'nice']","['POS', 'POS']","aspect: ['food', 'ambience', 'price']
+Sentiment: ['Positive', 'Positive', 'Negative']",": ['food', 'ambience', 'price']",": ['Positive', 'Positive', 'Negative']"
+– I loved the pumpkin ravioli and the goat cheese gnocchi ( 5 big ones to a plate instead of 20 or so little gnocchis ) and my sister loved her filet mignon on top of spinach and mashed potatoes .,"['pumpkin ravioli', 'goat cheese gnocchi', 'filet mignon on top of spinach and mashed potatoes']","['loved', 'loved', 'loved']","['POS', 'POS', 'POS']","aspect: ['gnocchi', 'mashed potatoes', 'ravioli', 'spinach']
+Sentiment: ['Positive', 'Positive', 'Positive', 'Positive']",": ['gnocchi', 'mashed potatoes', 'ravioli', 'spinach']",": ['Positive', 'Positive', 'Positive', 'Positive']"
+The ambiance was a peaceful and relaxing break amongst all the kids running around in Downtown Disney .,"['ambiance', 'ambiance']","['peaceful', 'relaxing']","['POS', 'POS']","aspect: ['ambiance', 'kids']
+Sentiment: ['Positive', 'Negative']",": ['ambiance', 'kids']",": ['Positive', 'Negative']"
+Best Indian food in L.A .,['Indian food'],['Best'],['POS'],"aspect: ['food']
+Sentiment: ['Positive']",: ['food'],: ['Positive']
+The chicken curry and chicken tikka masala are my favorite meat dishes .,"['chicken curry', 'chicken tikka masala']","['favorite', 'favorite']","['POS', 'POS']","aspect: ['dish', 'meat']
+Sentiment: ['Positive', 'Positive']",": ['dish', 'meat']",": ['Positive', 'Positive']"
+The chana masala ( garbanzo beans ) are also excellent .,['chana masala ( garbanzo beans )'],['excellent'],['POS'],"aspect: ['beans', 'taste']
+Sentiment: ['Positive', 'Positive']",": ['beans', 'taste']",": ['Positive', 'Positive']"
+"It 's located in a strip mall near the Beverly Center , not the greatest location , but the food keeps me coming back for more .",['location'],['not the greatest'],['NEU'],"aspect: ['food', 'location']
+Sentiment: ['Positive', 'Negative']",": ['food', 'location']",": ['Positive', 'Negative']"
+Never too crowded and always great service .,['service'],['great'],['POS'],"aspect: ['crowdedness', 'service']
+Sentiment: ['Positive', 'Positive']",": ['crowdedness', 'service']",": ['Positive', 'Positive']"
+I can highly recommend their various saag and paneer and korma .,"['saag', 'paneer', 'korma']","['recommend', 'recommend', 'recommend']","['POS', 'POS', 'POS']","aspect: ['korma', 'paneer', 'saag']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['korma', 'paneer', 'saag']",": ['Positive', 'Positive', 'Positive']"
+I appreciate their delivery too .,['delivery'],['appreciate'],['POS'],"aspect: ['delivery']
+Sentiment: ['Positive']",: ['delivery'],: ['Positive']
+Nice food but no spice !,['food'],['Nice'],['NEG'],"aspect: ['food', 'spice']
+Sentiment: ['Positive', 'Negative']",": ['food', 'spice']",": ['Positive', 'Negative']"
+– I really enjoyed my meal here .,['meal'],['enjoyed'],['POS'],"aspect: ['meal']
+Sentiment: ['Positive']",: ['meal'],: ['Positive']
+"I had yummy lamb korma , saag paneer , samosas , naan , etc .","['lamb korma', 'saag paneer', 'samosas', 'naan']","['yummy', 'yummy', 'yummy', 'yummy']","['POS', 'POS', 'POS', 'POS']","aspect: ['food', 'korma', 'paneer', 'naan', 'samosa']
+Sentiment: ['Positive', 'Positive', 'Positive', 'Positive', 'Positive']",": ['food', 'korma', 'paneer', 'naan', 'samosa']",": ['Positive', 'Positive', 'Positive', 'Positive', 'Positive']"
+The food was all good but it was way too mild .,"['food', 'food']","['good', 'too mild']","['NEG', 'NEG']","aspect: ['food', 'taste']
+Sentiment: ['Positive', 'Negative']",": ['food', 'taste']",": ['Positive', 'Negative']"
+"The naan was some of the best I 've had and I really enjoyed the bhartha , not too tomatoey .","['naan', 'bhartha']","['best', 'enjoyed']","['POS', 'POS']","aspect: ['naan', 'bhartha']
+Sentiment: ['Positive', 'Positive']",": ['naan', 'bhartha']",": ['Positive', 'Positive']"
+"Even the chickpeas , which I normally find too dry , were good .",['chickpeas'],['good'],['POS'],"aspect: ['chickpeas', 'dryness']
+Sentiment: ['Positive', 'Negative']",": ['chickpeas', 'dryness']",": ['Positive', 'Negative']"
+"– I do n't understand how I was a stranger to this place for so long ... the fajita salad , the colorado , the fajitas - EVERYTHING is delicious .","['fajita salad', 'colorado', 'fajitas']","['delicious', 'delicious', 'delicious']","['POS', 'POS', 'POS']","aspect: ['food', 'salad', 'taste']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['food', 'salad', 'taste']",": ['Positive', 'Positive', 'Positive']"
+I love the warm & cosy environment .,"['environment', 'environment']","['warm', 'cosy']","['POS', 'POS']","aspect: ['environment']
+Sentiment: ['Positive']",: ['environment'],: ['Positive']
+"best restaurant in the world , great decor , great customer service , friendly manager","['restaurant', 'decor', 'customer service', 'manager']","['best', 'great', 'great', 'friendly']","['POS', 'POS', 'POS', 'POS']","aspect: ['food', 'decor', 'customer service', 'manager']
+Sentiment: ['Positive', 'Positive', 'Positive', 'Positive']",": ['food', 'decor', 'customer service', 'manager']",": ['Positive', 'Positive', 'Positive', 'Positive']"
+i am never disappointed with there food .,['food'],['never disappointed'],['POS'],"aspect: ['food']
+Sentiment: ['Positive']",: ['food'],: ['Positive']
+the atmosphere is great .,['atmosphere'],['great'],['POS'],"aspect: ['atmosphere']
+Sentiment: ['Positive']",: ['atmosphere'],: ['Positive']
+great lunch spot,['lunch spot'],['great'],['POS'],"aspect: ['food']
+Sentiment: ['Positive']",: ['food'],: ['Positive']
+– Great financial district mexican spot .,['mexican spot'],['Great'],['POS'],"aspect: ['food', 'location']
+Sentiment: ['Positive', 'Positive']",": ['food', 'location']",": ['Positive', 'Positive']"
+"Always busy , but they are good at seating you promptly and have quick service .",['service'],['quick'],['POS'],"aspect: ['service', 'seating']
+Sentiment: ['Positive', 'Positive']",": ['service', 'seating']",": ['Positive', 'Positive']"
+"Everything I 've had here is good , taco salads , burritos , enchiladas i love this place .","['taco salads', 'burritos', 'enchiladas', 'place']","['good', 'good', 'good', 'love']","['POS', 'POS', 'POS', 'POS']","aspect: ['food', 'service']
+Sentiment: ['Positive', 'Positive']",": ['food', 'service']",": ['Positive', 'Positive']"
+Also have great margaritas !,['margaritas'],['great'],['POS'],"aspect: ['margaritas']
+Sentiment: ['Positive']",: ['margaritas'],: ['Positive']
+The food is simply unforgettable !,['food'],['unforgettable'],['POS'],"aspect: ['food']
+Sentiment: ['Positive']",: ['food'],: ['Positive']
+The staff are friendly and the decor was ethic and colorful .,"['staff', 'decor', 'decor']","['friendly', 'ethic', 'colorful']","['POS', 'POS', 'POS']","aspect: ['decor', 'staff']
+Sentiment: ['Positive', 'Positive']",": ['decor', 'staff']",": ['Positive', 'Positive']"
+Holy Hummus !,['Hummus'],['Holy'],['POS'],"aspect: ['hummus']
+Sentiment: ['Positive']",: ['hummus'],: ['Positive']
+"– The food is here is incredible , though the quality is inconsistent during lunch .",['food'],['incredible'],['POS'],"aspect: ['food', 'quality']
+Sentiment: ['Positive', 'Negative']",": ['food', 'quality']",": ['Positive', 'Negative']"
+"Dinners have always been excellent , in terms of food quality .",['Dinners'],['excellent'],['POS'],"aspect: ['food', 'quality']
+Sentiment: ['Positive', 'Positive']",": ['food', 'quality']",": ['Positive', 'Positive']"
+"The side of potatoes is to die for , as is the labne ( yogurt dip ) .","['side of potatoes', 'labne ( yogurt dip )']","['die for', 'side of potatoes']","['POS', 'POS']","aspect: ['potatoes', 'labne']
+Sentiment: ['Positive', 'Positive']",": ['potatoes', 'labne']",": ['Positive', 'Positive']"
+"Also , they serve THE best hummus in America , with a drizzle of fragrant olive oil ( which , I believe is the traditional way ) !",['hummus'],['best'],['POS'],"aspect: ['hummus', 'olive oil']
+Sentiment: ['Positive', 'Positive']",": ['hummus', 'olive oil']",": ['Positive', 'Positive']"
+The only drawback is the crowded seating and the slow service .,"['seating', 'service']","['crowded', 'slow']","['NEG', 'NEG']","aspect: ['service', 'seating']
+Sentiment: ['Negative', 'Negative']",": ['service', 'seating']",": ['Negative', 'Negative']"
+"However , this place is a gem , and I wo n't stop going back .",['place'],['gem'],['POS'],"aspect: ['place']
+Sentiment: ['Positive']",: ['place'],: ['Positive']
+great beer,['beer'],['great'],['POS'],"aspect: ['beer']
+Sentiment: ['Positive']",: ['beer'],: ['Positive']
+I swore never to return for a warm beer and mediocre meal .,"['beer', 'meal']","['warm', 'mediocre']","['NEG', 'NEG']","aspect: ['beer', 'meal']
+Sentiment: ['Negative', 'Negative']",": ['beer', 'meal']",": ['Negative', 'Negative']"
+The band was very good and the service was attentive .,"['band', 'service']","['good', 'attentive']","['POS', 'POS']","aspect: ['band', 'service']
+Sentiment: ['Positive', 'Positive']",": ['band', 'service']",": ['Positive', 'Positive']"
+"We ordered a selection of the small plates , and the shoe string onions , goat cheese pizza , grilled asparagus and fried brie with fruit were all very good .","['shoe string onions', 'goat cheese pizza', 'grilled asparagus', 'fried brie with fruit']","['good', 'good', 'good', 'good']","['POS', 'POS', 'POS', 'POS']","aspect: ['food', 'pizza', 'asparagus', 'fruit']
+Sentiment: ['Positive', 'Positive', 'Positive', 'Positive']",": ['food', 'pizza', 'asparagus', 'fruit']",": ['Positive', 'Positive', 'Positive', 'Positive']"
+Seattle 's BEST Winelist,['Winelist'],['BEST'],['POS'],"aspect: ['winelist']
+Sentiment: ['Positive']",: ['winelist'],: ['Positive']
+"The sommelier is fantastic , down-to-earth , & extremely knowlegable .","['sommelier', 'sommelier', 'sommelier']","['fantastic', 'down-to-earth', 'knowlegable']","['POS', 'POS', 'POS']","aspect: ['sommelier', 'knowledge']
+Sentiment: ['Positive', 'Positive']",": ['sommelier', 'knowledge']",": ['Positive', 'Positive']"
+"The food is not what it once was ( potions have seriously seen downsizing ) prices have gone up , and the service is the worst I have experienced anywhere ( including mainland Europe ) .",['service'],['worst'],['NEG'],"aspect: ['food', 'price', 'service']
+Sentiment: ['Negative', 'Negative', 'Negative']",": ['food', 'price', 'service']",": ['Negative', 'Negative', 'Negative']"
+Open & Cool Place with the Best Pizza and Coffee,"['Place', 'Pizza', 'Coffee']","['Cool', 'Best', 'Best']","['POS', 'POS', 'POS']","aspect: ['coffee', 'pizza', 'place']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['coffee', 'pizza', 'place']",": ['Positive', 'Positive', 'Positive']"
+– Mioposto has a very creative & delicious pizza menu .,"['pizza menu', 'pizza menu']","['creative', 'delicious']","['POS', 'POS']","aspect: ['menu', 'pizza']
+Sentiment: ['Positive', 'Positive']",": ['menu', 'pizza']",": ['Positive', 'Positive']"
+"The coffe is very good , too .",['coffe'],['good'],['POS'],"aspect: ['coffee']
+Sentiment: ['Positive']",: ['coffee'],: ['Positive']
+Great open and friendly ambience .,"['ambience', 'ambience']","['Great open', 'friendly']","['POS', 'POS']","aspect: ['ambience']
+Sentiment: ['Positive']",: ['ambience'],: ['Positive']
+This place is charming and relaxing .,"['place', 'place']","['charming', 'relaxing']","['POS', 'POS']","aspect: ['atmosphere', 'relaxing']
+Sentiment: ['Positive', 'Positive']",": ['atmosphere', 'relaxing']",": ['Positive', 'Positive']"
+The servers behind the counter are always friendly and helpful .,"['servers behind the counter', 'servers behind the counter']","['friendly', 'helpful']","['POS', 'POS']","aspect: ['server', 'staff']
+Sentiment: ['Positive', 'Positive']",": ['server', 'staff']",": ['Positive', 'Positive']"
+It 's a great place to enjoy food and meet friends .,"['food', 'place']","['enjoy', 'great']","['POS', 'POS']","aspect: ['food', 'place']
+Sentiment: ['Positive', 'Positive']",": ['food', 'place']",": ['Positive', 'Positive']"
+"Great food , spectacular location , and friendly service keep us coming back year after year .","['food', 'location', 'service']","['Great', 'spectacular', 'friendly']","['POS', 'POS', 'POS']","aspect: ['food', 'location', 'service']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['food', 'location', 'service']",": ['Positive', 'Positive', 'Positive']"
+Enjoyed the food,['food'],['Enjoyed'],['POS'],"aspect: ['food']
+Sentiment: ['Positive']",: ['food'],: ['Positive']
+Food was good and cheap .,"['Food', 'Food']","['good', 'cheap']","['POS', 'POS']","aspect: ['food', 'price']
+Sentiment: ['Positive', 'Positive']",": ['food', 'price']",": ['Positive', 'Positive']"
+I had the kafta plate and I enjoyed it .,['kafta plate'],['enjoyed'],['POS'],"aspect: ['plate', 'taste']
+Sentiment: ['Positive', 'Positive']",": ['plate', 'taste']",": ['Positive', 'Positive']"
+Atmosphere was nice .,['Atmosphere'],['nice'],['POS'],"aspect: ['Atmosphere']
+Sentiment: ['Positive']",: ['Atmosphere'],: ['Positive']
+"Service was kind of slow , our waitress took forever to give us our check even though it was n't that busy .",['Service'],['slow'],['NEG'],"aspect: ['service', 'waitress']
+Sentiment: ['Negative', 'Negative']",": ['service', 'waitress']",": ['Negative', 'Negative']"
+Still I would recommend this place .,['place'],['recommend'],['POS'],"aspect: ['recommendation']
+Sentiment: ['Positive']",: ['recommendation'],: ['Positive']
+WHAT ELSE CAN YOU SAY NICE PEOPLE AMAZING FOOD WOW,"['FOOD', 'PEOPLE']","['AMAZING', 'NICE']","['POS', 'POS']","aspect: ['food', 'people']
+Sentiment: ['Positive', 'Positive']",": ['food', 'people']",": ['Positive', 'Positive']"
+Great food with an awesome atmosphere !,"['food', 'atmosphere']","['Great', 'awesome']","['POS', 'POS']","aspect: ['food', 'atmosphere']
+Sentiment: ['Positive', 'Positive']",": ['food', 'atmosphere']",": ['Positive', 'Positive']"
+"– Eggs , pancakes , potatoes , fresh fruit and yogurt -- everything they serve is delicious .","['Eggs', 'pancakes', 'potatoes', 'fresh fruit', 'yogurt']","['delicious', 'delicious', 'delicious', 'delicious', 'delicious']","['POS', 'POS', 'POS', 'POS', 'POS']","aspect: ['food', 'fruit', 'yogurt']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['food', 'fruit', 'yogurt']",": ['Positive', 'Positive', 'Positive']"
+great meal – the fish on the omikase platter was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect ! ! ! !,"['meal', 'fish on the omikase platter', 'fish on the omikase platter']","['great', 'decadent', 'perfect']","['POS', 'POS', 'POS']","aspect: ['fish', 'omikase', 'meal']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['fish', 'omikase', 'meal']",": ['Positive', 'Positive', 'Positive']"
+"plus , i am allergic to rice , and the waitstaff was unbelievably accomodating -- did n't even bat an eye !",['waitstaff'],['accomodating'],['POS'],"aspect: ['waitstaff', 'rice']
+Sentiment: ['Positive', 'Negative']",": ['waitstaff', 'rice']",": ['Positive', 'Negative']"
+and the waiter suggested a perfect sake ! !,['sake'],['perfect'],['POS'],"aspect: ['sake', 'waiter']
+Sentiment: ['Positive', 'Positive']",": ['sake', 'waiter']",": ['Positive', 'Positive']"
+Unbeatable sushi !,['sushi'],['Unbeatable'],['POS'],"aspect: ['sushi']
+Sentiment: ['Positive']",: ['sushi'],: ['Positive']
+"Melt in your mouth nigiri and sashmi , and very tasty rolls too .",['rolls'],['tasty'],['POS'],"aspect: ['rolls', 'sashimi', 'nigiri']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['rolls', 'sashimi', 'nigiri']",": ['Positive', 'Positive', 'Positive']"
+Be sure to try the oyster roll .,['oyster roll'],['try'],['POS'],"aspect: ['roll']
+Sentiment: ['Positive']",: ['roll'],: ['Positive']
+"– How to describe the best sushi in NYC : hmmmm , delicious , amazing , fantastic , suculent , perfect , nah , all of the above .",['sushi'],['best'],['POS'],"aspect: ['taste', 'quality']
+Sentiment: ['Positive', 'Positive']",": ['taste', 'quality']",": ['Positive', 'Positive']"
+The best Chuwam Mushi I have ever had .,['Chuwam Mushi'],['best'],['POS'],"aspect: ['Chuwam Mushi']
+Sentiment: ['Positive']",: ['Chuwam Mushi'],: ['Positive']
+"Good Sushi , High Price",['Sushi'],['Good'],['NEG'],"aspect: ['price', 'sushi']
+Sentiment: ['negative', 'positive']",": ['price', 'sushi']",": ['negative', 'positive']"
+One of the best Sushi place in town .,['Sushi place'],['best'],['POS'],"aspect: ['food', 'price']
+Sentiment: ['Positive', 'Positive']",": ['food', 'price']",": ['Positive', 'Positive']"
+The house special roll is really good .,['house special roll'],['good'],['POS'],"aspect: ['roll', 'taste']
+Sentiment: ['Positive', 'Positive']",": ['roll', 'taste']",": ['Positive', 'Positive']"
+"– I ca n't believe Murphy 's has been around for over 25 years , amazing .","[""Murphy 's""]",['amazing'],['POS'],"aspect: ['age']
+Sentiment: ['Positive']",: ['age'],: ['Positive']
+"Brunch at Murphy 's is to die for , my specialty ... egg white omelet , the food is always freshly prepared .",['food'],['freshly prepared'],['POS'],"aspect: ['food', 'brunch']
+Sentiment: ['Positive', 'Positive']",": ['food', 'brunch']",": ['Positive', 'Positive']"
+It 's the perfect spot for a romantic date for 2 or a secret rendezvous !,['spot'],['perfect'],['POS'],"aspect: ['date', 'atmosphere']
+Sentiment: ['Positive', 'Positive']",": ['date', 'atmosphere']",": ['Positive', 'Positive']"
+Save room for scrumptious desserts .,['desserts'],['scrumptious'],['POS'],"aspect: ['desserts', 'room']
+Sentiment: ['Positive', 'Positive']",": ['desserts', 'room']",": ['Positive', 'Positive']"
+The restaurant offers an extensive wine list and an ambiance you wo n't forget !,"['wine list', 'ambiance']","['extensive', ""wo n't forget""]","['POS', 'POS']","aspect: ['ambience', 'wine list']
+Sentiment: ['Positive', 'Positive']",": ['ambience', 'wine list']",": ['Positive', 'Positive']"
+– Best Mexican place for lunch in the financial district .,['Mexican place'],['Best'],['POS'],"aspect: ['food', 'location', 'priceRange']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['food', 'location', 'priceRange']",": ['Positive', 'Positive', 'Positive']"
+Love the enchiladas and chicken soup - and be sure to check out their specials .,"['enchiladas', 'chicken soup']","['Love', 'Love']","['POS', 'POS']","aspect: ['enchiladas', 'soup', 'specials']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['enchiladas', 'soup', 'specials']",": ['Positive', 'Positive', 'Positive']"
+"Can get busy on Fridays for a table but once seated , the service is so efficient you can be in and out of there quickly .",['service'],['efficient'],['POS'],"aspect: ['service', 'table']
+Sentiment: ['Positive', 'Negative']",": ['service', 'table']",": ['Positive', 'Negative']"
+The sushi was excellent and the wait staff was quick .,"['sushi', 'wait staff']","['excellent', 'quick']","['POS', 'POS']","aspect: ['sushi', 'service']
+Sentiment: ['Positive', 'Positive']",": ['sushi', 'service']",": ['Positive', 'Positive']"
+The atmosphere was just okay .,['atmosphere'],['okay'],['NEU'],"aspect: ['atmosphere']
+Sentiment: ['Positive']",: ['atmosphere'],: ['Positive']
+"Space was limited , but the food made up for it .",['Space'],['limited'],['NEG'],"aspect: ['food', 'space']
+Sentiment: ['Positive', 'Negative']",": ['food', 'space']",": ['Positive', 'Negative']"
+We stood there for 10 minutes while employees walked back and forth ignoring us .,['employees'],['ignoring'],['NEG'],"aspect: ['employee', 'service']
+Sentiment: ['Negative', 'Negative']",": ['employee', 'service']",": ['Negative', 'Negative']"
+The Caesar salad I ordered had so much lemon I could n't eat it .,['Caesar salad'],"[""could n't eat""]",['NEG'],"aspect: ['salad', 'lemon']
+Sentiment: ['Negative', 'Negative']",": ['salad', 'lemon']",": ['Negative', 'Negative']"
+"Great food , better Margaritas !","['food', 'Margaritas']","['Great', 'better']","['POS', 'POS']","aspect: ['food', 'margaritas']
+Sentiment: ['Positive', 'Positive']",": ['food', 'margaritas']",": ['Positive', 'Positive']"
+"– This is one of my top lunch spots , huge portions , fast service and amazing margaritas ! !","['portions', 'service', 'margaritas']","['huge', 'fast', 'amazing']","['POS', 'POS', 'POS']","aspect: ['portions', 'service', 'margaritas']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['portions', 'service', 'margaritas']",": ['Positive', 'Positive', 'Positive']"
+"it gets really busy , so get there on the early side so you can grab a seat , if you do have to wait , its not bad because the service is quick !",['service'],['quick'],['POS'],"aspect: ['busy', 'seat', 'service']
+Sentiment: ['Negative', 'Positive', 'Positive']",": ['busy', 'seat', 'service']",": ['Negative', 'Positive', 'Positive']"
+"Check out the art on the walls , very colorful !",['art on the walls'],['colorful'],['POS'],"aspect: ['art', 'colorful']
+Sentiment: ['Positive', 'Positive']",": ['art', 'colorful']",": ['Positive', 'Positive']"
+i love this place !,['place'],['love'],['POS'],"aspect: ['place']
+Sentiment: ['Positive']",: ['place'],: ['Positive']
+– i have been eating at this place for over 8 years now and i have never had one bad meal .,['meal'],['bad'],['POS'],"aspect: ['meal', 'time']
+Sentiment: ['Positive', 'Positive']",": ['meal', 'time']",": ['Positive', 'Positive']"
+The lunch menu is an awesome deal !,['lunch menu'],['awesome'],['POS'],"aspect: ['deal', 'menu']
+Sentiment: ['Positive', 'Positive']",": ['deal', 'menu']",": ['Positive', 'Positive']"
+"plenty of food , trust me .",['food'],['plenty of'],['POS'],"aspect: ['food']
+Sentiment: ['Positive']",: ['food'],: ['Positive']
+Fresh ingrediants and super tasty .,"['ingrediants', 'ingrediants']","['Fresh', 'tasty']","['POS', 'POS']","aspect: ['taste', 'ingredients']
+Sentiment: ['Positive', 'Positive']",": ['taste', 'ingredients']",": ['Positive', 'Positive']"
+"Best food , phenominal service","['food', 'service']","['Best', 'phenominal']","['POS', 'POS']","aspect: ['food', 'service']
+Sentiment: ['Positive', 'Positive']",": ['food', 'service']",": ['Positive', 'Positive']"
+"For the finicky sushi eater and those who have sampled the best NYC has to offer , the fish is the freshest and the service is superb .","['fish', 'service']","['freshest', 'superb']","['POS', 'POS']","aspect: ['fish', 'service']
+Sentiment: ['Positive', 'Positive']",": ['fish', 'service']",": ['Positive', 'Positive']"
+"Not only can the selection be innovative , but there 's a nice balance of traditional sushi as well .","['selection', 'sushi', 'sushi']","['innovative', 'nice', 'traditional']","['POS', 'POS', 'POS']","aspect: ['selection', 'sushi']
+Sentiment: ['Positive', 'Positive']",": ['selection', 'sushi']",": ['Positive', 'Positive']"
+The nicest waiters in town .,['waiters'],['nicest'],['POS'],"aspect: ['waiters']
+Sentiment: ['Positive']",: ['waiters'],: ['Positive']
+– This place is unbelievably over-rated .,['place'],['over-rated'],['NEG'],"aspect: ['rating']
+Sentiment: ['Negative']",: ['rating'],: ['Negative']
+"If I want to stand in line on Sunday for an hour to get average brunch food , then I would put Murphy 's at the top of the list .",['brunch food'],['average'],['NEU'],"aspect: ['food', 'line', 'wait']
+Sentiment: ['average', 'long', 'positive']",": ['food', 'line', 'wait']",": ['average', 'long', 'positive']"
+The regular menu here is slightly above average that is not worth the snotty attitude that you receive .,"['regular menu', 'regular menu']","['above average', 'not worth the snotty attitude']","['NEU', 'NEU']","aspect: ['menu', 'service']
+Sentiment: ['positive', 'negative']",": ['menu', 'service']",": ['positive', 'negative']"
+"Your a sushi fan , you love expertly cut fish , great sake , a killer SOHO location , and of course : Salmon , Tuna , Fluke , Yellow Tail , Cod , Mackeral , Jellyfish , Sea Urchin , Shrimp , Lobster , Sea Bream , Trout , Milk Fish , Blue Fin Tuna , Eel , Crab , Sardine , Monk Fish , Roe , Scallop , Oysters , and a varity of Toro .","['fish', 'sake', 'SOHO location']","['love expertly cut', 'great', 'killer']","['POS', 'POS', 'POS']","aspect: ['fish', 'location', 'sake']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['fish', 'location', 'sake']",": ['Positive', 'Positive', 'Positive']"
+Bring your cell phone cause you may have to wait to get into the best sushi restaurant in the world : BLUE RIBBON SUSHI .,['BLUE RIBBON SUSHI'],['best'],['POS'],"aspect: ['food', 'wait time']
+Sentiment: ['Positive', 'Positive']",": ['food', 'wait time']",": ['Positive', 'Positive']"
+"Hands down , the best tuna I have ever had .",['tuna'],['best'],['POS'],"aspect: ['tuna', 'taste']
+Sentiment: ['Positive', 'Positive']",": ['tuna', 'taste']",": ['Positive', 'Positive']"
+Blue Ribbon lives up to it 's fantastic reputation .,['Blue Ribbon'],['fantastic'],['POS'],"aspect: ['reputation']
+Sentiment: ['Positive']",: ['reputation'],: ['Positive']
+Great value sushi with high quality & nice setting .,"['sushi', 'sushi', 'sushi', 'setting']","['Great value', 'high quality', 'nice setting', 'nice']","['POS', 'POS', 'POS', 'POS']","aspect: ['quality', 'setting', 'value']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['quality', 'setting', 'value']",": ['Positive', 'Positive', 'Positive']"
+Try the Chef 's Choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty .,"['rolls', 'smoked yellowtail']","['tasty', 'incredible']","['POS', 'POS']","aspect: ['rolls', 'sushi']
+Sentiment: ['Positive', 'Positive']",": ['rolls', 'sushi']",": ['Positive', 'Positive']"
+Poor customer service / poor pizza .,"['customer service', 'pizza']","['Poor', 'Poor']","['NEG', 'NEG']","aspect: ['customer service', 'pizza']
+Sentiment: ['Negative', 'Negative']",": ['customer service', 'pizza']",": ['Negative', 'Negative']"
+"– As with most restaurants in Seattle , Mioposto 's service was bad and the food was overpriced .","['service', 'food']","['bad', 'overpriced']","['NEG', 'NEG']","aspect: ['food', 'price', 'service']
+Sentiment: ['Negative', 'Negative', 'Negative']",": ['food', 'price', 'service']",": ['Negative', 'Negative', 'Negative']"
+"I know many people have their favorite types of pizza and pizza places , but Mioposto 's pizza lacks quality and good taste .",['pizza'],['lacks quality and good taste'],['NEG'],"aspect: ['taste', 'quality']
+Sentiment: ['Negative', 'Negative']",": ['taste', 'quality']",": ['Negative', 'Negative']"
+"To be honest , I 've had better frozen pizza .",['pizza'],['better'],['NEG'],"aspect: ['taste']
+Sentiment: ['Negative']",: ['taste'],: ['Negative']
+The only positive thing about Mioposto is the nice location .,['location'],['nice'],['POS'],"aspect: ['location']
+Sentiment: ['Positive']",: ['location'],: ['Positive']
+"I was frankly shocked when I read the bad reviews - this place is fantastic ; it has not let us down in any way , and we 've eaten here more than 10 times .",['place'],['fantastic'],['POS'],"aspect: ['food', 'price', 'service']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['food', 'price', 'service']",": ['Positive', 'Positive', 'Positive']"
+"The food is fantastic , and the waiting staff has been perfect every single time we 've been there .","['food', 'waiting staff']","['fantastic', 'perfect']","['POS', 'POS']","aspect: ['food', 'staff']
+Sentiment: ['Positive', 'Positive']",": ['food', 'staff']",": ['Positive', 'Positive']"
+Seabass on lobster risotto was the best .,['Seabass on lobster risotto'],['best'],['POS'],"aspect: ['seabass', 'risotto']
+Sentiment: ['Positive', 'Positive']",": ['seabass', 'risotto']",": ['Positive', 'Positive']"
+Caesar salad was superb .,['Caesar salad'],['superb'],['POS'],"aspect: ['salad', 'taste']
+Sentiment: ['Positive', 'Positive']",": ['salad', 'taste']",": ['Positive', 'Positive']"
+Great bottle of wine .,['bottle of wine'],['Great'],['POS'],"aspect: ['taste']
+Sentiment: ['Positive']",: ['taste'],: ['Positive']
+"The food was ok , but the service was so poor that the food was cold buy the time everyone in my party was served .","['food', 'service']","['ok', 'poor']","['NEU', 'NEG']","aspect: ['food', 'service']
+Sentiment: ['Positive', 'Negative']",": ['food', 'service']",": ['Positive', 'Negative']"
+AVOID THE PLACE,['PLACE'],['AVOID'],['NEG'],"aspect: ['place']
+Sentiment: ['Negative']",: ['place'],: ['Negative']
+When I got there I sat up stairs where the atmosphere was cozy & the service was horrible !,"['atmosphere', 'service']","['cozy', 'horrible']","['POS', 'NEG']","aspect: ['atmosphere', 'service']
+Sentiment: ['Positive', 'Negative']",": ['atmosphere', 'service']",": ['Positive', 'Negative']"
+We left without ever getting service .,['service'],['without ever'],['NEG'],"aspect: ['service', 'wait']
+Sentiment: ['Negative', 'Negative']",": ['service', 'wait']",": ['Negative', 'Negative']"
+Best Crab Cakes in Town,['Crab Cakes'],['Best'],['POS'],"aspect: ['crab cakes']
+Sentiment: ['Positive']",: ['crab cakes'],: ['Positive']
+"Great seasonal fish and seafood , with a classy waterfront setting .","['seasonal fish', 'seafood', 'waterfront setting']","['Great', 'Great', 'classy']","['POS', 'POS', 'POS']","aspect: ['food', 'setting']
+Sentiment: ['Positive', 'Positive']",": ['food', 'setting']",": ['Positive', 'Positive']"
+"Great Pizza , Poor Service","['Pizza', 'Service']","['Great', 'Poor']","['POS', 'NEG']","aspect: ['pizza', 'service']
+Sentiment: ['Positive', 'Negative']",": ['pizza', 'service']",": ['Positive', 'Negative']"
+"– Love their pizza , especially the mushroom pizza .","['pizza', 'mushroom pizza']","['Love', 'Love']","['POS', 'POS']","aspect: ['pizza', 'mushroom']
+Sentiment: ['Positive', 'Positive']",": ['pizza', 'mushroom']",": ['Positive', 'Positive']"
+Also love their caeser salad .,['caeser salad'],['love'],['POS'],"aspect: ['salad', 'taste']
+Sentiment: ['Positive', 'Positive']",": ['salad', 'taste']",": ['Positive', 'Positive']"
+"Prefer to order it and pick it up though because I do n't like the servers , one young woman in particular .","['servers', 'young woman']","[""do n't like"", ""do n't like""]","['NEG', 'NEG']","aspect: ['server', 'service']
+Sentiment: ['Negative', 'Negative']",": ['server', 'service']",": ['Negative', 'Negative']"
+"Many people talk about the great pizza and poor service , so it ca n't just be the rantings of a few dissatisfied customers .","['pizza', 'service']","['great', 'poor']","['POS', 'NEG']","aspect: ['pizza', 'service']
+Sentiment: ['Positive', 'Negative']",": ['pizza', 'service']",": ['Positive', 'Negative']"
+It 's a great little place with tons of potential to be a neighborhood joint if the service were n't so impersonal and corporate-like .,['place'],['great little'],['POS'],"aspect: ['potential', 'service']
+Sentiment: ['Positive', 'Negative']",": ['potential', 'service']",": ['Positive', 'Negative']"
+Great Breakfast,['Breakfast'],['Great'],['POS'],"aspect: ['breakfast']
+Sentiment: ['Positive']",: ['breakfast'],: ['Positive']
+The food is great and they make a mean bloody mary .,"['food', 'bloody mary']","['great', 'mean']","['POS', 'POS']","aspect: ['food', 'bloody mary']
+Sentiment: ['Positive', 'Positive']",": ['food', 'bloody mary']",": ['Positive', 'Positive']"
+I love breakfast here .,['breakfast'],['love'],['POS'],"aspect: ['breakfast']
+Sentiment: ['Positive']",: ['breakfast'],: ['Positive']
+Their crab eggs benedict is addicting .,['crab eggs benedict'],['addicting'],['POS'],"aspect: ['eggs benedict', 'taste']
+Sentiment: ['Positive', 'Positive']",": ['eggs benedict', 'taste']",": ['Positive', 'Positive']"
+"All their menu items are a hit , and they serve mimosas .",['menu items'],['hit'],['POS'],"aspect: ['menu', 'mimosas']
+Sentiment: ['Positive', 'Positive']",": ['menu', 'mimosas']",": ['Positive', 'Positive']"
+best chinese food i have tasted in a long time,['chinese food'],['best'],['POS'],"aspect: ['food', 'taste']
+Sentiment: ['Positive', 'Positive']",": ['food', 'taste']",": ['Positive', 'Positive']"
+the ambiance of the restaurant was nice and good for fine dinning .,"['ambiance', 'ambiance']","['nice', 'good']","['POS', 'POS']","aspect: ['ambience', 'food']
+Sentiment: ['Positive', 'Positive']",": ['ambience', 'food']",": ['Positive', 'Positive']"
+the staff was very nice and courteous and obviously chinese .,"['staff', 'staff', 'staff']","['nice', 'courteous', 'chinese']","['POS', 'POS', 'POS']","aspect: ['staff', 'race']
+Sentiment: ['Positive', 'Positive']",": ['staff', 'race']",": ['Positive', 'Positive']"
+"so about the prawns , they were fresh and had a slight crispiness about the batter ... soooo good ... the walnuts were cut in smaller pieces and very crunchy and tasty .","['prawns', 'batter', 'walnuts', 'walnuts']","['fresh', 'crispiness', 'crunchy', 'tasty']","['POS', 'POS', 'POS', 'POS']","aspect: ['batter', 'prawns', 'walnuts']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['batter', 'prawns', 'walnuts']",": ['Positive', 'Positive', 'Positive']"
+best honey walnyt prawns that we have every tasted .,['honey walnyt prawns'],['best'],['POS'],"aspect: ['taste', 'prawns']
+Sentiment: ['Positive', 'Positive']",": ['taste', 'prawns']",": ['Positive', 'Positive']"
+the brocollis were so fresh and tasty .,"['brocollis', 'brocollis']","['fresh', 'tasty']","['POS', 'POS']","aspect: ['brocolli', 'taste']
+Sentiment: ['Positive', 'Positive']",": ['brocolli', 'taste']",": ['Positive', 'Positive']"
+"i would normally not finish the brocolli when i order these kinds of food but for the first time , every piece was as eventful as the first one ... the scallops and prawns was so fresh and nicely cooked .","['scallops', 'scallops', 'prawns', 'prawns']","['fresh', 'nicely cooked', 'fresh', 'nicely cooked']","['POS', 'POS', 'POS', 'POS']","aspect: ['brocolli', 'prawns', 'scallops']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['brocolli', 'prawns', 'scallops']",": ['Positive', 'Positive', 'Positive']"
+Chintzy portions,['portions'],['Chintzy'],['NEG'],"aspect: ['portions']
+Sentiment: ['Negative']",: ['portions'],: ['Negative']
+"– The sushi here is perfectly good , but for $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced restaurant ( even for NYC ) .","['sushi', 'restaurant']","['good', 'moderately priced']","['NEG', 'NEG']","aspect: ['price', 'sushi']
+Sentiment: ['negative', 'positive']",": ['price', 'sushi']",": ['negative', 'positive']"
+"Terrible service , food ok , pricey","['service', 'food']","['Terrible', 'ok']","['NEG', 'NEU']","aspect: ['food', 'price', 'service']
+Sentiment: ['Positive', 'Negative', 'Negative']",": ['food', 'price', 'service']",": ['Positive', 'Negative', 'Negative']"
+"Food wise , its ok but a bit pricey for what you get considering the restaurant is n't a fancy place .","['Food', 'Food', 'restaurant']","['ok', 'pricey', ""is n't a fancy""]","['NEU', 'NEU', 'NEU']","aspect: ['price', 'food']
+Sentiment: ['Negative', 'Positive']",": ['price', 'food']",": ['Negative', 'Positive']"
+Another plus is the open feel of the restaurant with glass walls on all sides .,"['feel', 'feel']","['plus', 'open']","['POS', 'POS']","aspect: ['feel', 'wall']
+Sentiment: ['Positive', 'Positive']",": ['feel', 'wall']",": ['Positive', 'Positive']"
+Amazing Spanish Mackeral special appetizer and perfect box sushi ( that eel with avodcao -- um um um ) .,"['Spanish Mackeral special appetizer', 'box sushi']","['Amazing', 'perfect']","['POS', 'POS']","aspect: ['appetizer', 'sushi', 'eel']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['appetizer', 'sushi', 'eel']",": ['Positive', 'Positive', 'Positive']"
+"As usual the omikase did n't disappoint in freshness , although it scored low on creativity and selection .","['omikase', 'omikase']","[""did n't disappoint"", 'scored low on creativity and selection']","['NEG', 'NEG']","aspect: ['freshness', 'creativity', 'selection']
+Sentiment: ['Positive', 'Negative', 'Negative']",": ['freshness', 'creativity', 'selection']",": ['Positive', 'Negative', 'Negative']"
+"Their specialty rolls are impressive , though I ca n't remember what we had .",['specialty rolls'],['impressive'],['POS'],"aspect: ['rolls', 'taste']
+Sentiment: ['Positive', 'Positive']",": ['rolls', 'taste']",": ['Positive', 'Positive']"
+Great selection of sakes .,['selection of sakes'],['Great'],['POS'],"aspect: ['selection']
+Sentiment: ['Positive']",: ['selection'],: ['Positive']
+It is n't the cheapest sushi but has been worth it every time .,"['sushi', 'sushi']","[""is n't the cheapest"", 'worth']","['POS', 'POS']","aspect: ['price', 'value']
+Sentiment: ['Negative', 'Positive']",": ['price', 'value']",": ['Negative', 'Positive']"
+Very poor customer service .,['customer service'],['poor'],['NEG'],"aspect: ['customer service']
+Sentiment: ['Negative']",: ['customer service'],: ['Negative']
+"– Schooner or Later 's charming location along the marina in Long Beach and average food does not , unfortunately , compensate for its very poor customer service .",['customer service'],['poor'],['NEG'],"aspect: ['food', 'location', 'customer service']
+Sentiment: ['Average', 'Positive', 'Negative']",": ['food', 'location', 'customer service']",": ['Average', 'Positive', 'Negative']"
+"While this diner had reasonably good food , the restaurant staff seemed completely indifferent to our presence , and this attitude was reflected in the lack of service .","['food', 'restaurant staff']","['good', 'indifferent']","['POS', 'NEG']","aspect: ['food', 'service']
+Sentiment: ['Positive', 'Negative']",": ['food', 'service']",": ['Positive', 'Negative']"

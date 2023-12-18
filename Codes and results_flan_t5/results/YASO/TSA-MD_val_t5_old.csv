@@ -1,0 +1,346 @@
+dataset_name,sentence,aspect,polarity,sentiment_t5
+YASO/TSA-MD_val,"""Typical"" Italian food was far from typical.",Italian food,negative,Not present
+YASO/TSA-MD_val,"After a few weeks the tablet started asking for updates, however i don't mind that, the resolution of the camera is decent, the sound quality is okay, i can watch movies with no problems and i like the wireless headphones that came with it, excellent buy.",sound,positive,Positive
+YASO/TSA-MD_val,"After a few weeks the tablet started asking for updates, however i don't mind that, the resolution of the camera is decent, the sound quality is okay, i can watch movies with no problems and i like the wireless headphones that came with it, excellent buy.",buy,positive,Positive
+YASO/TSA-MD_val,"After a few weeks the tablet started asking for updates, however i don't mind that, the resolution of the camera is decent, the sound quality is okay, i can watch movies with no problems and i like the wireless headphones that came with it, excellent buy.",wireless headphones,positive,Positive
+YASO/TSA-MD_val,"After a few weeks the tablet started asking for updates, however i don't mind that, the resolution of the camera is decent, the sound quality is okay, i can watch movies with no problems and i like the wireless headphones that came with it, excellent buy.",resolution of the camera is decent,positive,Positive
+YASO/TSA-MD_val,All the doctors and staff present were attentive to what I needed and they helped me in everything,doctors and staff present,positive,Positive
+YASO/TSA-MD_val,"Also, the fuel injection system does not work as it should since it does not inject enough, I am disappointed.",the fuel injection system,negative,Negative
+YASO/TSA-MD_val,Always seems to understand me with perfectly clarity and there is no delay between my commands and the answers I get.,clarity,positive,Positive
+YASO/TSA-MD_val,Always seems to understand me with perfectly clarity and there is no delay between my commands and the answers I get.,commands,positive,Not present
+YASO/TSA-MD_val,And great performance with hard work.,performance,positive,Positive
+YASO/TSA-MD_val,"As a result , I got bacteria in my stomach and i was very sick .",bacteria in my stomach,negative,Negative
+YASO/TSA-MD_val,"Banks are entities that help us to carry out projects that are fruitful, only that with these entities you have to be careful regarding the request for credits since they generate interest and we can lose more than we earn.",projects,positive,Not present
+YASO/TSA-MD_val,Built in webcam works fantastically well.,Built in webcam,positive,Positive
+YASO/TSA-MD_val,But I had to wait a long time.,wait,negative,Negative
+YASO/TSA-MD_val,"But what an annoying bank, a lot of requirements and when you bring them they do not give you attention as you expect that failure",attention,negative,Negative
+YASO/TSA-MD_val,"But what an annoying bank, a lot of requirements and when you bring them they do not give you attention as you expect that failure",bank,negative,Negative
+YASO/TSA-MD_val,"Despite having original content, it has a long way to go to keep up with other streaming services.",content,positive,Neutral
+YASO/TSA-MD_val,"Despite having original content, it has a long way to go to keep up with other streaming services.",it,negative,Negative
+YASO/TSA-MD_val,"Ecxelent injector service, my car looked great.",injector service,positive,Positive
+YASO/TSA-MD_val,"Ecxelent injector service, my car looked great.",car,positive,Not present
+YASO/TSA-MD_val,Excellent location.,location,positive,Positive
+YASO/TSA-MD_val,Exceptionally simple to browse and find what I wanted.,find what I wanted,positive,Positive
+YASO/TSA-MD_val,Exceptionally simple to browse and find what I wanted.,simple to browse,positive,Positive
+YASO/TSA-MD_val,"Good attention, excellent sweets.",sweets,positive,Positive
+YASO/TSA-MD_val,"Good attention, excellent sweets.",attention,positive,Not present
+YASO/TSA-MD_val,Good rates and good service.,rates,positive,Positive
+YASO/TSA-MD_val,Good rates and good service.,service,positive,Positive
+YASO/TSA-MD_val,"Good service, but the rooms are very small and do not have a children's pool or a recreation park.",service,positive,Positive
+YASO/TSA-MD_val,"Good service, but the rooms are very small and do not have a children's pool or a recreation park.",rooms,negative,Negative
+YASO/TSA-MD_val,Good: continually updating your catalog.,updating your catalog,positive,Positive
+YASO/TSA-MD_val,"Great location, great food, definitely will be back!",food,positive,Positive
+YASO/TSA-MD_val,"Great location, great food, definitely will be back!",location,positive,Positive
+YASO/TSA-MD_val,"He received me very kindly with a cocktail, the room as in every way, a five-star experience",experience,positive,Positive
+YASO/TSA-MD_val,"He received me very kindly with a cocktail, the room as in every way, a five-star experience",He,positive,Positive
+YASO/TSA-MD_val,"He received me very kindly with a cocktail, the room as in every way, a five-star experience",room,positive,Positive
+YASO/TSA-MD_val,"He was so nice and helpful, even set my settings how I wanted them to be set for my emails, photos and anything else I asked of him.",He,positive,Positive
+YASO/TSA-MD_val,He went way beyond what he was required to do.,He,positive,Not present
+YASO/TSA-MD_val,He would return to that place.,place,positive,Not present
+YASO/TSA-MD_val,I advise people who work for long time to try it.,it,positive,Not present
+YASO/TSA-MD_val,I always buy from this grocer.,grocer,positive,Positive
+YASO/TSA-MD_val,I bought Big Mac and it was a very nice meal.,Big Mac,positive,Positive
+YASO/TSA-MD_val,I bought Big Mac and it was a very nice meal.,meal,positive,Positive
+YASO/TSA-MD_val,"I bought a last generation phone but the camera does not work, it is fatal",camera,negative,Negative
+YASO/TSA-MD_val,I bought some rice from the grocery shop and my family liked it.,rice from the grocery shop,positive,Positive
+YASO/TSA-MD_val,"I bought this cellphone for its camera, but it turns out that the quality is not as expected.",cellphone,negative,Negative
+YASO/TSA-MD_val,"I bought this cellphone for its camera, but it turns out that the quality is not as expected.",camera,negative,Negative
+YASO/TSA-MD_val,"I bought this cellphone for its camera, but it turns out that the quality is not as expected.",quality,negative,Negative
+YASO/TSA-MD_val,"I bought this laptop 1 year ago and I am satisfied with that.It has a moderate price.Its battery life is short.It has a two-year warranty, which is good.",two,positive,Positive
+YASO/TSA-MD_val,"I bought this laptop 1 year ago and I am satisfied with that.It has a moderate price.Its battery life is short.It has a two-year warranty, which is good.",price,positive,Positive
+YASO/TSA-MD_val,"I bought this laptop 1 year ago and I am satisfied with that.It has a moderate price.Its battery life is short.It has a two-year warranty, which is good.",battery life,negative,Negative
+YASO/TSA-MD_val,"I bought this laptop 1 year ago and I am satisfied with that.It has a moderate price.Its battery life is short.It has a two-year warranty, which is good.",year warranty,positive,Positive
+YASO/TSA-MD_val,I bought this mobile phone from 1 year age and it is working perfectly till now .,mobile phone,positive,Positive
+YASO/TSA-MD_val,I can't wait to visit this restaurant again.,restaurant,positive,Positive
+YASO/TSA-MD_val,I had a wonderful experience buying my phone.,experience buying my phone,positive,Positive
+YASO/TSA-MD_val,I had sex issues with my wife as we have got married recently and we didn't have sex before marriage.,sex,negative,Not present
+YASO/TSA-MD_val,I have to admit that I am so happy to dealing with this shop .,dealing with this shop,positive,Positive
+YASO/TSA-MD_val,I have to admit that I am very happy  because of buy this phone .,this phone,positive,Positive
+YASO/TSA-MD_val,I have toothache so i visited the dentist and gave me some advises on how to wash my teeth properly and he was very nice.,dentist,positive,Not present
+YASO/TSA-MD_val,I highly recommend it.,it,positive,Positive
+YASO/TSA-MD_val,I like its shape.It has low quality.It has a low price.I especially love its camera.It has moderate support.,price,positive,Positive
+YASO/TSA-MD_val,I like its shape.It has low quality.It has a low price.I especially love its camera.It has moderate support.,support,positive,Not present
+YASO/TSA-MD_val,I like its shape.It has low quality.It has a low price.I especially love its camera.It has moderate support.,quality,negative,Negative
+YASO/TSA-MD_val,I like its shape.It has low quality.It has a low price.I especially love its camera.It has moderate support.,shape,positive,Positive
+YASO/TSA-MD_val,I like its shape.It has low quality.It has a low price.I especially love its camera.It has moderate support.,camera,positive,Positive
+YASO/TSA-MD_val,I liked it,it,positive,Positive
+YASO/TSA-MD_val,"I made one of the most important purchases of my life, the store had everything I was looking for and at excellent prices",store,positive,Positive
+YASO/TSA-MD_val,"I made one of the most important purchases of my life, the store had everything I was looking for and at excellent prices",purchases,positive,Positive
+YASO/TSA-MD_val,"I made one of the most important purchases of my life, the store had everything I was looking for and at excellent prices",prices,positive,Positive
+YASO/TSA-MD_val,"I rate it with 0 stars, the attention is of very low quality, the wait in the lines is very long, I do not recommend it",attention,negative,Negative
+YASO/TSA-MD_val,"I rate it with 0 stars, the attention is of very low quality, the wait in the lines is very long, I do not recommend it",it,negative,Negative
+YASO/TSA-MD_val,"I rate it with 0 stars, the attention is of very low quality, the wait in the lines is very long, I do not recommend it",quality,negative,Negative
+YASO/TSA-MD_val,"I rate it with 0 stars, the attention is of very low quality, the wait in the lines is very long, I do not recommend it",wait in the lines,negative,Negative
+YASO/TSA-MD_val,I really like it.,it,positive,Positive
+YASO/TSA-MD_val,I recently signed up for the Spotify 14 day free trial.,Spotify 14 day free trial,positive,Positive
+YASO/TSA-MD_val,I recommend them.,them,positive,Positive
+YASO/TSA-MD_val,I suffer from allergy to many kinds of foods and things.,allergy,negative,Not present
+YASO/TSA-MD_val,I suffer from allergy to many kinds of foods and things.,foods and things,negative,Not present
+YASO/TSA-MD_val,I visited the allergist and he made some tests and understood what things exactly i should stay away from.,allergist,positive,Not present
+YASO/TSA-MD_val,I was looking for a product and found someone that works in the store to ask them where I can locate the product and she was very rude and said I don't know really snotty and walked away.,someone that works in the store,negative,Negative
+YASO/TSA-MD_val,I was looking for a product and found someone that works in the store to ask them where I can locate the product and she was very rude and said I don't know really snotty and walked away.,she,negative,Negative
+YASO/TSA-MD_val,"I went to my insurance company to renew my insurance policy, it didn't take long, the attention was fast, the assistant was very kind and respectful, they gave me a coffee, I was really pleased with the service, I would recommend it to everyone.",service,positive,Positive
+YASO/TSA-MD_val,"I went to my insurance company to renew my insurance policy, it didn't take long, the attention was fast, the assistant was very kind and respectful, they gave me a coffee, I was really pleased with the service, I would recommend it to everyone.",insurance company,positive,Positive
+YASO/TSA-MD_val,"I went to my insurance company to renew my insurance policy, it didn't take long, the attention was fast, the assistant was very kind and respectful, they gave me a coffee, I was really pleased with the service, I would recommend it to everyone.",attention,positive,Positive
+YASO/TSA-MD_val,"I went to my insurance company to renew my insurance policy, it didn't take long, the attention was fast, the assistant was very kind and respectful, they gave me a coffee, I was really pleased with the service, I would recommend it to everyone.",assistant,positive,Positive
+YASO/TSA-MD_val,"I went to the medical spa where I received an excellent therapy for muscle aches, it is very satisfying to feel relieved",therapy,positive,Positive
+YASO/TSA-MD_val,"I went to the medical spa where I received an excellent therapy for muscle aches, it is very satisfying to feel relieved",to feel relieved,positive,Positive
+YASO/TSA-MD_val,"I went to the medical spa where I received an excellent therapy for muscle aches, it is very satisfying to feel relieved",medical spa,positive,Positive
+YASO/TSA-MD_val,I went to this hotel  3 months ago and i highly recommended it .,hotel,positive,Positive
+YASO/TSA-MD_val,"I went with my wife to eat at a restaurant recommended by a friend, the staff was attentive and very helpful, but the food was not as good as we expected.",staff,positive,Positive
+YASO/TSA-MD_val,"I went with my wife to eat at a restaurant recommended by a friend, the staff was attentive and very helpful, but the food was not as good as we expected.",the food,negative,Negative
+YASO/TSA-MD_val,I will definitely travel with this airline again and will recommend it to my friends.,this airline,positive,Positive
+YASO/TSA-MD_val,I will never fly with that airline again.,airline,negative,Negative
+YASO/TSA-MD_val,I will return to that place.,place,positive,Positive
+YASO/TSA-MD_val,I would not return to that place.,that place,negative,Negative
+YASO/TSA-MD_val,I've bought these sunglasses in order to protect my eyes from the sun.,sunglasses,positive,Not present
+YASO/TSA-MD_val,"It has an excellent location and the view is very beautiful, but the decoration is old, they need to be updated.",decoration,negative,Negative
+YASO/TSA-MD_val,"It has an excellent location and the view is very beautiful, but the decoration is old, they need to be updated.",location,positive,Positive
+YASO/TSA-MD_val,"It has an excellent location and the view is very beautiful, but the decoration is old, they need to be updated.",view,positive,Positive
+YASO/TSA-MD_val,It is a genre that many people love despite its loud and incomprehensible content,loud,negative,Negative
+YASO/TSA-MD_val,It is a genre that many people love despite its loud and incomprehensible content,content,negative,Not present
+YASO/TSA-MD_val,"It is a great alternative when you need to have your business running 24 hours a day, 7 days a week, 365 days a year.",alternative,positive,Positive
+YASO/TSA-MD_val,It is a lightweight phone.,phone,positive,Not present
+YASO/TSA-MD_val,It is a warm place that I would go again.,place,positive,Positive
+YASO/TSA-MD_val,"It is perfect, it does not adhere to the dirt and much less the rainwater so the paint of your car will last much longer",It,positive,Not present
+YASO/TSA-MD_val,"It is perfect, it does not adhere to the dirt and much less the rainwater so the paint of your car will last much longer",paint,positive,Positive
+YASO/TSA-MD_val,It was very cheap.,It,positive,Positive
+YASO/TSA-MD_val,"It worked well for the first two months, I loved the camera and the speed of opening applications.",speed of opening applications,positive,Positive
+YASO/TSA-MD_val,"It worked well for the first two months, I loved the camera and the speed of opening applications.",camera,positive,Positive
+YASO/TSA-MD_val,It's mid tower and suitable for most  motherboards and VGA cards.,tower,positive,Not present
+YASO/TSA-MD_val,"Its a Ojeda store, that have much variety and very well made!",Ojeda store,positive,Not present
+YASO/TSA-MD_val,"Last week with my friends, went to a restaurant that offers a lot of different kinds of food, and I confess that really never taste some macaron's food in any way.",restaurant,positive,Not present
+YASO/TSA-MD_val,"Last week with my friends, went to a restaurant that offers a lot of different kinds of food, and I confess that really never taste some macaron's food in any way.",macaron's,positive,Not present
+YASO/TSA-MD_val,"Last week with my friends, went to a restaurant that offers a lot of different kinds of food, and I confess that really never taste some macaron's food in any way.",food,positive,Not present
+YASO/TSA-MD_val,My children asked me to bring some meat to make meatballs but I was worried that the meat in markets aren't fresh until I saw this butcher and bough 2kg of meat.,meat in markets,negative,Not present
+YASO/TSA-MD_val,"My girlfriend and I have contracted some good friend of hers that works and help to bring any home better harmony, energy, style, and architecture to life, based on the feng shui energy because my girlfriend and I of course believe and that kind of stuff.",harmony,positive,Not present
+YASO/TSA-MD_val,"My girlfriend and I have contracted some good friend of hers that works and help to bring any home better harmony, energy, style, and architecture to life, based on the feng shui energy because my girlfriend and I of course believe and that kind of stuff.",friend,positive,Not present
+YASO/TSA-MD_val,"My girlfriend and I have contracted some good friend of hers that works and help to bring any home better harmony, energy, style, and architecture to life, based on the feng shui energy because my girlfriend and I of course believe and that kind of stuff.",home,positive,Not present
+YASO/TSA-MD_val,My impressions so far are positive and i would recommend the service.,service,positive,Positive
+YASO/TSA-MD_val,My phone has less than a week of use and the battery is already failing,phone,negative,Negative
+YASO/TSA-MD_val,My phone has less than a week of use and the battery is already failing,battery,negative,Negative
+YASO/TSA-MD_val,Netflix is â€‹â€‹the best option to watch movies in this quarantine season,Netflix,positive,Not present
+YASO/TSA-MD_val,Nice interface and system.,interface and system,positive,Positive
+YASO/TSA-MD_val,Now I enjoy a happy sexual life with my wife.,sexual life with my wife,positive,Positive
+YASO/TSA-MD_val,Perfect mixture of both sweet and savoury products on offer.,mixture of both sweet and savoury products,positive,Positive
+YASO/TSA-MD_val,Personnel with good experience and very well trained to carry out any infrastructure work and training of the place to build.,experience,positive,Positive
+YASO/TSA-MD_val,Personnel with good experience and very well trained to carry out any infrastructure work and training of the place to build.,trained,positive,Positive
+YASO/TSA-MD_val,Personnel with good experience and very well trained to carry out any infrastructure work and training of the place to build.,Personnel,positive,Positive
+YASO/TSA-MD_val,Since then I took his advises seriously and I've never felt allergic symptoms anymore.,advises,positive,Not present
+YASO/TSA-MD_val,Sleek looking and it's small size makes it perfect to store in the living room.,small size,positive,Positive
+YASO/TSA-MD_val,Sleek looking and it's small size makes it perfect to store in the living room.,looking,positive,Positive
+YASO/TSA-MD_val,Sleek looking and it's small size makes it perfect to store in the living room.,Sleek,positive,Positive
+YASO/TSA-MD_val,Sleek looking and it's small size makes it perfect to store in the living room.,store,positive,Positive
+YASO/TSA-MD_val,So  I recommend it without any doubt.,it,positive,Positive
+YASO/TSA-MD_val,Super stable and low consumption.,consumption,positive,Not present
+YASO/TSA-MD_val,Super stable and low consumption.,stable,positive,Not present
+YASO/TSA-MD_val,The adult shops most be a concientitation campaing,adult shops,positive,Not present
+YASO/TSA-MD_val,The battery discharges quickly.,battery,negative,Negative
+YASO/TSA-MD_val,"The cabin is luxurious, and has enough capacity to fit my whole family comfortably.",cabin,positive,Positive
+YASO/TSA-MD_val,"The cabin is luxurious, and has enough capacity to fit my whole family comfortably.",capacity,positive,Positive
+YASO/TSA-MD_val,The camera is one of the best that I have used.,camera,positive,Positive
+YASO/TSA-MD_val,The car is beautiful from the outside and has full options inside including gps.,car,positive,Not present
+YASO/TSA-MD_val,"The comfort was incredible, but the rooms and hall arenÂ´t clean at all.",rooms,negative,Negative
+YASO/TSA-MD_val,"The comfort was incredible, but the rooms and hall arenÂ´t clean at all.",hall,negative,Negative
+YASO/TSA-MD_val,"The comfort was incredible, but the rooms and hall arenÂ´t clean at all.",comfort,positive,Positive
+YASO/TSA-MD_val,"The decorist was the perfect blend of individualized service, so creative, innovated, fast and kind, gave a click with the style exactly that I wanted for the rooms.",decorist,positive,Positive
+YASO/TSA-MD_val,"The entity provides a good service to its clients and protection of their money, with different types of credits and comfortable monthly payments.",service,positive,Positive
+YASO/TSA-MD_val,"The entity provides a good service to its clients and protection of their money, with different types of credits and comfortable monthly payments.",credits,positive,Positive
+YASO/TSA-MD_val,"The entity provides a good service to its clients and protection of their money, with different types of credits and comfortable monthly payments.",entity,positive,Not present
+YASO/TSA-MD_val,"The entity provides a good service to its clients and protection of their money, with different types of credits and comfortable monthly payments.",monthly payments,positive,Positive
+YASO/TSA-MD_val,The first month was profitable.,first month,positive,Positive
+YASO/TSA-MD_val,"The food is very good, I would have liked a better garlic sauce, but otherwise everything is fine.",everything,positive,Positive
+YASO/TSA-MD_val,"The food is very good, I would have liked a better garlic sauce, but otherwise everything is fine.",food,positive,Positive
+YASO/TSA-MD_val,"The food is very good, I would have liked a better garlic sauce, but otherwise everything is fine.",garlic sauce,negative,Negative
+YASO/TSA-MD_val,The hotel has very good attention I loved staying here I recommend it 100% I hope to return next month,attention,positive,Positive
+YASO/TSA-MD_val,The hotel has very good attention I loved staying here I recommend it 100% I hope to return next month,hotel,positive,Positive
+YASO/TSA-MD_val,The hotel staff gave me an amazing room with sea view.,room,positive,Positive
+YASO/TSA-MD_val,The hotel staff gave me an amazing room with sea view.,hotel staff,positive,Positive
+YASO/TSA-MD_val,The hotel staff gave me an amazing room with sea view.,view,positive,Positive
+YASO/TSA-MD_val,The il service its very helpfull the operators tell me about another fail whit my car whit no other extra cost,operators,positive,Positive
+YASO/TSA-MD_val,The il service its very helpfull the operators tell me about another fail whit my car whit no other extra cost,il service,positive,Positive
+YASO/TSA-MD_val,"The inflation is very comfortable, and shows the results without any complications.",inflation,positive,Not present
+YASO/TSA-MD_val,The internet service is very slow lately when when I call to ask they say that the area has been under maintenance for about 1 week,internet service,negative,Negative
+YASO/TSA-MD_val,"The man that helped me, went out of his way and did everything that needed to be done to get my new phone up and running.",The man that helped me,positive,Positive
+YASO/TSA-MD_val,The motherboard comes with excellent heat sinks to reduce the temperature of Ryzen processors and it supports crossfire so this made thins easier for me.,heat sinks,positive,Positive
+YASO/TSA-MD_val,The motherboard comes with excellent heat sinks to reduce the temperature of Ryzen processors and it supports crossfire so this made thins easier for me.,motherboard,positive,Not present
+YASO/TSA-MD_val,The ocean view is incredible.,The ocean view,positive,Positive
+YASO/TSA-MD_val,The reception was bad and the staff looked tired.,staff,negative,Negative
+YASO/TSA-MD_val,The reception was bad and the staff looked tired.,reception,negative,Negative
+YASO/TSA-MD_val,"The restaurant has a very good location, but the food is very expensive and too salty for my taste",food,negative,Negative
+YASO/TSA-MD_val,"The restaurant has a very good location, but the food is very expensive and too salty for my taste",location,positive,Neutral
+YASO/TSA-MD_val,The restaurant is beautiful from outside and inside and  you can smell the food from a distance which makes you hungry.,food,positive,Positive
+YASO/TSA-MD_val,The restaurant is beautiful from outside and inside and  you can smell the food from a distance which makes you hungry.,restaurant,positive,Not present
+YASO/TSA-MD_val,"The rooms and overall the whole hotel was very nice, I love it",rooms,positive,Positive
+YASO/TSA-MD_val,"The rooms and overall the whole hotel was very nice, I love it",whole hotel,positive,Positive
+YASO/TSA-MD_val,The rooms were very comfortable and the staff treated us like royalty.,staff,positive,Positive
+YASO/TSA-MD_val,The rooms were very comfortable and the staff treated us like royalty.,rooms,positive,Positive
+YASO/TSA-MD_val,The waiters are respectful.,waiters,positive,Positive
+YASO/TSA-MD_val,The watch has a perfect design and nice shaped buttons.,watch,positive,Not present
+YASO/TSA-MD_val,The watch has a perfect design and nice shaped buttons.,shaped,positive,Positive
+YASO/TSA-MD_val,The watch has a perfect design and nice shaped buttons.,buttons,positive,Positive
+YASO/TSA-MD_val,The watch has a perfect design and nice shaped buttons.,design,positive,Positive
+YASO/TSA-MD_val,There you can have all kinds of luxury and the room service is very friendly .,room service,positive,Positive
+YASO/TSA-MD_val,They charged me a lot for registration.,charged,negative,Negative
+YASO/TSA-MD_val,They charged me a lot for registration.,registration,negative,Negative
+YASO/TSA-MD_val,They have a range of good quality technological equipment and a 1 year warranty on all their equipment.,technological equipment,positive,Positive
+YASO/TSA-MD_val,They offer extensive gifting options and varieties that made it more than simple enough.,gifting options and varieties,positive,Positive
+YASO/TSA-MD_val,They were fresh and healthy and my kids loved it.,They,positive,Not present
+YASO/TSA-MD_val,They were fresh and healthy and my kids loved it.,it,positive,Not present
+YASO/TSA-MD_val,"Truly it was the best thing that I eat so far, very nice flavor, good texture, great companion with the spaghetti, so easy and unique appearance, smell, and delicious.",thing that I eat,positive,Positive
+YASO/TSA-MD_val,"Truly it was the best thing that I eat so far, very nice flavor, good texture, great companion with the spaghetti, so easy and unique appearance, smell, and delicious.",companion with the spaghetti,positive,Positive
+YASO/TSA-MD_val,"Truly it was the best thing that I eat so far, very nice flavor, good texture, great companion with the spaghetti, so easy and unique appearance, smell, and delicious.",flavor,positive,Positive
+YASO/TSA-MD_val,"Truly it was the best thing that I eat so far, very nice flavor, good texture, great companion with the spaghetti, so easy and unique appearance, smell, and delicious.",appearance,positive,Not present
+YASO/TSA-MD_val,"Truly it was the best thing that I eat so far, very nice flavor, good texture, great companion with the spaghetti, so easy and unique appearance, smell, and delicious.",texture,positive,Positive
+YASO/TSA-MD_val,"Truly it was the best thing that I eat so far, very nice flavor, good texture, great companion with the spaghetti, so easy and unique appearance, smell, and delicious.",smell,positive,Positive
+YASO/TSA-MD_val,"Truly it was the best thing that I eat so far, very nice flavor, good texture, great companion with the spaghetti, so easy and unique appearance, smell, and delicious.",it,positive,Not present
+YASO/TSA-MD_val,Usually delivers a great quality picture and sound experience however customer service couldn't deal with an issue I had.,quality,positive,Positive
+YASO/TSA-MD_val,Usually delivers a great quality picture and sound experience however customer service couldn't deal with an issue I had.,customer service,negative,Negative
+YASO/TSA-MD_val,Usually delivers a great quality picture and sound experience however customer service couldn't deal with an issue I had.,picture and sound experience,positive,Positive
+YASO/TSA-MD_val,Usually delivers a great quality picture and sound experience however customer service couldn't deal with an issue I had.,delivers,positive,Positive
+YASO/TSA-MD_val,Very few series and movies,series and movies,negative,Negative
+YASO/TSA-MD_val,Very nice place.,place,positive,Positive
+YASO/TSA-MD_val,We were told that breakfast was included and it turns out we had to pay for it.,breakfast,negative,Negative
+YASO/TSA-MD_val,Well timed promotions that make you feel that you are getting your monies worth.,promotions,positive,Positive
+YASO/TSA-MD_val,"Went to the restaurant for the first time and everything was perfect, the waitress went out of her way to attend to us.",everything,positive,Positive
+YASO/TSA-MD_val,"Went to the restaurant for the first time and everything was perfect, the waitress went out of her way to attend to us.",restaurant,positive,Positive
+YASO/TSA-MD_val,"Went to the restaurant for the first time and everything was perfect, the waitress went out of her way to attend to us.",waitress,positive,Positive
+YASO/TSA-MD_val,Wery well made lawyer!,lawyer,positive,Not present
+YASO/TSA-MD_val,What I don't like is that it gets a bit hot after a few minutes of use.,it gets a bit hot,negative,Negative
+YASO/TSA-MD_val,"When i opened the packaging and took the console out, i was impressed with the design of the console.",design,positive,Positive
+YASO/TSA-MD_val,"When i opened the packaging and took the console out, i was impressed with the design of the console.",console,positive,Not present
+YASO/TSA-MD_val,"Whenever I go shopping at walmart, the workers are always very polite and helpful.",walmart,positive,Positive
+YASO/TSA-MD_val,"Whenever I go shopping at walmart, the workers are always very polite and helpful.",workers,positive,Positive
+YASO/TSA-MD_val,You can buy online and send to your home super fast,send,positive,Positive
+YASO/TSA-MD_val,"classical music serves as a method of relaxation and to relieve stress
+the counterproductive is that classical music has been modernized which causes its effect on relaxation to be not the same as with traditional music",classical music has been modernized,negative,Negative
+YASO/TSA-MD_val,"excellent bank with friendly service, always available and easy to use app",service,positive,Positive
+YASO/TSA-MD_val,"excellent bank with friendly service, always available and easy to use app",bank,positive,Positive
+YASO/TSA-MD_val,"excellent bank with friendly service, always available and easy to use app",app,positive,Positive
+YASO/TSA-MD_val,"first , I admit that  I was correct when  decided to go to a Psychologist .",Psychologist,positive,Not present
+YASO/TSA-MD_val,he recommended the use of some vitamins and a plan for feeding the chlid and it finally works .,plan for feeding the chlid,positive,Positive
+YASO/TSA-MD_val,he recommended the use of some vitamins and a plan for feeding the chlid and it finally works .,it,positive,Not present
+YASO/TSA-MD_val,he recommended the use of some vitamins and a plan for feeding the chlid and it finally works .,he,positive,Not present
+YASO/TSA-MD_val,he recommended the use of some vitamins and a plan for feeding the chlid and it finally works .,vitamins,positive,Not present
+YASO/TSA-MD_val,"i bought this phone at a reasonable price, i loved it because it has enough ram memory to be able to open my applications without any inconvenience, its on-screen technology allows me to view the videos in HD and it is also ultra thin and light, i love it",phone,positive,Positive
+YASO/TSA-MD_val,"i bought this phone at a reasonable price, i loved it because it has enough ram memory to be able to open my applications without any inconvenience, its on-screen technology allows me to view the videos in HD and it is also ultra thin and light, i love it",on-screen technology,positive,Positive
+YASO/TSA-MD_val,"i bought this phone at a reasonable price, i loved it because it has enough ram memory to be able to open my applications without any inconvenience, its on-screen technology allows me to view the videos in HD and it is also ultra thin and light, i love it",price,positive,Positive
+YASO/TSA-MD_val,"i bought this phone at a reasonable price, i loved it because it has enough ram memory to be able to open my applications without any inconvenience, its on-screen technology allows me to view the videos in HD and it is also ultra thin and light, i love it",ram memory,positive,Positive
+YASO/TSA-MD_val,i bought this phone two years ago and i admit that this mobile is perfect .,phone,positive,Not present
+YASO/TSA-MD_val,i bought this phone two years ago and i admit that this mobile is perfect .,mobile,positive,Not present
+YASO/TSA-MD_val,"investments are expensive and interest is very high, i am very disappointed with the service",interest,negative,Negative
+YASO/TSA-MD_val,"investments are expensive and interest is very high, i am very disappointed with the service",service,negative,Negative
+YASO/TSA-MD_val,"investments are expensive and interest is very high, i am very disappointed with the service",investments,negative,Negative
+YASO/TSA-MD_val,it has 48 hours of battery life .,battery life,positive,Positive
+YASO/TSA-MD_val,it overheats a lot and that makes it difficult to work with it,it,negative,Negative
+YASO/TSA-MD_val,it was a bad experience  for me .,experience,negative,Negative
+YASO/TSA-MD_val,my moral was hurting and I went to dentist who recommended pulling this molar .... but I notice that the equipment  was not  sterile and clean .,moral,negative,Not present
+YASO/TSA-MD_val,my moral was hurting and I went to dentist who recommended pulling this molar .... but I notice that the equipment  was not  sterile and clean .,equipment,negative,Negative
+YASO/TSA-MD_val,pepsi diet has very good taste with less calories,taste,positive,Positive
+YASO/TSA-MD_val,pepsi diet has very good taste with less calories,pepsi diet,positive,Not present
+YASO/TSA-MD_val,pretty good muscle therapy service with the best therapists in the state.,therapists,positive,Positive
+YASO/TSA-MD_val,pretty good muscle therapy service with the best therapists in the state.,muscle therapy service,positive,Positive
+YASO/TSA-MD_val,the attention is very good and the place is very beautiful,place,positive,Positive
+YASO/TSA-MD_val,the attention is very good and the place is very beautiful,attention,positive,Positive
+YASO/TSA-MD_val,"the car is in excellent condition, you have new tires, seats in excellent condition and engine up to date",engine,positive,Positive
+YASO/TSA-MD_val,"the car is in excellent condition, you have new tires, seats in excellent condition and engine up to date",seats,positive,Positive
+YASO/TSA-MD_val,"the car is in excellent condition, you have new tires, seats in excellent condition and engine up to date",car,positive,Positive
+YASO/TSA-MD_val,"the car is in excellent condition, you have new tires, seats in excellent condition and engine up to date",tires,positive,Positive
+YASO/TSA-MD_val,"the car is in very bad condition, seats are broken and paint deteriorated, apart from the stereo it does not work",car,negative,Negative
+YASO/TSA-MD_val,"the car is in very bad condition, seats are broken and paint deteriorated, apart from the stereo it does not work",stereo,negative,Negative
+YASO/TSA-MD_val,"the car is in very bad condition, seats are broken and paint deteriorated, apart from the stereo it does not work",seats,negative,Negative
+YASO/TSA-MD_val,"the car is in very bad condition, seats are broken and paint deteriorated, apart from the stereo it does not work",paint,negative,Negative
+YASO/TSA-MD_val,the church is very well preserved and has very beautiful facilities,church,positive,Positive
+YASO/TSA-MD_val,the church is very well preserved and has very beautiful facilities,facilities,positive,Positive
+YASO/TSA-MD_val,the clinic location is perfect ..,clinic location,positive,Positive
+YASO/TSA-MD_val,the coffee i bought from the shop is so effective that because it's supplied with caffeine.,caffeine,positive,Positive
+YASO/TSA-MD_val,the coffee i bought from the shop is so effective that because it's supplied with caffeine.,coffee,positive,Not present
+YASO/TSA-MD_val,the dentist has very good reviews which encouraged me to pay him a visit because I had teeth pain.,dentist,positive,Positive
+YASO/TSA-MD_val,the dentist has very good reviews which encouraged me to pay him a visit because I had teeth pain.,reviews,positive,Positive
+YASO/TSA-MD_val,"the guys arrived on time for the cleaning, they have the latest tools for cleaning, they do their job without much noise and quickly, excellent treatment and very cordial and respectful",the guys,positive,Positive
+YASO/TSA-MD_val,"the guys arrived on time for the cleaning, they have the latest tools for cleaning, they do their job without much noise and quickly, excellent treatment and very cordial and respectful",treatment,positive,Positive
+YASO/TSA-MD_val,the hotel is very good but the weather is very cold for my taste,weather,negative,Negative
+YASO/TSA-MD_val,the keyboard is soft and so thin which makes you relax when tapping it's buttons.,keyboard,positive,Not present
+YASO/TSA-MD_val,the location of the store is so clear and easy to go .,location of the store,positive,Positive
+YASO/TSA-MD_val,the location of this shop is great and easy to go to but the treatment of the shop staff is not good .,treatment of the shop staff,negative,Negative
+YASO/TSA-MD_val,the most amazing thing about this controller is that it has adjustable sensitivity settings and it works perfectly,controller,positive,Not present
+YASO/TSA-MD_val,the most amazing thing about this controller is that it has adjustable sensitivity settings and it works perfectly,sensitivity settings,positive,Positive
+YASO/TSA-MD_val,"the place is great  they offer many healing services  specialy acupunture , i really  heal my pain  in my back, you can chose the plan that you want they offered 4 plans, the service is special and  the personal  do their job very well  and they have convienence hours",place,positive,Positive
+YASO/TSA-MD_val,"the place is great  they offer many healing services  specialy acupunture , i really  heal my pain  in my back, you can chose the plan that you want they offered 4 plans, the service is special and  the personal  do their job very well  and they have convienence hours",hours,positive,Positive
+YASO/TSA-MD_val,"the place is great  they offer many healing services  specialy acupunture , i really  heal my pain  in my back, you can chose the plan that you want they offered 4 plans, the service is special and  the personal  do their job very well  and they have convienence hours",personal,positive,Positive
+YASO/TSA-MD_val,"the place is great  they offer many healing services  specialy acupunture , i really  heal my pain  in my back, you can chose the plan that you want they offered 4 plans, the service is special and  the personal  do their job very well  and they have convienence hours",service,positive,Positive
+YASO/TSA-MD_val,"the place was nicely decorated and the food was spectacular, I would definitely go again",food,positive,Positive
+YASO/TSA-MD_val,"the place was nicely decorated and the food was spectacular, I would definitely go again",the place,positive,Positive
+YASO/TSA-MD_val,the price of food is enough fair.,price,positive,Positive
+YASO/TSA-MD_val,"the refrigerator does not cool, and the food is spoiled due to lack of temperature",refrigerator,negative,Negative
+YASO/TSA-MD_val,"the refrigerator does not cool, and the food is spoiled due to lack of temperature",food,negative,Negative
+YASO/TSA-MD_val,"the restaurant really was quite spacious as expected, very good service, quite elegant waiters and very delicious food",restaurant,positive,Positive
+YASO/TSA-MD_val,"the restaurant really was quite spacious as expected, very good service, quite elegant waiters and very delicious food",food,positive,Positive
+YASO/TSA-MD_val,"the restaurant really was quite spacious as expected, very good service, quite elegant waiters and very delicious food",service,positive,Positive
+YASO/TSA-MD_val,"the restaurant really was quite spacious as expected, very good service, quite elegant waiters and very delicious food",waiters,positive,Positive
+YASO/TSA-MD_val,the room service was excellent and the staff is very friendly,staff,positive,Positive
+YASO/TSA-MD_val,the room service was excellent and the staff is very friendly,room service,positive,Positive
+YASO/TSA-MD_val,the room service was so ruddy and the quality of food was so bad .,room service,negative,Negative
+YASO/TSA-MD_val,the room service was so ruddy and the quality of food was so bad .,quality of food,negative,Negative
+YASO/TSA-MD_val,the room was very nice and room service was great.,room service,positive,Positive
+YASO/TSA-MD_val,the room was very nice and room service was great.,the room,positive,Positive
+YASO/TSA-MD_val,the router works fine for what i pay but it doesn't have much range and sometimes it gets misconfigured by itself,works,positive,Positive
+YASO/TSA-MD_val,the router works fine for what i pay but it doesn't have much range and sometimes it gets misconfigured by itself,range,negative,Negative
+YASO/TSA-MD_val,the seats are comfortable and can take up to 6 persons in.,seats,positive,Positive
+YASO/TSA-MD_val,"this restaurant is the best their sandwich are amazing  they have all the ingredients that you possible want , and the size is  great to  i recomended to go to this restaurant",sandwich,positive,Positive
+YASO/TSA-MD_val,"this restaurant is the best their sandwich are amazing  they have all the ingredients that you possible want , and the size is  great to  i recomended to go to this restaurant",restaurant,positive,Positive
+YASO/TSA-MD_val,"this restaurant is the best their sandwich are amazing  they have all the ingredients that you possible want , and the size is  great to  i recomended to go to this restaurant",restaurant,positive,Positive
+YASO/TSA-MD_val,"this restaurant is the best their sandwich are amazing  they have all the ingredients that you possible want , and the size is  great to  i recomended to go to this restaurant",ingredients,positive,Positive
+YASO/TSA-MD_val,"this restaurant is the best their sandwich are amazing  they have all the ingredients that you possible want , and the size is  great to  i recomended to go to this restaurant",size,positive,Positive
+YASO/TSA-MD_val,this service is great  the speed of this internet is amazing  i can watch netflix  and  disney + in the  same time is the best,speed of this internet,positive,Positive
+YASO/TSA-MD_val,this service is great  the speed of this internet is amazing  i can watch netflix  and  disney + in the  same time is the best,service,positive,Positive
+YASO/TSA-MD_val,very good food in this restaurant and the attention is very good I love it,attention,positive,Positive
+YASO/TSA-MD_val,very good food in this restaurant and the attention is very good I love it,food,positive,Positive
+YASO/TSA-MD_val,very good food in this restaurant and the attention is very good I love it,restaurant,positive,Positive
+YASO/TSA-MD_val,"very pleasant place to spend some days near the sea
+
+the attention is first
+
+the cost is cheap",cost,positive,Positive
+YASO/TSA-MD_val,"very pleasant place to spend some days near the sea
+
+the attention is first
+
+the cost is cheap",place,positive,Positive
+YASO/TSA-MD_val,"very pleasant place to spend some days near the sea
+
+the attention is first
+
+the cost is cheap",attention,positive,Positive
+YASO/TSA-MD_val,"we stayed 5 days in the hotel, the wonderful food and its wonderful pool",food,positive,Positive
+YASO/TSA-MD_val,"we stayed 5 days in the hotel, the wonderful food and its wonderful pool",pool,positive,Positive
+YASO/TSA-MD_val,"we stayed 5 days in the hotel, the wonderful food and its wonderful pool",hotel,positive,Positive
+YASO/TSA-MD_val,when I bought this phone I thought it has 128gb clear memory but unfortunately the system takes about 50gb  which is too much.,system,negative,Negative
+YASO/TSA-MD_val,when I bought this phone I thought it has 128gb clear memory but unfortunately the system takes about 50gb  which is too much.,phone,negative,Not present
+YASO/TSA-MD_val,with this product I have enjoyed working in appen!,product,positive,Not present
+YASO/TSA-MD_val,"yesterday, I ordered four chicken sandwiches but the quality of food was disappointing for me , Food was delivered after 4 hours .",delivered,negative,Negative
+YASO/TSA-MD_val,"yesterday, I ordered four chicken sandwiches but the quality of food was disappointing for me , Food was delivered after 4 hours .",quality of food,negative,Negative
+YASO/TSA-MD_val,"yesterday, I ordered four chicken sandwiches but the quality of food was disappointing for me , Food was delivered after 4 hours .",chicken sandwiches,negative,Negative
+YASO/TSA-MD_val,you can find there anything you want .,there,positive,Not present
+YASO/TSA-MD_val,you can let your child  play in the kids area safely .,kids area,positive,Positive
+YASO/TSA-MD_val,I started reading it but never laughed.,Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,We had to wait for our room to be vacated.,Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,medicine was the whole solution for this pandemic but we do not know how effective it is,Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,They told me that they could change it for another of better quality but the price was very high.,Target Not Found,Not Available,Negative
+YASO/TSA-MD_val,Highly recommended.,Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,all in 1.,Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,My back pain disappeared within 3 months.,Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,The best,Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,Stars: 4.8,Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,I travelled with American Airlines.,Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,I went to this employment agency 3 months ago.,Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,Just as they had described it to us.,Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,I visited the book shop and bought a book about the world war II.,Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,It's okay if you only need it for one night.,Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,I recently travelled to visit my grandparents in Florida.,Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,super yes!,Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,"Although the staff was attentive, they did not solve the problem with the credit card and we had to pay with cash.",Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,Eaten at Chili's many times and never had a problem before.,Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,I invested in the shares of this company in the stock market 6 months ago.,Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,I bought a pair of sunglasses yesterday.,Target Not Found,Not Available,Not present
+YASO/TSA-MD_val,It was not what I expected.,Target Not Found,Not Available,Negative

@@ -1,0 +1,101 @@
+text,aspect,opinion,sentiment,Response_gpt,aspect_gpt,sentiment_gpt
+Serves really good sushi .,['sushi'],['good'],['POS'],"Aspect: ['sushi']
+Sentiment: ['Positive']",: ['sushi'],: ['Positive']
+Not the biggest portions but adequate .,"['portions', 'portions']","['Not the biggest', 'adequate']","['NEU', 'NEU']","Aspect: ['portions']
+Sentiment: ['Neutral']",: ['portions'],: ['Neutral']
+Green Tea creme brulee is a must !,['Green Tea creme brulee'],['must'],['POS'],"Aspect: ['Green Tea creme brulee']
+Sentiment: ['Positive']",: ['Green Tea creme brulee'],: ['Positive']
+It has great sushi and even better service .,"['sushi', 'service']","['great', 'better']","['POS', 'POS']","Aspect: ['sushi', 'service']
+Sentiment: ['positive', 'positive']",": ['sushi', 'service']",": ['positive', 'positive']"
+The entire staff was extremely accomodating and tended to my every need .,['staff'],['accomodating'],['POS'],"Aspect: ['staff']
+Sentiment: ['positive']",: ['staff'],: ['positive']
+The owner is belligerent to guests that have a complaint .,['owner'],['belligerent'],['NEG'],"Aspect: ['owner', 'guests', 'complaint']
+Sentiment: ['negative']",": ['owner', 'guests', 'complaint']",: ['negative']
+Good food !,['food'],['Good'],['POS'],"Aspect: ['food']
+Sentiment: ['Positive']",: ['food'],: ['Positive']
+This is a great place to get a delicious meal .,['meal'],['delicious'],['POS'],"aspect: ['place', 'meal']
+Sentiment: ['positive']",": ['place', 'meal']",: ['positive']
+The staff is pretty friendly .,['staff'],['friendly'],['POS'],"Aspect: ['staff']
+Sentiment: ['positive']",: ['staff'],: ['positive']
+The onion rings are great !,['onion rings'],['great'],['POS'],"Aspect: ['onion rings']
+Sentiment: ['Positive']",: ['onion rings'],: ['Positive']
+"The lemon chicken tasted like sticky sweet donuts and the honey walnut prawns , the few they actually give you ... ..were not good .","['lemon chicken', 'honey walnut prawns']","['sticky sweet', 'not good']","['NEG', 'NEG']","Aspect: ['lemon chicken', 'sticky sweet donuts', 'honey walnut prawns', 'few they actually give you']
+Sentiment: ['Negative', 'Negative', 'Negative', 'Negative']",": ['lemon chicken', 'sticky sweet donuts', 'honey walnut prawns', 'few they actually give you']",": ['Negative', 'Negative', 'Negative', 'Negative']"
+"Nice ambience , but highly overrated place .","['ambience', 'place']","['Nice', 'overrated']","['POS', 'NEG']","Aspect: ['ambience', 'place']
+Sentiment: ['Positive', 'Negative']",": ['ambience', 'place']",": ['Positive', 'Negative']"
+Worst Service I Ever Had,['Service'],['Worst'],['POS'],"aspect: ['Service']
+Sentiment: ['Negative']",: ['Service'],: ['Negative']
+Everyone that sat in the back outside agreed that it was the worst service we had ever received .,['service'],['worst'],['NEG'],"Aspect: ['service']
+Sentiment: ['worst']",: ['service'],: ['worst']
+"Our waiter was non-existent and after our food finally arrived over an hour after we ordered , we were not given any water or utensils .",['waiter'],['non-existent'],['NEG'],"Aspect: ['waiter', 'food', 'water', 'utensils']
+Sentiment: ['Negative', 'Negative', 'Negative', 'Negative']",": ['waiter', 'food', 'water', 'utensils']",": ['Negative', 'Negative', 'Negative', 'Negative']"
+"I complained to the manager , but he was not even apologetic .",['manager'],['not even apologetic'],['NEG'],"Aspect: ['manager']
+Sentiment: ['negative']",: ['manager'],: ['negative']
+Fabulous Italian Food !,['Italian Food'],['Fabulous'],['POS'],"Aspect: ['Italian Food']
+Sentiment: ['Positive']",: ['Italian Food'],: ['Positive']
+– I highly recommend Mioposto .,['Mioposto'],['recommend'],['POS'],"Aspect: ['Mioposto']
+Sentiment: ['Positive']",: ['Mioposto'],: ['Positive']
+I am so happy to have a wonderful Italian restaurant in my neighborhood .,['Italian restaurant'],['wonderful'],['POS'],"Aspect: ['Italian restaurant', 'neighborhood']
+Sentiment: ['Positive', 'Positive']",": ['Italian restaurant', 'neighborhood']",": ['Positive', 'Positive']"
+The wine list is wonderful and the food reminds me of my recent trip to Italy .,['wine list'],['wonderful'],['POS'],"Aspect: ['wine list', 'food']
+Sentiment: ['positive', 'positive']",": ['wine list', 'food']",": ['positive', 'positive']"
+I love this restaurant,['restaurant'],['love'],['POS'],"Aspect: ['restaurant']
+Sentiment: ['Positive']",: ['restaurant'],: ['Positive']
+"– I will never forget the amazing meal , service , and ambiance I experience at this restaurant .","['meal', 'service', 'ambiance']","['amazing', 'amazing', 'amazing']","['POS', 'POS', 'POS']","Aspect: ['meal', 'service', 'ambiance']
+Sentiment: ['amazing', 'amazing', 'amazing']",": ['meal', 'service', 'ambiance']",": ['amazing', 'amazing', 'amazing']"
+"The wine list is incredible and extensive and diverse , the food is all incredible and the staff was all very nice , good at their jobs and cultured .","['wine list', 'wine list', 'wine list', 'food', 'staff']","['incredible', 'extensive', 'diverse', 'incredible', 'nice']","['POS', 'POS', 'POS', 'POS', 'POS']","Aspect: ['wine list', 'food', 'staff']
+Sentiment: ['positive', 'positive', 'positive']",": ['wine list', 'food', 'staff']",": ['positive', 'positive', 'positive']"
+The food was great !,['food'],['great'],['POS'],"Aspect: ['food']
+Sentiment: ['positive']",: ['food'],: ['positive']
+"– In a age of incremental cost cutting in restaurants , its nice to see a place that bucks that trend , and just plain delivers high quality food and good service , period .","['food', 'service']","['high quality', 'good']","['POS', 'POS']","Aspect: ['cost cutting', 'restaurants', 'place', 'food', 'service']
+Sentiment: ['Negative', 'Positive', 'Positive', 'Positive', 'Positive']",": ['cost cutting', 'restaurants', 'place', 'food', 'service']",": ['Negative', 'Positive', 'Positive', 'Positive', 'Positive']"
+This is the place to relax and enjoy the finest quality food the industry can offer .,"['place', 'food']","['relax', 'finest quality']","['POS', 'POS']","Aspect: ['place', 'food', 'quality']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['place', 'food', 'quality']",": ['Positive', 'Positive', 'Positive']"
+Caution - its real food for people who love the best .,"['food', 'food']","['real', 'best']","['POS', 'POS']","Aspect: ['food']
+Sentiment: ['positive']",: ['food'],: ['positive']
+I liked the atmosphere very much but the food was not worth the price .,"['atmosphere', 'food']","['liked', 'not worth the price']","['POS', 'NEG']","Aspect: ['atmosphere', 'food', 'price']
+Sentiment: ['positive', 'negative', 'negative']",": ['atmosphere', 'food', 'price']",": ['positive', 'negative', 'negative']"
+I may not be a sushi guru but I can tell you that the food here is just okay and that there is not much else to it .,['food'],['okay'],['NEG'],"Aspect: ['food']
+Sentiment: ['neutral']",: ['food'],: ['neutral']
+"Rice is too dry , tuna was n't so fresh either .","['Rice', 'tuna']","['too dry', ""was n't so fresh""]","['NEG', 'NEG']","Aspect: ['Rice', 'tuna']
+Sentiment: ['Negative', 'Negative']",": ['Rice', 'tuna']",": ['Negative', 'Negative']"
+I have eaten here three times and have found the quality and variety of the fish to be excellent .,['fish'],['excellent'],['POS'],"Aspect: ['quality', 'variety', 'fish']
+Sentiment: ['excellent']",": ['quality', 'variety', 'fish']",: ['excellent']
+"However , the value and service are both severely lacking .",['service'],['lacking'],['NEG'],"Aspect: ['value', 'service']
+Sentiment: ['negative', 'negative']",": ['value', 'service']",": ['negative', 'negative']"
+"Furthermore , while the fish is unquestionably fresh , rolls tend to be inexplicably bland .","['fish', 'rolls']","['fresh', 'bland']","['POS', 'NEG']","Aspect: ['fish', 'rolls']
+Sentiment: ['positive', 'negative']",": ['fish', 'rolls']",": ['positive', 'negative']"
+The service ranges from mediocre to offensive .,"['service', 'service']","['mediocre', 'offensive']","['NEG', 'NEG']","Aspect: ['service']
+Sentiment: ['mediocre', 'offensive']",: ['service'],": ['mediocre', 'offensive']"
+"On a recent trip , our waiter was extremely dismissive , while no less than three staff members waited hand-and-foot on a pair of Japanese girls seated nearby .",['waiter'],['dismissive'],['NEG'],"Aspect: ['waiter', 'staff members', 'Japanese girls']
+Sentiment: ['Negative', 'Positive', 'Neutral']",": ['waiter', 'staff members', 'Japanese girls']",": ['Negative', 'Positive', 'Neutral']"
+Freshest sushi – I love this restaurant .,"['sushi', 'restaurant']","['Freshest', 'love']","['POS', 'POS']","Aspect: ['sushi', 'restaurant']
+Sentiment: ['Positive']",": ['sushi', 'restaurant']",: ['Positive']
+They pay such detail to everything from miso soup to complex rolls .,['rolls'],['complex'],['POS'],"Aspect: ['detail', 'miso soup', 'complex rolls']
+Sentiment: ['Positive', 'Positive', 'Positive']",": ['detail', 'miso soup', 'complex rolls']",": ['Positive', 'Positive', 'Positive']"
+The sashimi was the freshest and most tender I have ever tasted .,"['sashimi', 'sashimi']","['freshest', 'tender']","['POS', 'POS']","Aspect: ['sashimi']
+Sentiment: ['Positive']",: ['sashimi'],: ['Positive']
+Their apps are all delicious .,['apps'],['delicious'],['POS'],"Aspect: ['apps']
+Sentiment: ['positive']",: ['apps'],: ['positive']
+The only drawback is that this place is really expensive and the portions are on the small side .,['place'],['expensive'],['NEG'],"Aspect: ['price', 'portions']
+Sentiment: ['negative', 'negative']",": ['price', 'portions']",": ['negative', 'negative']"
+"But the space is small and lovely , and the service is helpful .","['space', 'space', 'service']","['small', 'lovely', 'helpful']","['POS', 'POS', 'POS']","Aspect: ['space', 'service']
+Sentiment: ['positive', 'positive']",": ['space', 'service']",": ['positive', 'positive']"
+– The food was not great & the waiters were rude .,"['food', 'waiters']","['not great', 'rude']","['NEG', 'NEG']","Aspect: ['food', 'waiters']
+Sentiment: ['negative', 'negative']",": ['food', 'waiters']",": ['negative', 'negative']"
+great service,['service'],['great'],['POS'],"Aspect: ['service']
+Sentiment: ['positive']",: ['service'],: ['positive']
+my service was stellar !,['service'],['stellar'],['POS'],"Aspect: ['service']
+Sentiment: ['positive']",: ['service'],: ['positive']
+"food was fine , with a some little-tastier-than-normal salsa .",['food'],['fine'],['POS'],"Aspect: ['food', 'salsa']
+Sentiment: ['Neutral', 'Positive']",": ['food', 'salsa']",": ['Neutral', 'Positive']"
+"the food was great , the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me .","['food', 'margaritas', 'waitress']","['great', 'great', 'too busy']","['POS', 'POS', 'NEG']","Aspect: ['food', 'margaritas', 'waitress', 'care']
+Sentiment: ['positive', 'positive', 'negative', 'negative']",": ['food', 'margaritas', 'waitress', 'care']",": ['positive', 'positive', 'negative', 'negative']"
+Mama Mia – I live in the neighborhood and feel lucky to live by such a great pizza place .,['pizza place'],['great'],['POS'],"Aspect: ['pizza place']
+Sentiment: ['Positive']",: ['pizza place'],: ['Positive']
+Best Sushi in town .,['Sushi'],['Best'],['POS'],"Aspect: ['Sushi']
+Sentiment: ['Positive']",: ['Sushi'],: ['Positive']
+The best calamari in Seattle !,['calamari'],['best'],['POS'],"Aspect: ['calamari']
+Sentiment: ['Positive']",: ['calamari'],: ['Positive']
+– ... and the best summertime deck experience -- they will even bring you a blanket if you get cold in the Seattle evening weather .,['deck'],['best'],['POS'],"Aspect: ['summertime deck experience', 'blanket']
+Sentiment: ['positive', 'positive']",": ['summertime deck experience', 'blanket']",": ['positive', 'positive']"
