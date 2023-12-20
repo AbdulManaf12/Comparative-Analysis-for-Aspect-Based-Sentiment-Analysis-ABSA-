@@ -4,9 +4,9 @@
 This repository contains code and documentation for a research project that explores the comparative analysis of Large Language Models (LLMs) and traditional models in the context of [Your Research Focus]. The study aims to [Briefly Summarize Your Research Goals].
 
 ## Table of Contents
-1. [Dataset](#Datasets)
-2. [Code](#Code and Results)
-3. [Performance Analysis Results](#Performance Analysis Results)
+1. [Datasets](#Datasets)
+2. [Code and Results](#Code-and-Results)
+3. [Performance Analysis Results](#Performance-Analysis-Results)
 4. [Paper](#paper)
 
 
