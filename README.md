@@ -14,11 +14,15 @@ This repository contains code and documentation for a research project that expl
 The `datasets` directory includes datasets used in the analysis. Detailed information about data sources and preprocessing steps can be found [here](datasets).
 
 ## Code and Results
-The `code and results` directory contains scripts for data preprocessing, model training, Model predictions, and visualization. Visit these links for details [LLM_codes](Codes and results_LLM),[LSTM_codes](Codes and results_LSTM), [Flan-t5_codes](Codes and results_flan_t5), [DeBERTa_codes](codes and results_deberta) for details.
+The `code and results` directory contains scripts for data preprocessing, model training, Model predictions, and visualization.Visit these links for details:
 
+- [LLM_codes](Codes%20and%20results_LLM)
+- [LSTM_codes](Codes%20and%20results_LSTM)
+- [Flan-t5_codes](Codes%20and%20results_flan_t5)
+- [DeBERTa_codes](codes%20and%20results_deberta) for details.
 
 ## Performance Analysis Results
-Explore the `Performance Analysis Results` directory for key metrics, graphs, and visualizations obtained from the analysis. More details on the analysis process can be found [here](Results and performance analysis).
+Explore the `Performance Analysis Results` directory for key metrics, graphs, and visualizations obtained from the analysis. More details on the performance analysis can be found [here](Results%and%performance%analysis).
 
 ## Paper
 The paper is submitted for review. 
