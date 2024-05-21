@@ -14,7 +14,7 @@ from itertools import islice
 
 
 # initialize OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 def analyze(text):
     prompt_aspect = f"""As an aspect-based sentiment analyzer, your task is to extract aspects and corresponding sentiments (Positive, Negative, or Neutral) from people's reviews. Each review consists of a text and may contain multiple aspects and their corresponding sentiments. Your goal is to process the reviews and extract the aspects and sentiments from them.
 
