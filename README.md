@@ -7,7 +7,7 @@ This repository contains code and documentation for a research project that expl
 1. [Datasets](#Datasets)
 2. [Code and Results](#Code-and-Results)
 3. [Performance Analysis Results](#Performance-Analysis-Results)
-4. [Paper](#paper)
+4. [Reference/Citation](#Reference)
 
 
 ## Datasets
@@ -24,8 +24,12 @@ The `code and results` directory contains scripts for data preprocessing, model 
 ## Performance Analysis Results
 Explore the `Performance Analysis Results` directory for key metrics, graphs, and visualizations obtained from the analysis. More details on the performance analysis can be found [here](Results%and%performance%analysis).
 
-## Paper
-The paper is submitted for review. 
+## Reference
+
+If you use this code, please cite our paper:
+Mughal, Nimra, et al. "Comparative Analysis of Deep Natural Networks and Large Language Models for Aspect-Based Sentiment Analysis." IEEE Access (2024).
+DOI/Link https://doi.org/10.1109/ACCESS.2024.3386969
+
 
 
 ## Acknowledgements
