@@ -1,7 +1,7 @@
 ﻿# Comparative-Analysis-for-Aspect-Based-Sentiment-Analysis-ABSA-
 
 ## Overview
-This repository contains code and documentation for a research project that explores the comparative analysis of Large Language Models (LLMs) and traditional models in the context of [Your Research Focus]. The study aims to [Briefly Summarize Your Research Goals].
+This repository contains the official code, documentation, and implementation for the research paper titled "Comparative Analysis of Large Language Models (LLMs) and Traditional Models for Aspect-Based Sentiment Analysis (ABSA)." The study evaluates and contrasts the performance of LLMs like Flan-T5 and DeBERTa with traditional models like LSTM in the context of ABSA. It aims to provide insights into the effectiveness of different model architectures in analyzing sentiment at a more granular aspect-based level.
 
 ## Table of Contents
 1. [Datasets](#Datasets)
