@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparative Analysis for Aspect-Based Sentiment Analysis (ABSA)</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 40px;
+            margin-bottom: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .header p {
+            font-size: 1.2rem;
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+        .badges {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+
+        .badge {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: transform 0.3s ease;
+        }
+
+        .badge:hover {
+            transform: translateY(-2px);
+        }
+
+        .section {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+        }
+
+        .section h2 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+            color: #333;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .section h2 i {
+            color: #667eea;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-top: 30px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border-left: 5px solid #667eea;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+        }
+
+        .card h3 {
+            font-size: 1.3rem;
+            margin-bottom: 15px;
+            color: #333;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .card h3 i {
+            color: #667eea;
+        }
+
+        .card p {
+            color: #666;
+            margin-bottom: 15px;
+        }
+
+        .card ul {
+            list-style: none;
+            margin-left: 20px;
+        }
+
+        .card ul li {
+            margin-bottom: 8px;
+            position: relative;
+        }
+
+        .card ul li:before {
+            content: "→";
+            color: #667eea;
+            position: absolute;
+            left: -20px;
+        }
+
+        .btn {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 12px 25px;
+            border-radius: 25px;
+            text-decoration: none;
+            transition: transform 0.3s ease;
+            margin-top: 15px;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+        }
+
+        .results-table {
+            overflow-x: auto;
+            margin-top: 20px;
+        }
+
+        .results-table table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        .results-table th,
+        .results-table td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+
+        .results-table th {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+        }
+
+        .results-table tr:hover {
+            background: #f8f9ff;
+        }
+
+        .authors {
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .authors h3 {
+            margin-bottom: 15px;
+            color: #333;
+        }
+
+        .citation {
+            background: #f8f9ff;
+            border-left: 5px solid #667eea;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 5px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 30px;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            margin-top: 30px;
+            color: white;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .header p {
+                font-size: 1rem;
+            }
+            
+            .badges {
+                justify-content: center;
+            }
+            
+            .grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header Section -->
+        <div class="header">
+            <h1>🔍 Comparative Analysis for Aspect-Based Sentiment Analysis</h1>
+            <p>A comprehensive study evaluating Large Language Models (LLMs) and Traditional Models for ABSA</p>
+            
+            <div class="badges">
+                <a href="#" class="badge">
+                    <i class="fab fa-python"></i> Python 3.8+
+                </a>
+                <a href="#" class="badge">
+                    <i class="fas fa-brain"></i> PyTorch
+                </a>
+                <a href="#" class="badge">
+                    <i class="fas fa-robot"></i> Transformers
+                </a>
+                <a href="https://doi.org/10.1109/ACCESS.2024.3386969" class="badge">
+                    <i class="fas fa-external-link-alt"></i> IEEE Access
+                </a>
+            </div>
+        </div>
+
+        <!-- Overview Section -->
+        <div class="section">
+            <h2><i class="fas fa-info-circle"></i> Overview</h2>
+            <p>This repository contains the official code, documentation, and implementation for the research paper titled "Comparative Analysis of Large Language Models (LLMs) and Traditional Models for Aspect-Based Sentiment Analysis (ABSA)." The study evaluates and contrasts the performance of LLMs like Flan-T5 and DeBERTa with traditional models like LSTM in the context of ABSA.</p>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3><i class="fas fa-target"></i> Research Objectives</h3>
+                    <p>Systematic comparison of modern LLMs vs traditional models for ABSA across multiple domains and datasets.</p>
+                    <ul>
+                        <li>Fine-tuned LLMs vs LSTM models</li>
+                        <li>Prompt-engineering effectiveness</li>
+                        <li>Cross-domain performance analysis</li>
+                        <li>Computational efficiency trade-offs</li>
+                    </ul>
+                </div>
+                
+                <div class="card">
+                    <h3><i class="fas fa-trophy"></i> Key Contributions</h3>
+                    <p>Novel insights into ABSA model performance and practical implementation guidelines.</p>
+                    <ul>
+                        <li>First systematic LLM vs traditional comparison</li>
+                        <li>Multi-domain evaluation framework</li>
+                        <li>Dual approach analysis (fine-tuning + prompting)</li>
+                        <li>Cross-domain generalization study</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Models Section -->
+        <div class="section">
+            <h2><i class="fas fa-cogs"></i> Model Architectures</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3><i class="fas fa-brain"></i> Large Language Models</h3>
+                    <ul>
+                        <li><strong>Flan-T5:</strong> 248M parameters, instruction-following</li>
+                        <li><strong>DeBERTa:</strong> 140M parameters, disentangled attention</li>
+                        <li><strong>BART:</strong> 140M parameters, seq2seq architecture</li>
+                        <li><strong>GPT-3.5/4:</strong> 175B+ parameters, prompt-engineering</li>
+                    </ul>
+                </div>
+                
+                <div class="card">
+                    <h3><i class="fas fa-layer-group"></i> Traditional Models</h3>
+                    <ul>
+                        <li><strong>BiLSTM:</strong> Bidirectional LSTM with attention</li>
+                        <li><strong>LSTM Variants:</strong> Standard and attention-based</li>
+                        <li><strong>Cross-Domain LSTM:</strong> Domain adaptation models</li>
+                        <li><strong>Custom Architectures:</strong> ABSA-specific designs</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Datasets Section -->
+        <div class="section">
+            <h2><i class="fas fa-database"></i> Datasets</h2>
+            
+            <div class="results-table">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Dataset</th>
+                            <th>Domain</th>
+                            <th>Samples</th>
+                            <th>Aspects</th>
+                            <th>Classes</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>SemEval-2016</strong></td>
+                            <td>Restaurants</td>
+                            <td>2,000</td>
+                            <td>Multiple</td>
+                            <td>3</td>
+                        </tr>
+                        <tr>
+                            <td><strong>MAMS</strong></td>
+                            <td>Restaurants</td>
+                            <td>11,186</td>
+                            <td>Multiple</td>
+                            <td>3</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Sentihood</strong></td>
+                            <td>Location</td>
+                            <td>5,215</td>
+                            <td>12</td>
+                            <td>3</td>
+                        </tr>
+                        <tr>
+                            <td><strong>DOTSA</strong></td>
+                            <td>Multi-domain</td>
+                            <td>27,849</td>
+                            <td>Various</td>
+                            <td>3</td>
+                        </tr>
+                        <tr>
+                            <td><strong>YASO</strong></td>
+                            <td>Restaurants</td>
+                            <td>2,215</td>
+                            <td>Multiple</td>
+                            <td>3</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Twitter</strong></td>
+                            <td>Social Media</td>
+                            <td>6,248</td>
+                            <td>Various</td>
+                            <td>3</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Code and Results Section -->
+        <div class="section">
+            <h2><i class="fas fa-code"></i> Code and Results</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3><i class="fas fa-robot"></i> LLM Implementation</h3>
+                    <p>Large Language Model experiments including GPT, BARD, and BART implementations.</p>
+                    <a href="Codes%20and%20results_LLM/" class="btn">
+                        <i class="fas fa-folder-open"></i> Explore LLM Codes
+                    </a>
+                </div>
+                
+                <div class="card">
+                    <h3><i class="fas fa-layer-group"></i> LSTM Models</h3>
+                    <p>Traditional LSTM implementations for ACSA and ATSA tasks with cross-domain analysis.</p>
+                    <a href="Codes%20and%20results_LSTM/" class="btn">
+                        <i class="fas fa-folder-open"></i> Explore LSTM Codes
+                    </a>
+                </div>
+                
+                <div class="card">
+                    <h3><i class="fas fa-fire"></i> Flan-T5 Models</h3>
+                    <p>Fine-tuning experiments and multi-dataset analysis using Flan-T5 architecture.</p>
+                    <a href="Codes%20and%20results_flan_t5/" class="btn">
+                        <i class="fas fa-folder-open"></i> Explore Flan-T5 Codes
+                    </a>
+                </div>
+                
+                <div class="card">
+                    <h3><i class="fas fa-brain"></i> DeBERTa Models</h3>
+                    <p>DeBERTa implementation with aspect-specific fine-tuning and comprehensive analysis.</p>
+                    <a href="codes%20and%20results_deberta/" class="btn">
+                        <i class="fas fa-folder-open"></i> Explore DeBERTa Codes
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Performance Analysis Section -->
+        <div class="section">
+            <h2><i class="fas fa-chart-line"></i> Performance Analysis</h2>
+            <p>Comprehensive performance metrics, visualizations, and comparative analysis across all models and datasets.</p>
+            
+            <div class="card">
+                <h3><i class="fas fa-analytics"></i> Key Findings</h3>
+                <ul>
+                    <li>LLMs consistently outperform traditional LSTM models</li>
+                    <li>Flan-T5 shows superior cross-domain generalization</li>
+                    <li>DeBERTa achieves best fine-grained sentiment classification</li>
+                    <li>Traditional models offer faster inference with accuracy trade-offs</li>
+                </ul>
+                <a href="Results%20and%20performance%20analysis/" class="btn">
+                    <i class="fas fa-chart-bar"></i> View Detailed Results
+                </a>
+            </div>
+        </div>
+
+        <!-- Citation Section -->
+        <div class="section">
+            <h2><i class="fas fa-quote-left"></i> Citation</h2>
+            <p>If you use this code or findings in your research, please cite our paper:</p>
+            
+            <div class="citation">
+Mughal, Nimra, et al. "Comparative Analysis of Deep Natural Networks and Large Language Models for Aspect-Based Sentiment Analysis." IEEE Access (2024).
+DOI: https://doi.org/10.1109/ACCESS.2024.3386969
+            </div>
+            
+            <div class="authors">
+                <h3>Authors</h3>
+                <p>Nimra Mughal and collaborators</p>
+                <p><strong>Institution:</strong> Pakistan</p>
+                <p><strong>Journal:</strong> IEEE Access (2024)</p>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p><strong>Acknowledgements</strong></p>
+            <p>This work was supported by the National Research Program for Universities (NRPU), Higher Education Commission, Pakistan under Project Ref No. 20-14457/NRPU/R&D/HEC/2021-2020.</p>
+            <p style="margin-top: 20px;">
+                <i class="fas fa-heart" style="color: #ff6b6b;"></i> 
+                Made with passion for advancing ABSA research
+            </p>
+        </div>
+    </div>
+
+    <script>
+        // Smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // Add animation on scroll
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach((entry) => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        });
+
+        document.querySelectorAll('.section, .card').forEach((el) => {
+            el.style.opacity = '0';
+            el.style.transform = 'translateY(20px)';
+            el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+            observer.observe(el);
+        });
+    </script>
+</body>
+</html>
